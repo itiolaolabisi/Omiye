@@ -1,0 +1,2 @@
+﻿Model,Accuracy,Macro Precision,Macro Recall,Macro F1,Supare Precision,Supare Recall,Supare F1,Average Inference Time,Valid Predictions,Failed Predictions
+Omiye,0.9887640449438202,0.9939024390243902,0.9852941176470589,0.989337822671156,0.975609756097561,1.0,0.9876543209876543,0.007034674159962726,89,0
