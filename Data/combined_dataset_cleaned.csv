@@ -1,0 +1,890 @@
+﻿Tokens,labels
+"['kàrí', 'bọ́ni', 'wòó', 'ṣi', 'yáà', 'tọ́jú', 'alẹ̀', 'ke', 'é', 'má', 'parun']",Supare
+"['ṣó', 'ò', 'mọ̀', 'pé', 'ó', 'kọn', 'dandan', 'kí', 'wo', 'lo', 'ajínlẹ̀', 'késo', 'alẹ̀', 'yá', 'fùn']",Supare
+"['ṣalẹ̀', 'yì', 'san', 'hún', 'gbígbẹ̀n', 'kókò']",Supare
+"['è', 'sú', 'wéè', 'mẹ́ran', 'ẹn', 'hún']",Supare
+"['ṣọ̀họn', 'irúgbẹ̀n', 'bẹ́ẹ̀ní', 'í', 'fẹ́', 'ọmi', 'yóò', 'pọ̀', 'ke', 'ṣí', 'yáà', 'gbó']",Supare
+"['ọ̀nà', 'sá', 'ì', 'lò', 'yà', 'í', 'hún', 'kojú', 'ọ̀họn', 'kòkòrò', 'ajẹnirun', 'nóko', 'wa', 'á']",Supare
+"['ṣó', 'ò', 'rẹ́fọ̀ọ́', 'nọ́jà', 'ùgbà', 'ò', 'yú', 'níjọ́sí']",Supare
+"['kéè', 'ùdín', 'yà', 'hún', 'í', 'gbáko', 'kabé', 'yá', 'dákoó']",Supare
+"['ṣó', 'ò', 'mọ̀', 'pé', 'agribusiness', 'ká', 'di', 'òwò', 'yòó', 'gbòrò', 'níbé']",Supare
+"['kéè', 'ùdín', 'yẹ̀ẹ́', 'hun', 'ra', 'ẹ̀rọ', 'alábọ́dé', 'rẹ̀n', 'sálẹ̀']",Supare
+"['ìlú', 'ọni', 'sọ́', 'ì', 'ti', 'ṣàjọ̀dún', 'àgbẹ̀', 'ní', 'kete', 'ọdún']",Supare
+"['kàrí', 'bọ́ni', 'ọ̀họn', 'àgbẹ̀', 'ṣí', 'yáà', 'mójútó', 'uhun', 'ọ̀gbìn', 'han', 'kójò', 'bé', 'máà', 'tètè', 'rọ̀ọ́']",Supare
+"['kọ́', 'í', 'pe', 'kiní', 'wòó', 'rà', 'ijọ́', 'rẹ̀n-ẹ́n']",Supare
+"['èlù', 'ọmọ', 'ságùntàn', 'ẹ́', 'bí']",Supare
+"['ṣẹkà', 'wòó', 'gbẹ̀', 'néṣìín', 'tètè', 'fù']",Supare
+"['ṣọrọ̀', 'ajé', 'ùlú', 'wa', 'dá', 'nórii', 'ọni', 'yòó', 'bá', 'núfẹ̀ẹ́', 'uṣẹ́', 'ọwọ́', 'ẹ̀', 'gan-an']",Supare
+"['kàrí', 'bi', 'ẹ̀', 'í', 'rèé']",Supare
+"['ṣó', 'ò', 'kọn', 'dandan', 'kọ́mọ', 'yorùbá', 'mọ', 'bọ́ni', 'yọ̀', 'ṣi', 'í', 'tọ́jú', 'adìyẹ', 'ẹ́']",Supare
+"['kéè', 'gbé', 'kètè', 'oko', 'yọ̀ọ́', 'ṣẹ̀', 'wà', 'àná', 'gbọ̀nrè', 'é']",Supare
+"['urúu', 'ẹ̀ran', 'un', 'sẹ́', 'í', 'sẹ̀n-ẹ́n']",Supare
+"['ùrúu', 'ọ̀nà', 'sáà', 'yá', 'lò', 'náti', 'mú', 'kálẹ̀', 'wa', 'má', 'ṣá']",Supare
+"['ṣó', 'ò', 'mọ', 'bọ́', 'ṣí', 'tọ́jú', 'adìyẹ', 'àti', 'kùúkú']",Supare
+"['ṣó', 'ò', 'gbẹlá', 'nígbà', 'yù', 'wó', 'yúko', 'níjọ̀sí']",Supare
+"['ṣojojúmọ́', 'nùwọ', 'àti', 'ọ̀họn', 'ọmọ', 'ẹ', 'í', 'yé', 'wo', 'tòlótòló', 'yẹn-ẹ̀n']",Supare
+"['ṣiba', 'ẹ', 'kọ́', 'yẹn', 'bọ́ni', 'yọ̀', 'ṣí', 'í', 'dáko', 'ìgbà', 'yẹ̀', 'ní', 'kékeé']",Supare
+"['ṣi', 'bọ́ni', 'yọ̀', 'ṣìí', 'gbẹ', 'hun', 'náyé', 'atíjọ́', 'yàtọ̀', 'sí', 'bọ́ni', 'yọ̀', 'ṣií', 'gbẹ', 'hun', 'náyé', 'òde', 'òní']",Supare
+"['sẹ̀', 'ẹ́', 'yú', 'oko', 'náàná', 'ṣẹ̀', 'ẹ́', 'wú', 'iíjẹ', 'yẹ̀ẹ́', 'yàá', 'hun', 'gúnyán', 'kẹ́ẹ̀', 'bá', 'délí', 'àmọ́']",Supare
+"['ṣẹ̀', 'ẹ́', 'kẹ́rà', 'bórí', 'ọrọ̀n', 'ìgbà', 'yẹ̀ẹ́', 'gbẹ', 'kókòò', 'tán']",Supare
+"['ṣiye', 'ẹ', 'mú', 'ẹ́ẹ́rà', 'dóngóyárò', 'àti', 'tíì', 'àti', 'mọ̀ríngà', 'ságbo', 'náànọ́n']",Supare
+"['kà', 'í', 'bo', 'yọ̀ọ̀', 'tẹ̀', 'í', 'balẹ̀', 'kọ́ọ̀', 'bé', 'yá', 'gbẹ', 'pákí']",Supare
+"['ṣásìkò', 'yóò', 'san', 'àti', 'gbẹ', 'ẹkà', 'nà', 'wàá', 'ní']",Supare
+"['kẹ́ẹ̀', 'hun', 'mọ́tò', 'rọjà', 'nọ́ọ̀sẹ̀', 'yòó', 'kọjá']",Supare
+"['kú', 'wè', 'ríi', 'nálẹ̀', 'ìgbà', 'yì', 'wè', 'í', 'wa', 'ìsẹ́n', 'rẹ̀n']",Supare
+"['ṣùroǹbó', 'náà', 'yùn']",Supare
+"['ọ̀họn', 'ọni', 'síjọba', 'ìpínlẹ̀', 'ṣètò', 'ìdíje', 'hún']",Supare
+"['káà', 'gbúdọ̀', 'nẹ́', 'káa', 'ṣí', 'yáa', 'núùnjẹ́', 'yòó', 'dáa']",Supare
+"['ṣọ̀họn', 'yèé', 'ta', 'ajínlẹ̀', 'mọ', 'ìyín', 'yòó', 'san', 'hun', 'oríṣíríṣí', 'ohun', 'ọ̀gbìn']",Supare
+"['kée', 'ìyàtọ̀', 'nẹ́ẹ̀rín', 'ajínlẹ̀', 'àti', 'apòpò', 'ó']",Supare
+"['ibo', 'sí', 'táyé', 'go', 'ìgbà', 'yè', 'í', 'rọjà']",Supare
+"['ṣọ̀họn', 'àgbàlígbà', 'ye', 'níbẹ̀', 'né', 'kọ́ni', 'bọ́ni', 'yọ̀', 'ṣí', 'yáà', 'lo', 'alẹ̀', 'lúkàlúkà']",Supare
+"['ẹlẹ́rọ', 'nílí', 'ìgbà', 'yòó', 'yá', 'lọ', 'pákí', 'nẹ́rọ', 'àná-àn']",Supare
+"['ṣẹ̀rọ', 'yọ̀n', 'hun', 'í', 'lọ', 'ita', 'yàtọ̀', 'sí', 'ìyí', 'yọ̀ọ̀', 'hun', 'í', 'lọ', 'pákí']",Supare
+"['kéè', 'ọ̀nà', 'yọni', 'yáà', 'gò', 'kọ́ni', 'bé', 'yá', 'tálẹ̀']",Supare
+"['káà', 'hun', 'í', 'wako', 'nọ́nà', 'ìbílẹ̀', 'ẹ́']",Supare
+"['kọ́ọ̀', 'hun', 'í', 'wako', 'nọ́nà', 'ìgbàlódé']",Supare
+"['ṣọ́ni', 'yáà', 'rí', 'ìrànlọ́wọ́', 'gbà', 'nọ́dọ̀', 'ìjọba', 'kée', 'bé', 'á', 'gbẹká']",Supare
+"['ṣọjà', 'ni', 'adémilúkà', 'ṣi', 'ra', 'kete', 'èso', 'yòó', 'gbẹ́', 'ní']",Supare
+"['è', 'sé', 'yáà', 'ṣàlàyé', 'hún', 'mi', 'bọ́ni', 'ṣi', 'yáà', 'ṣe', 'un', 'ùnjẹ', 'họ́nhọn', 'àgbàlígbà', 'nókò']",Supare
+"['ṣalákọyìn', 'wá', 'níjẹ̀ta']",Supare
+"['kée', 'ùdín', 'ọ̀họn', 'àgbẹ̀', 'kọ̀ọ̀kàn', 'má', 'mọ̀', 'nípa', 'pakopako', 'yòó', 'dáa', 'hún', 'oko', 'wọn-ọ́n']",Supare
+"['ṣiye', 'aìna', 'í', 'rọjà', 'ọ̀la']",Supare
+"['ṣàwa', 'ọmọdé', 'í', 'ran', 'ọ̀họn', 'òbí', 'ọwọ́', 'násìkò', 'ìsinmi']",Supare
+"['kú', 'wè', 'nídì', 'àti', 'ríi', 'dájú', 'pé', 'wòó', 'bí', 'ọ́n', 'ò', 'bá', 'yọ́jàá']",Supare
+"['kàrí', 'bi', 'yẹ̀ẹ́', 'kẹ́rùn', 'rẹ̀', 'sí']",Supare
+"['ṣòbúkọ', 'náà', 'í', 'rùn-ún']",Supare
+"['kéè', 'wọ́pọ̀', 'nánà', 'òkè', 'ọ̀kà']",Supare
+"['kí', 'mì', 'hun', 'ánkọ́rọ́', 'ká', 'nínọgbà']",Supare
+"['ọ̀họn', 'ọni', 'sé', 'ì', 'ṣosu', 'nẹ́yìnkùlí']",Supare
+"['mìí', 'wá', 'ni', 'yèé', 'sẹn', 'ẹlẹ́dẹ̀', 'ṣẹ̀', 'ṣì', 'í', 'sẹn', 'ẹlẹ́dẹ̀', 'kọ']",Supare
+"['ulí', 'ọni', 'sí', 'tọ́lá', 'yá', 'ra', 'gàrí']",Supare
+"['ṣìyá', 'yèé', 'bá', 'wa', 'í', 'dẹ́n', 'gàrí', 'wá', 'òórọ̀', 'nìí']",Supare
+"['ṣadébáyọ̀', 'hún', 'ewó', 'ránṣẹ́', 'pẹ̀lú', 'Opay']",Supare
+"['wò', 'ó', 'ká', 'gbìyànjú', 'Palmpay', 'kọ́ọ̀']",Supare
+"['ṣọ́ni', 'yáà', 'hún', 'ewó', 'ránṣé', 'pẹ̀lú', 'Kuda', 'ná', 'ì', 'sí', 'ìdẹ̀wọ̀', 'kànkàn']",Supare
+"['kéè', 'ápù', 'mìí', 'yá', 'kọ́', 'bọ́ni', 'ọ̀', 'ṣìí', 'lo', 'hún', 'ìṣòwò']",Supare
+"['wòó', 'ká', 'gbọ́', 'bẹ́ni', 'ọ̀n', 'ṣíí', 'yáwó', 'ní', 'ilé', 'ìfowópamọ́', 'wa']",Supare
+"['ewó', 'epo', 'ká', 'họ́n', 'nú', 'kà', 'rí', 'bi', 'ùlú', 'yìí', 'rèé']",Supare
+"['ṣọni', 'mìí', 'báfọ̀', 'ni', 'Zenith', 'bánkì', 'fọ̀', 'í', 'pé', 'ọ̀', 'í', 'mú', 'lóònù', 'hún', 'ilé-iṣẹ́', 'kékèké', 'ọ́wọ́']",Supare
+"['ṣewó', 'oṣù', 'mi', 'ká', 'wọlí-ìn']",Supare
+"['kàrí', 'ibo', 'mìí', 'ṣi', 'yáà', 'bẹ̀rẹ̀', 'ìdókowò']",Supare
+"['kí', 'mì', 'rà', 'nẹ́dínwó', 'nọ́jà', 'yòó', 'kọjá']",Supare
+"['ṣọ̀-ọ́n', 'bú', 'méwó', 'gáàsì', 'níbi', 'à', 'ṣi', 'í', 'ra', 'a', 'rẹ̀n']",Supare
+"['èyé', 'bàsírà', 'kéè', 'ùdín', 'ewó', 'epo', 'ká', 'dè', 'họ́n', 'nù', 'báì']",Supare
+"['ṣewó', 'yìí', 'mí', 'yá', 'dá', 'hún', 'àjọ', 'oṣù', 'yìí', 'pọ̀nù']",Supare
+"['ijọ́', 'ní', 'sú', 'wéè', 'gbewó', 'ní', 'bánkì']",Supare
+"['ṣì', 'mí', 'rí', 'àtẹ̀jíṣẹ́', 'kàn', 'nórí', 'fóònù', 'náti', 'ọdọ̀ọ', 'GTbánkì', 'pé', 'ọ̀n', 'ká', 'mú', 'lóónù', 'mìí', 'bèrè', 'hún', 'huń', 'mi']",Supare
+"['ṣò', 'ó', 'mọ', 'bọ́ni', 'ọ̀', 'ṣi', 'í', 'lo', 'MoneyGram', 'ati', 'fewó', 'ránṣẹ́', 'sókè', 'òkun']",Supare
+"['kó', 'oṣìṣẹ́', 'bánkì', 'náà', 'fọ̀', 'hàn', 'mi', 'nípa', 'ọ̀họn', 'ànfàní', 'rẹ̀n']",Supare
+"['kí', 'iye', 'mi', 'fọ̀', 'hún', 'mi', 'nípa', 'ewó', 'yọ̀ọ́', 'bá', 'mú', 'í', 'mi']",Supare
+"['ṣẹ̀mí', 'mi', 'fọ̀', 'hàn', 'mi', 'péwó', 'epo', 'yòó', 'gbéwónórí', 'é', 'walẹ̀', 'ná', 'ì', 'pẹ́']",Supare
+"['kée', 'kete', 'ọni', 'í', 'wá', 'kọ́ni', 'yá', 'rayè', 'kéwó', 'jọ', 'ọ́']",Supare
+"['ṣi', 'kete', 'ìgbà', 'iye', 'mi', 'bá', 'yọ́jà', 'né', 'í', 'nọ́jà']",Supare
+"['wòó', 'yáà', 'rànmi', 'ọwọ́', 'pẹ̀lú', 'ewó', 'àjọ́', 'kọ']",Supare
+"['kí', 'mì', 'rí', 'mí', 'ṣi', 'mọ̀', 'pé', 'ewó', 'wa', 'ká', 'pàdánù', 'iye']",Supare
+"['yàtò', 'sí', 'kọ́ni', 'a', 'kéwó', 'pámọ', 'sí', 'bánkì', 'déédé', 'kó', 'dè', 'yẹ', 'kọ́ni', 'ka', 'ṣe', 'é']",Supare
+"['ṣiba', 'mi', 'yú', 'ọ́físì', 'ọ̀họn', 'ìnṣọ́ránsì', 'ní', 'oṣù', 'ṣẹẹrẹ']",Supare
+"['ọjọ́', 'sú', 'wé', 'bẹ̀rẹ̀', 'èsúsú']",Supare
+"['ṣé', 'ó', 'dè', 'nídì', 'kọ́ni', 'ka', 'yú', 'bánkì', 'ṣáṣáṣá', 'kée', 'bé', 'yá', 'ṣe', 'ǹkànkàn', 'ní', 'bánkìí']",Supare
+"['ṣulí', 'ìtajà', 'mí', 'rérè', 'díẹ̀', 'nóṣù', 'yòó', 'kọjáà']",Supare
+"['ṣìjọba', 'àpapọ̀', 'fọ', 'pé', 'ewó-orí', 'á', 'gòkè', 'síì', 'ni', 'oṣù', 'ṣẹẹrẹ']",Supare
+"['è', 'sé', 'í', 'ṣe', 'ìṣúná', 'dáa', 'yèé', 'júu', 'mọ', 'bọ́ni', 'è', 'ṣì', 'néwó']",Supare
+"['ṣì', 'wó', 'mọ̀', 'pé', 'wòó', 'yáà', 'ra', 'bitcoin', 'wò', 'bá', 'lo', 'bánkì']",Supare
+"['si', 'titá', 'ọjà', 'nóri', 'ẹ̀rọ̀', 'àyélujára', 'ká', 'gbòde', 'káàkiri']",Supare
+"['ápù', 'sí', 'bọ́lájí', 'í', 'lò', 'nàti', 'ra', 'àwọn', 'kóínì', 'í']",Supare
+"['ṣi', 'ATM', 'ká', 'gbewó', 'ẹ', 'jẹ́', 'ríì']",Supare
+"['ṣì', 'mò', 'rí', 'àlátì', 'ewó', 'kàn', 'àná', 'yìi', 'míì', 'mọni', 'yòó', 'sẹ́ẹ́ndì', 'ewó', 'náàn']",Supare
+"['ṣọ̀gbẹ́ni', 'fẹ́mi', 'í', 'kọ́ni', 'nípa', 'bọ́ni', 'ṣi', 'yáà', 'ṣe', 'ìṣúná', 'ewó', 'ọni']",Supare
+"['urúu', 'Fintech', 'sé', 'è', 'yí', 'bá', 'ṣií', 'ṣàkóso', 'ewó', 'ní', 'Africa']",Supare
+"['àyẹ̀wò', 'ké', 'è', 'yẹ', 'kó', 'o', 'ṣe', 'kú', 'we', 'ṣí', 'bẹ̀rẹ̀', 'sí', 'ní', 'tírédì', 'í']",Supare
+"['kéè', 'yẹ', 'kóo', 'bèrè', 'hún', 'wò', 'bá', 'rẹrù', 'yòó', 'lálaá']",Supare
+"['ṣó', 'yùn', 'mọ́', 'mi', 'pé', 'mìí', 'rénì', 'nórí', 'ọjà', 'mìí', 'rà']",Supare
+"['ṣi', 'demíládé', 'fọ̀', 'pé', 'uhun', 'yáà', 'rí', 'bẹ́nìí', 'títí', 'doṣù', 'yèé', 'wa']",Supare
+"['ṣé', 'kọ́ni', 'ṣètò', 'hún', 'násìkò', 'ajé', 'nira', 'ṣi', 'pàtàkì']",Supare
+"['ijọ́', 'sú', 'wè', 'gbewó', 'ní', 'bánkìí']",Supare
+"['ṣò', 'ó', 'nẹ́', 'ìrírí', 'yòó', 'búru', 'pẹ̀lú', 'lílò', 'ápù', 'Mobile', 'Bank', 'hún', 'ìdóko-òwò']",Supare
+"['kéè', 'yẹ', 'kọ́ni', 'ṣe', 'é', 'núgbà', 'ajé', 'máà', 'wá']",Supare
+"['ṣilí-iṣẹ́', 'wa', 'ké', 'é', 'pinu', 'àti', 'néwó', 'sọ́họn', 'tẹkinọ́lọ́gì', 'tuntun', 'rẹ̀n', 'kusẹ́', 'yáà', 'yá']",Supare
+"['kí', 'mìí', 'á', 'bẹ̀rẹ̀', 'síí', 'tàá']",Supare
+"['ṣi', 'tádé', 'lòó', 'ijọ́sí', 'náti', 'sẹ́ǹdì', 'ewó', 'sí', 'iba', 'ẹ̀']",Supare
+"['èlú', 'ọ̀sẹ̀', 'sọ́', 'mú', 'hún', 'ọ', 'kóhun', 'déwó', 'rẹ̀n', 'pàdà']",Supare
+"['ṣó', 'ó', 'ká', 'sún', 'kete', 'ọni']",Supare
+"['ṣò', 'ó', 'réwó', 'mìí', 'hún', 'ránṣẹ́', 'sí', 'ọ']",Supare
+"['ṣì', 'mí', 'hun', 'sẹ́ẹ̀ndi', 'ewóò']",Supare
+"['ọ̀họn', 'ọni', 'sú', 'wè', 'bá', 'dúnádúràá']",Supare
+"['èlú', 'sọ́', 'í', 'ta', 'dísù', 'níyì', 'ilépo', 'Amọ̀ọ́rìn-ín']",Supare
+"['ọwọ́', 'ọni', 'sí', 'wò', 'ṣí', 'bèrè', 'èlú', 'yọ̀', 'í', 'ta', 'díṣùú']",Supare
+"['è', 'sé', 'ì', 'ṣuṣẹ́', 'níbẹ̀', 'ẹ́']",Supare
+"['uṣẹ́', 'si', 'kíkẹ́', 'í', 'ṣe', 'níbẹ̀', 'ẹ́']",Supare
+"['Wò', 'ó', 'mọ̀', 'ọ̀họn', 'òfin', 'titun', 'nípa', 'ewo-orí']",Supare
+"['ṣì', 'mí', 'gbọ́', 'nípa', 'bitcoin']",Supare
+"['wè', 'í', 'ra', 'bitcoin', 'kọ́ọ̀']",Supare
+"['sì', 'mìí', 'ṣetán', 'àti', 'darapọ̀', 'mọ́', 'ẹ̀gbẹ̀', 'àjọ', 'yè', 'í', 'ṣètò', 'béwó', 'ṣi', 'í', 'wọlí', 'ní', 'àdúgbò', 'wa']",Supare
+"['ṣọ́họn', 'yèé', 'tajà', 'nílò', 'àtìlẹ́yìn', 'díẹ̀', 'násìkò', 'yà', 'wa', 'í']",Supare
+"['ṣòó', 'yáà', 'hun', 'ewó', 'pamọ', 'hún', 'ìrìnàjò', 'kí', 'wọ̀ọ́', 'bá', 'ṣàjọ', 'hún', 'ìgbà', 'díẹ̀']",Supare
+"['wòó', 'rí', 'àwòrán', 'iye', 'ayọ̀', 'nọ́jà', 'àná-àn']",Supare
+"['míì', 'ráwòrán', 'iye-ayò', 'kèé', 'ṣe']",Supare
+"['ṣó', 'ká', 'dá', 'ewó', 'gbọ́múlé', 'láńtà', 'yòó', 'gbà', 'padàá']",Supare
+"['kó', 'ì', 'pèní', 'ewó', 'gbọ́múlé', 'láńtà', 'á']",Supare
+"['ṣọ̀họn', 'Lápó', 'í', 'yá', 'ni', 'ewó']",Supare
+"['kéè', 'hun', 'ewó', 'rẹ̀n', 'ṣe']",Supare
+"['kí', 'mì', 'gbọ', 'pé', 'ó', 'hun', 'ewó', 'rẹ̀n', 'ràá']",Supare
+"['ṣọ́ni', 'á', 'fílì', 'fọ́ọ̀mù', 'ke', 'bé', 'yá', 'gbewó', 'ní', 'káńtà']",Supare
+"['ọni', 'sí', 'mìí', 'wá', 'àtòórọ̀', 'nìí']",Supare
+"['kéè', 'intírẹ́stì', 'yèé', 'nórí', 'ewó', 'yòó', 'yá']",Supare
+"['wòó', 'ká', 'gbìyànjú', 'ẹ̀']",Supare
+"['èlú', 'sú', 'wéè', 'ra', 'góòlù', 'rẹ̀n']",Supare
+"['ṣọmọge', 'Yorùbá', 'mọ', 'í', 'pé', 'ó', 'pọndandan', 'kée', 'wọ', 'aṣọ', 'ẹbí', 'ní', 'kete', 'ayẹyẹ', 'ìbílẹ̀']",Supare
+"['ùgbà', 'í', 'délé', 'í', 'wa', 'nọ́sàn', 'rẹ̀n', 'ibo', 'sé', 'è', 'gòó']",Supare
+"['ṣi', 'délé', 'nèkọ́']",Supare
+"['kọ́ọ̀', 'ṣi', 'í', 'kọ́ni', 'ni', 'yèé', 'ṣẹ̀', 'í', 'toko', 'i', 'wa', 'á']",Supare
+"['è', 'sọ́', 'í', 'kín', 'ní', 'kàbá', 'è', 'sọ́', 'í', 'kín', 'ní', 'kèyé']",Supare
+"['kọ́', 'ṣi', 'í', 'fọ̀', 'í', 'pé', 'ọni', 'mò', 'ṣé']",Supare
+"['kọ́', 'í', 'fọ̀', 'ọ́']",Supare
+"['ọdún', 'sọ́', 'ì', 'ṣe', 'kọ́n-ọn', 'sí', 'ṣọdún', 'Ṣúpárè', 'deè']",Supare
+"['ṣọ̀', 'í', 'gbe', 'olúndolè', 'kọ', 'ṣí', 'ṣọdún', 'Ṣúpárè', 'deè']",Supare
+"['kàrí', 'ijọ́', 'ọdún', 'Ṣúpárè', 'deè', 'bọ́', 'sí', 'ọdún', 'ní', '2026']",Supare
+"['ṣọ̀', 'ọ́', 'ṣọdún', 'Ṣupárè', 'deè', 'ní', 'ọjọ́', 'kẹ́jọ', 'oṣù', 'kẹ́jọ', 'ọdún', '2026']",Supare
+"['ṣoríkì', 'í', 'kú', 'ù']",Supare
+"['ṣì', 'wọ́', 'mọ', 'oríkì', 'ulí', 'yẹn']",Supare
+"['ṣò', 'ó', 'dè', 'mọ', 'oríkì', 'ulú', 'Ṣúpáè']",Supare
+"['è', 'sé', 'e', 'ọlọ́bìnrẹnlẹ̀ẹ́', 'núlùú', 'Ṣúpáè', 'é']",Supare
+"['ṣà', 'í', 'ka', 'ewédú', 'àti', 'àmàlà', 'súǹjẹ', 'nálẹ̀', 'Yorùbá']",Supare
+"['nalẹ̀', 'Yorùbá', 'ṣó', 'san', 'kọ́ni', 'ju', 'únjẹ', 'nójú', 'oorun']",Supare
+"['kọ́', 'ọ̀', 'í', 'pọmọ', 'méjì', 'yọ̀-ọ́n', 'bá', 'bí', 'nẹ́ẹ̀kàn']",Supare
+"['kọ́', 'ọ̀', 'í', 'pọ̀mọ̀', 'yọ̀-ọ́n', 'bí', 'nẹ́yìn', 'ìbejìí']",Supare
+"['kọ́', 'ọ̀', 'ì', 'pọmọ', 'ọmọ', 'yọ̀-ọ́n', 'bí', 'tẹ̀lé', 'ìdòwú']",Supare
+"['kọ́', 'ọ̀', 'ì', 'pọmọ', 'ọmọ', 'yọ̀-ọ́n', 'bí', 'tẹ̀lé', 'àlàbá']",Supare
+"['kára', 'ọni', 'bá', 'má', 'yá', 'kọ̀', 'í', 'mú', 'hún', 'ọni', 'ọn', 'bé', 'má', 'gbé', 'e', 'yú', 'ilé-ìwòsàn-án']",Supare
+"['kọ́n', 'mú', 'nhun', 'ọ', 'ùgbà', 'ara', 'ẹ̀', 'máyàá']",Supare
+"['ṣàṣà', 'í', 'yípadà', 'kéyà', 'bágbà', 'múu']",Supare
+"['wòó', 'ká', 'gbọ́', 'orin', 'Ayo', 'Balogun', 'yòó', 'fọ̀', 'nípà', 'èdè', 'àti', 'àṣà', 'Yorùbá']",Supare
+"['ṣì', 'mó', 'mọ̀', 'pé', 'àá', 'fẹ́ràn', 'àṣà', 'wa']",Supare
+"['ṣẹ̀kọ́', 'san', 'hún', 'ọni', 'kée', 'yáà', 'dàgbà', 'dáadáa', 'á']",Supare
+"['wòó', 'fẹ́', 'kọ́n-ọn', 'ka', 'kọ́', 'èdè', 'Yorùbá', 'ní', 'ṣùkúù']",Supare
+"['kọ́họn', 'ulé-uṣẹ́', 'ẹ̀kọ́', 'yáà', 'ṣe', 'kọhún', 'gbé', 'ẹ̀kọ́', 'nárugẹ', 'ẹ́']",Supare
+"['ṣọ̀họn', 'òbí', 'mọ́mọ', 'họ́n', 'yú', 'ulí-ìwé', 'èdè', 'òyìnbó', 'náti', 'kékeé']",Supare
+"['ṣàti', 'ilí', 'nọni', 'ṣií', 'káṣà', 'àti', 'kàwé', 'ní']",Supare
+"['ṣe', 'kọ́họn', 'olùkọ́', 'ṣí', 'yá', 'kọ́ni', 'dáadáa', 'ọ̀n-ọ́n', 'nẹ', 'àti', 'núfẹ̀', 'sẹ́kọ̀ọ́']",Supare
+"['ṣùkúù', 'sí', 'wèé', 'yú']",Supare
+"['ọ́físì', 'ọni', 'sí', 'ṣọlá', 'í', 'rè', 'ọ̀laá']",Supare
+"['ibo', 'sí', 'kányin', 'í', 'yú', 'àná']",Supare
+"['kéè', 'ùdín', 'ọn', 'má', 'ṣi', 'gbà', 'kée', 'wọlí', 'sí', 'lábù', 'àwọn', 'mọm', 'sáyẹ́nsìí']",Supare
+"['ṣi', 'kọ́lá', 'múwé', 'èdè', 'gẹ̀ẹ́sì', 'ẹ̀', 'hún', 'mi', 'ìgbà', 'à', 'í', 'relí', 'àná']",Supare
+"['kú', 'wè', 'kọ́kọ́', 'ṣe', 'ìgbà', 'wó', 'wọlí', 'sí', 'JS', '1']",Supare
+"['yunifásítì', 'wo', 'nó', 'rè', 'ọ', 'àti', 'yú', 'kú', 'wèé', 'bé', 'yá', 'yú', 'yunifásítì']",Supare
+"['ọjàa', 'bo', 'síye', 'ẹ', 'ṣi', 'rá', 'bẹ́rò', 'ìwé', 'àti', 'pẹ́ẹ́nsù', 'hún', 'ọ']",Supare
+"['kọ́ọ̀', 'fọ̀', 'í', 'pé', 'kí', 'mi', 'fọ̀', 'hún', 'ìye', 'mìí']",Supare
+"['ṣọ̀họn', 'àgbàlígbà', 'yáà', 'tẹ̀síwájú', 'ní', 'ẹ̀kọ́', 'wọn', 'kọ̀n-ọ̀n', 'bá', 'lo', 'ètò', 'ayélujára']",Supare
+"['ṣẹ̀kọ́', 'yùn', 'ṣé', 'ì', 'gbọ́ni', 'débi', 'gíga', 'ṣe', 'é', 'í', 'sọni', 'dọni', 'di', 'nílá']",Supare
+"['kàrí', 'bọ́ni', 'ṣùkúù', 'yẹn', 'ṣi', 'í', 'tọ́jú', 'ọ̀họn', 'akẹ́kọ̀ọ́', 'yòó', 'mọ̀wé', 'buúkúbuúkú']",Supare
+"['ṣi', 'mínísítà', 'hún', 'ètò', 'ẹ̀kọ́', 'fọ̀', 'í', 'pé', 'ọ̀n-ọ́n', 'yá', 'bẹ̀rẹ̀', 'ètò', 'ẹ̀kọ́', 'ọ̀fẹ́', 'họ́nhọn', 'ọmọ', 'ilé-ẹ̀kọ́', 'alákọ́bẹ̀rẹ̀']",Supare
+"['ṣi', 'ṣùkúù', 'mi', 'nẹ́tò', 'yọ̀', 'hún', 'mójútó', 'ọ̀nkà', 'àti', 'ìwé']",Supare
+"['ṣí', 'kọ́ọ', 'kọ́ni', 'ní', 'ìmọ̀', 'kọ̀mpútà', 'pé', 'ni', 'náyé', 'òde-òní']",Supare
+"['ṣé', 'ó', 'yẹ', 'kí', 'ìfẹ́', 'ọ̀họn', 'àgbàlúgbà', 'àti', 'kàwé', 'dẹ́n']",Supare
+"['ṣi', 'kọ́n', '-ọn', 'ka', 'kọ́ni', 'ní', 'sílábọ́sì', 'ilẹ̀', 'òkèrè', 'san']",Supare
+"['kí', 'ìwádìí', 'hún', 'hàn', 'nípa', 'ọ̀họn', 'ọni', 'yòó', 'kẹ́kọ̀ọ́', 'dé', 'ulí-ẹ̀kọ́', 'gígà', 'náwùjọ']",Supare
+"['Ṣọ̀họn', 'olùkọ́', 'ulí-ẹ̀kọ́', 'yẹn', 'mọ̀', 'nípa', 'tẹkinọ́lọ́gì', 'nínẹ̀kọ́']",Supare
+"['kàí', 'fọ̀', 'pé', 'à', 'í', 'yá', 'ṣe', 'nágbègbè', 'wa']",Supare
+"['kée', 'ùdín', 'yò', 'hun', 'í', 'yú', 'ṣúkùú']",Supare
+"['kée', 'ùdín', 'yọ̀ọ́', 'hun', 'lé', 'ọpẹ́', 'gbọ̀nè', 'súlì']",Supare
+"['kọ́pẹ̀', 'ṣe', 'ọ̀', 'ṣi', 'le', 'é', 'padà', 'súlì']",Supare
+"['Wò', 'ó', 'mọ̀', 'pé', 'ọ̀họn', 'akẹ́kọ̀ọ́', 'í', 'kẹ́kọ̀ọ́', 'nórí', 'ayélujára']",Supare
+"['ṣó', 'yẹ', 'kọ́n-ọn', 'akẹ́kọ̀ọ́', 'kọ́', 'nípa', 'èdè', 'àti', 'àṣà', 'họn']",Supare
+"['ṣóríṣíríṣí', 'kọ́sì', 'ne', 'ní', 'yunifásítì', 'ní', 'àti', 'pe', 'ṣọ́ni', 'yà', 'kọ́', 'ìyí', 'yòó', 'bá', 'rèe']",Supare
+"['ṣètò', 'ìlànà', 'ẹ̀kọ́', 'hún', 'sáà', 'ká', 'nódèe']",Supare
+"['kàrí', 'ibi', 'yòó', 'ṣi', 'rí', 'ètò', 'ìlànà', 'ẹ̀kọ́', 'ná-àn']",Supare
+"['kí', 'mẹ́dùn', 'fẹ́', 'yàá', 'ṣe', 'é']",Supare
+"['kọ́ọ̀', 'fọ̀', 'hun', 'ìgbà', 'yòó', 'yú', 'kàféé']",Supare
+"['kóni', 'kàféè', 'náà', 'fọ̀ọ́']",Supare
+"['kí', 'wèé', 'yá', 'dà', 'nọ́jọ́', 'ọ̀la']",Supare
+"['wòó', 'yáà', 'tọ́jú', 'alẹ̀', 'kée', 'má', 'parun', 'kí', 'wòó', 'bá', 'lajínlẹ̀']",Supare
+"['míì', 'mọ̀', 'pé', 'ọ́', 'kọn', 'dandan', 'kọ́ni', 'lo', 'ajínlẹ̀', 'késo', 'alẹ̀', 'yá', 'fùn']",Supare
+"['eyò', 'alẹ̀', 'san-an', 'hún', 'gbígbẹn', 'kòkó']",Supare
+"['ìrètí', 'ni', 'mìí', 'mẹ́ran', 'mi', 'hún', 'ní']",Supare
+"['eyò', 'ọ̀họn', 'irúgbẹ̀n', 'bẹ́ẹ̀ní', 'í', 'fẹ́', 'ọmi', 'yóò', 'pọ̀', 'ke', 'ṣí', 'yáà', 'gbó']",Supare
+"['ọ̀nà', 'láíláí', 'nà', 'í', 'lò', 'ní', 'yà', 'hún', 'kojú', 'ọ̀họn', 'kòkòrò', 'ajẹnirun', 'nóko', 'wa', 'ní']",Supare
+"['ọjà', 'á', 'kún', 'hún', 'ẹ̀fọ́', 'tuntun', 'náìpẹ́']",Supare
+"['à', 'í', 'gbáko', 'kabé', 'yá', 'dáko', 'kóko', 'ráyè', 'mọ́']",Supare
+"['agribusiness', 'ká', 'di', 'òwò', 'yòó', 'gbòrò', 'níbé']",Supare
+"['ó', 'núdìí', 'yàá', 'hun', 'ra', 'ẹ̀rọ', 'alábọ́dé', 'rẹ̀n', 'sálẹ̀']",Supare
+"['kete', 'ọdún', 'nà', 'í', 'ṣe', 'àjọ̀dún', 'àgbẹ́', 'ní', 'ìlú', 'mi', 'ní']",Supare
+"['ọ̀họn', 'àgbẹ̀', 'yáà', 'mójútó', 'uhun', 'ọ̀gbìn', 'han', 'kójò', 'má', 'tètè', 'rọ̀']",Supare
+"['ajínlẹ̀', 'nà', 'í', 'pe', 'kiní', 'mìí', 'rà', 'ijọ́', 'rẹ̀n']",Supare
+"['àgùtàn', 'mi', 'bí', 'méjì', 'nóṣù', 'yòó', 'kọjá']",Supare
+"['mòó', 'gbẹ', 'ẹkà', 'néṣìín', 'àmọ́', 'éè', 'tètè', 'fù']",Supare
+"['ọrọ̀-ajé', 'ùlú', 'wa', 'dá', 'nórii', 'ọni', 'yòó', 'bá', 'núfẹ̀ẹ́', 'uṣẹ́', 'ọwọ́', 'ẹ̀', 'gan-an']",Supare
+"['à', 'í', 'rebo', 'ìdánilẹ́kọ̀ọ́', 'bọ́ni', 'ṣi', 'yá', 'lo', 'ọ̀nà', 'ìbílẹ̀', 'yà', 'hún', 'mú', 'ọjà', 'pọ̀', 'sí']",Supare
+"['yorùbá', 'gbọ́dọ̀', 'mọ', 'bọ́ni', 'yọ̀', 'ṣi', 'í', 'tọ́jú', 'adìyẹ']",Supare
+"['àgbàrá', 'ká', 'gbé', 'kete', 'oko', 'yọ̀ọ́', 'ṣẹ̀', 'wà', 'àná', 'gbọ̀nrè']",Supare
+"['à', 'í', 'sẹn', 'adìyẹ', 'à', 'í', 'sẹn', 'tòlótòló', 'à', 'í', 'sẹn', 'ẹja', 'à', 'dè', 'í', 'sẹn', 'ewúrẹ́']",Supare
+"['kà', 'bèé', 'í', 'lo', 'ọ̀nà', 'àgbẹ̀', 'ìbílẹ̀', 'á', 'yáà', 'mú', 'kálẹ̀', 'wa', 'má', 'ṣá']",Supare
+"['bẹ́ẹ̀ni', 'mìí', 'bọ́ọ̀', 'ṣí', 'tọ́jú', 'adìyẹ', 'àti', 'kùúkú', 'ẹ̀']",Supare
+"['mìí', 'yúko', 'níìjọ́sí', 'mìí', 'gbẹlá']",Supare
+"['ojoojúmọ́', 'nèmí', 'àti', 'ọ̀họn', 'ọmọ', 'mi', 'yé', 'wo', 'tòlótòló', 'wa', 'ní']",Supare
+"['ibami', 'kọ́', 'wa', 'bọ́ni', 'yọ̀', 'ṣí', 'í', 'dáko', 'ìgbà', 'mì', 'ní', 'kékeé']",Supare
+"['bọ́ni', 'yọ̀', 'ṣìí', 'gbẹ', 'hun', 'náyé', 'atíjọ́', 'yàtọ̀', 'sí', 'bọ́ni', 'yọ̀', 'ṣií', 'gbẹ', 'hun', 'náyé', 'òde', 'òní']",Supare
+"['à', 'yú', 'oko', 'náàná', 'à', 'wú', 'iíjẹ', 'yàá', 'fẹ́', 'hun', 'gúnyán', 'káà', 'bá', 'délí', 'àmọ́', 'á', 'padà', 'juyán', 'ìgbà', 'yàá', 'délí']",Supare
+"['ìgbà', 'yàá', 'gbẹ', 'kókòò', 'tán', 'àá', 'kẹ́rà', 'bórí', 'ọrọ̀n', 'náà']",Supare
+"['iye', 'mi', 'ṣàgbo', 'yọ̀ọ́', 'mú', 'ẹ́ẹ́rà', 'dóngóyárò', 'àti', 'tíì', 'àti', 'mọ̀ríngà', 'sí', 'náànọ́']",Supare
+"['kọ́ọ̀', 'bé', 'yá', 'gbẹ', 'pákí', 'odò', 'nà', 'í', 'tẹ̀', 'í', 'balẹ̀', 'ní']",Supare
+"['àsìkò', 'yóò', 'san', 'àti', 'gbẹ', 'ẹkà', 'nà', 'wàá', 'ní']",Supare
+"['à', 'hun', 'mọ́tò', 'kó', 'ọ̀gẹ̀dẹ̀', 'wa', 'yòó', 'ká', 'gbó', 'rọjà', 'nọ́ọ̀sẹ̀', 'yòó', 'kọjá']",Supare
+"['kóró', 'uṣẹn', 'mó', 'dè', 'dúdú', 'o', 'mìí', 'ríi', 'nálẹ̀', 'ìgbà', 'yì', 'mìí', 'wa', 'ìsẹ́n']",Supare
+"['ùroǹbó', 'náà', 'yùn']",Supare
+"['ìjọba', 'ìpínlẹ̀', 'ká', 'ṣètò', 'ìdíje', 'ńhọ̀nhọn', 'yèé', 'gbẹ', 'iíjẹ']",Supare
+"['káa', 'ṣí', 'yáa', 'núùnjẹ́', 'yòó', 'dáa', 'à', 'gbúdọ̀', 'nẹ́', 'irúgbìn', 'yóò', 'dáa']",Supare
+"['ọ̀họn', 'yèé', 'ta', 'ajínlẹ̀', 'mọ', 'ìyín', 'yòó', 'san', 'hun', 'oríṣíríṣí', 'ohun', 'ọ̀gbìn']",Supare
+"['ajínlẹ̀', 'é', 'mú', 'un', 'àgbẹ̀', 'í', 'dáa', 'apòpò', 'né', 'í', 'pa', 'koríko', 'ní']",Supare
+"['táyé', 'go', 'ẹ̀gbẹ́', 'sáílò', 'ílá', 'rẹ́n', 'ìgbà', 'yè', 'í', 'rọjà']",Supare
+"['ọ̀họn', 'àgbàlígbà', 'níbẹ̀', 'né', 'kọ́ni', 'bọ́ni', 'yọ̀', 'ṣí', 'yáà', 'lo', 'alẹ̀', 'lúkàlúkà']",Supare
+"['mìí', 'yá', 'lọ', 'pákí', 'nẹ́rọ', 'àná', 'àmọ́', 'ọ̀nẹ́ẹlẹ́rọ', 'sí', 'ń', 'lí']",Supare
+"['ẹ̀rọ', 'yọ̀n', 'hun', 'í', 'lọ', 'ita', 'yàtọ̀', 'sí', 'ìyí', 'yọ̀ọ̀', 'hun', 'í', 'lọ', 'pákí']",Supare
+"['ọni', 'yá', 'gbéhun', 'alágbàtà', 'kée', 'bọ́ni', 'tàa']",Supare
+"['ọkọ́', 'nà', 'hun', 'í', 'wako', 'nọ́nà', 'ìbílẹ̀', 'ní']",Supare
+"['katapílà', 'nà', 'hun', 'í', 'wako', 'nọ́nà', 'ìgbàlódé', 'ní']",Supare
+"['bẹ́ẹ̀ni', 'ọni', 'yáà', 'rí', 'ìrànlọ́wọ́', 'gbà', 'nọ́dọ̀', 'ìjọba', 'kée', 'bé', 'á', 'gbẹká']",Supare
+"['ọjà', 'ni', 'adémilúkà', 'ṣi', 'ra', 'kete', 'èso', 'yòó', 'gbẹ́', 'ní']",Supare
+"['èmi', 'mìí', 'yáà', 'ṣàlàyé', 'hún', 'ọ', 'bọ́ni', 'ṣi', 'yáà', 'ṣe', 'un', 'ùnjẹ', 'họ́nhọn', 'àgbàlígbà', 'nókò']",Supare
+"['alákọyìn', 'wá', 'níjẹ̀ta']",Supare
+"['ọ̀họn', 'àgbẹ̀', 'kọ̀ọ̀kàn', 'mọ̀', 'nípa', 'pakopako', 'yòó', 'dáa', 'hún', 'oko', 'wọn-ọ́n', 'torí', 'ọ́ọ̀', 'yúbi', 'ìdánilẹ́kọ̀ọ́']",Supare
+"['iye', 'aìna', 'í', 're', 'ọjà', 'ọ̀la']",Supare
+"['àwa', 'ọmọdé', 'í', 'ran', 'ọ̀họn', 'òbí', 'ọwọ́', 'násìkò', 'ìsinmi']",Supare
+"['ò', 'bá', 'yọjà', 'ríi', 'dájú', 'pé', 'wòó', 'bí', 'ọ́n', 'nípa', 'ọjà', 'tuntun', 'rẹ̀n']",Supare
+"['ẹ̀yìnkùlí', 'nàá', 'kẹ́rùn', 'rẹ̀n', 'sí', 'ní']",Supare
+"['òbúkọ', 'náà', 'í', 'rùn']",Supare
+"['ìjàmbà', 'ọkọ̀', 'pọ̀', 'nánà', 'ọkè', 'ọ̀kà']",Supare
+"['mìí', 'hun', 'ánkọ́rọ́', 'ká', 'kòkó', 'nínọgbà']",Supare
+"['ọláéèbúnú', 'àti', 'súnkànmí', 'í', 'ṣosu', 'nẹ́yìnkùlí']",Supare
+"['bẹ́ẹ̀ni', 'à', 'í', 'sẹn', 'ẹlẹ́dẹ̀']",Supare
+"['tọ́lá', 'yú', 'ilí', 'ọlọ́bìnrinlẹ̀', 'àná', 'ó', 'yá', 'ra', 'gàrí']",Supare
+"['ìyá', 'yèé', 'bá', 'wa', 'í', 'dẹ́n', 'gàrí', 'wá', 'òórọ̀', 'nìí']",Supare
+"['adébáyọ̀', 'hún', 'ewó', 'ránṣẹ́', 'pẹ̀lú', 'Opay']",Supare
+"['míì', 'ṣì', 'gbìyànjú', 'Palmpay', 'àmọ́', 'mìí', 'ká', 'gbọ́', 'pé', 'ó', 'rọrùn']",Supare
+"['wòó', 'yáà', 'hún', 'ewó', 'ránṣé', 'pẹ̀lú', 'Kuda', 'ná', 'ì', 'sí', 'ìdẹ̀wọ̀', 'kànkàn']",Supare
+"['mìí', 'nẹ́', 'àti', 'kọ́', 'bọ́ni', 'ọ̀', 'ṣìí', 'lo', 'ápù', 'Kuda', 'hún', 'ìṣòwò']",Supare
+"['rárá', 'mí', 'ṣì', 'gbọ́', 'bẹ́ni', 'ọ̀n', 'ṣíí', 'yáwó', 'ní', 'ilé', 'ìfowópamọ́', 'yẹn']",Supare
+"['ewó', 'epo', 'ká', 'họ́n', 'nú', 'á', 'dè', 'mọ', 'ibi', 'ùlú', 'náà', 'í', 'rè']",Supare
+"['ọni', 'mìí', 'báfọ̀', 'ni', 'Zenith', 'bánkì', 'fọ̀', 'í', 'pé', 'ọ̀', 'í', 'mú', 'lóònù', 'hún', 'ilé-iṣẹ́', 'kékèké', 'nọ́wọ́nọ́wọ́']",Supare
+"['ewó', 'oṣù', 'mi', 'ṣì', 'wọlí', 'ẹ̀', 'mú', 'í', 'mi', 'ni', 'àkókó', 'díẹ̀']",Supare
+"['ibo', 'ó', 'bá', 'rè', 'mi', 'ni', 'mìí', 'ṣi', 'yáà', 'bẹ̀rẹ̀', 'ìdókowò', 'ní']",Supare
+"['mìí', 'ra', 'ṣúgà', 'nẹ́dínwó', 'nọ́jà', 'yòó', 'kọjá']",Supare
+"['ọ̀n', 'bú', 'méwó', 'gáàsì', 'níbi', 'à', 'ṣi', 'í', 'ra', 'a', 'rẹ̀n', 'ebùrú', 'ne', 'me', 'yẹ́n-ẹ̀n', 'ní']",Supare
+"['mí', 'mọ̀', 'ùdín', 'yewó', 'epo', 'ṣí', 'họ́n', 'nù', 'báì']",Supare
+"['ewó', 'yìí', 'mí', 'yá', 'dá', 'hún', 'àjọ', 'oṣù', 'yìí', 'pọ̀nù']",Supare
+"['mì', 'yá', 'gbewó', 'ní', 'bánkì', 'àná']",Supare
+"['mìí', 'dédé', 'rí', 'àtẹ̀jíṣẹ́', 'kàn', 'nórí', 'fóònù', 'náti', 'ọdọ̀ọ', 'GTbánkì', 'pé', 'ọ̀n-ọ́n', 'ká', 'mú', 'lóónù', 'mìí', 'bèrè', 'hún', 'huń', 'mi']",Supare
+"['mìí', 'mọ', 'bọ́ni', 'ọ̀', 'ṣi', 'í', 'lo', 'MoneyGram', 'ati', 'fewó', 'ránṣẹ́', 'sókè', 'òkun']",Supare
+"['oṣìṣẹ́', 'bánkì', 'náà', 'fọ̀', 'hàn', 'mi', 'pé', 'ọ̀họn', 'ànfàní', 'rẹ̀n', 'ká', 'dálẹ̀']",Supare
+"['iye', 'mi', 'fọ̀', 'hún', 'mi', 'pé', 'kí', 'mi', 'tọ́jú', 'owó', 'yọ̀ọ́', 'bá', 'mú', 'í', 'mi', 'dáadáa']",Supare
+"['ẹ̀mí', 'mi', 'fọ̀', 'hàn', 'mi', 'péwó', 'epo', 'yòó', 'gbéwónórí', 'é', 'walẹ̀', 'ná', 'ì', 'pẹ́']",Supare
+"['kete', 'ọni', 'í', 'wá', 'bí', 'àjọ', 'ṣí', 'yáà', 'ránhọn', 'ọwọ́', 'kọ́ni', 'yá', 'rayè', 'kéwó', 'jọ']",Supare
+"['kete', 'ìgbà', 'iye', 'mi', 'bá', 'yọ́jà', 'né', 'í', 'ná', 'ọjà', 'ní']",Supare
+"['rárá', 'mábúnú', 'mí', 'ì', 'néwó']",Supare
+"['ìgbà', 'yì', 'mìí', 'rí', 'pàṣípàrọ̀', 'ewó', 'wa', 'sí', 'dọ́là', 'mìí', 'mọ̀', 'pé', 'ewó', 'wa', 'ká', 'pàdánù', 'iye']",Supare
+"['yàtò', 'sí', 'kọ́ni', 'a', 'kéwó', 'pámọ', 'sí', 'bánkì', 'déédé', 'ó', 'dè', 'yẹ', 'kọ́ni', 'ka', 'ìnfẹ́stì', 'sí', 'ọ̀họn', 'idóko-òwò', 'míì']",Supare
+"['iba', 'mi', 'yú', 'ọ́físì', 'ọ̀họn', 'ìnṣọ́ránsì', 'ní', 'oṣù', 'ṣẹẹrẹ', 'e', 'dé', 'í', 're', 'ibẹ̀', 'ọ̀la']",Supare
+"['ọjọ́', 'kíní', 'osù', 'kíní', 'ọdún', '2026', 'ni', 'mìí', 'bẹ̀rẹ̀', 'èsúsú', 'ní']",Supare
+"['é', 'dè', 'nídì', 'kọ́ni', 'ka', 'yú', 'bánkì', 'ṣáṣáṣá', 'ọni', 'yá', 'lo', 'ápù', 'bánkì', 'rẹ̀', 'hún', 'kete', 'hun', 'yè', 'bé', 'á', 'ṣe']",Supare
+"['eyò', 'ulí', 'ìtajà', 'mí', 'rérè', 'díẹ̀', 'nóṣù', 'yòó', 'kọjá']",Supare
+"['ìjọba', 'àpapọ̀', 'fọ', 'pé', 'ewó-orí', 'á', 'gòkè', 'síì', 'ni', 'oṣù', 'ṣẹẹrẹ']",Supare
+"['bí', 'táyọ̀', 'ṣe', 'í', 'ṣe', 'ìṣúná', 'dáa', 'é', 'í', 'júu', 'í', 'mọ', 'bọ́ni', 'è', 'ṣì', 'néwó']",Supare
+"['mìí', 'mọ̀', 'pé', 'mìí', 'yà', 'ra', 'bitcoin', 'mòó', 'bá', 'lo', 'bánkì']",Supare
+"['titá', 'ọjà', 'nóri', 'ẹ̀rọ̀', 'àyélujára', 'ká', 'gbodé', 'káàkiri']",Supare
+"['bọ́lájí', 'í', 'lo', 'ápù', 'Roqqu', 'nàti', 'ra', 'àwọn', 'kóínì']",Supare
+"['bẹ́ẹ̀ni', 'ATM', 'ká', 'gbéwó', 'mi', 'jẹ', 'rí']",Supare
+"['ń', 'mò', 'rí', 'àlátì', 'ewó', 'kàn', 'àná', 'míì', 'mọ', 'ọni', 'yòó', 'sẹ́ẹ́ndì', 'ewó', 'sí', 'mi']",Supare
+"['ọ̀gbẹ́ni', 'fẹ́mi', 'í', 'kọ́ni', 'nípa', 'bọ́ni', 'ṣi', 'yáà', 'ṣe', 'ìṣúná', 'ewó', 'ọni']",Supare
+"['Fintech', 'bíi', 'Flutterwave', 'ká', 'yí', 'bá', 'ṣií', 'ṣàkóso', 'ewó', 'ní', 'Africa']",Supare
+"['ṣàyẹ̀wò', 'ọjà', 'kú', 'we', 'ṣí', 'bẹ̀rẹ̀', 'sí', 'ní', 'tírédì']",Supare
+"['máà', 'gbàgbé', 'àti', 'bèrè', 'hún', 'ẹ̀díwó', 'wòó', 'bá', 'rẹrù', 'yòó', 'lála']",Supare
+"['ó', 'yùn', 'mọ́', 'mi', 'pé', 'mìí', 'rénì', 'nórí', 'ọjà', 'mìí', 'rà']",Supare
+"['demíládé', 'fọ̀', 'pé', 'uhun', 'yáà', 'rí', 'bẹ́nìí', 'títí', 'doṣù', 'yèé', 'wa']",Supare
+"['kọ́ni', 'ṣètò', 'hún', 'násìkò', 'ajé', 'nira', 'ṣe', 'pàtàkì']",Supare
+"['mìí', 'gbewó', 'ní', 'bánkì', 'nọ́jọ́', 'ajé']",Supare
+"['míi', 'nẹ́', 'ìrírí', 'yòó', 'búru', 'pẹ̀lú', 'lílò', 'ápù', 'Mobile', 'Bank', 'hún', 'ìdóko-òwò']",Supare
+"['kódà', 'kájé', 'máà', 'wá', 'wòó', 'ṣàtúpalẹ̀', 'ìṣúná', 'wa']",Supare
+"['kúṣẹ́', 'yáà', 'yá', 'ulí-iṣẹ́', 'wa', 'ké', 'pinu', 'àti', 'néwó', 'sí', 'àwọn', 'tẹkinọ́lọ́gì', 'tuntun', 'rẹ̀n']",Supare
+"['ó', 'ṣe', 'pàtàkì', 'torí', 'mìí', 'yá', 'bẹ̀rẹ̀', 'síí', 'taṣọ']",Supare
+"['tádé', 'lòó', 'ijọ́sí', 'ó', 'hun', 'sẹ́ǹdì', 'ewó', 'sí', 'iba', 'ẹ̀']",Supare
+"['à', 'ká', 'gbọ́', 'àmọ́', 'ọ̀sẹ̀', 'kàn', 'nàá', 'mú', 'hún', 'ọ', 'kóhun', 'déwó', 'rẹ̀n', 'pàdà', 'ní']",Supare
+"['ké', 'tété', 'walẹ̀', 'ní', 'o', 'ó', 'ká', 'sún', 'kete', 'ọni', 'báì']",Supare
+"['mìí', 'réwó', 'yòó', 'hun', 'ránṣé', 'ṣere', 'mi']",Supare
+"['mìí', 'hun', 'sẹ́ẹ̀ndi', 'ewó', 'é', 'fọ́ni', 'ní', 'wàhálà']",Supare
+"['ọ̀họn', 'alágbàtà', 'nì', 'mí', 'bá', 'dúnádúrà', 'ní']",Supare
+"['ẹ̀gbẹ̀wá', 'náírà', 'nà', 'í', 'ta', 'dísù', 'níyì', 'ilépo', 'Amọ̀ọ́rìn-ín', 'ní']",Supare
+"['ọwọ́', 'ṣayọ̀', 'ni', 'mìí', 'ṣí', 'wò', 'ṣí', 'bèrè', 'èlú', 'yọ̀', 'í', 'ta', 'díṣùú']",Supare
+"['ọwọ́', 'kíkẹ́', 'ni', 'mìí', 'ṣi', 'bèrè', 'ní', 'íbẹ̀', 'ne', 'ṣi', 'ṣuṣẹ́', 'ní']",Supare
+"['àkátántì', 'ni', 'kíkẹ́', 'í', 'ṣe', 'níbẹ̀', 'ni']",Supare
+"['eyò', 'mìí', 'mọ', 'ọ̀họn', 'òfin', 'titun', 'nípa', 'ewó-orí']",Supare
+"['mí', 'mọ̀', 'nípa', 'òfin', 'titun', 'àmọ', 'mìí', 'gbọ', 'í', 'pé', 'bitcoin', 'ká', 'rodò']",Supare
+"['eyò', 'mìí', 'ra', 'bitcoin', 'ó', 'dẹ̀', 'wọ́n', 'nù']",Supare
+"['mìí', 'ṣetán', 'àti', 'darapọ̀', 'mọ́', 'ẹ̀gbẹ̀', 'àjọ', 'yè', 'í', 'ṣètò', 'béwó', 'ṣi', 'í', 'wọlí', 'ní', 'àdúgbò', 'wa']",Supare
+"['ọ̀họn', 'yèé', 'tajà', 'nílò', 'àtìlẹ́yìn', 'díẹ̀', 'násìkò', 'yà', 'wa', 'yí']",Supare
+"['wòó', 'yáà', 'hun', 'ewó', 'pamọ', 'hún', 'ìrìnàjò', 'kí', 'wọ̀ọ́', 'bá', 'ṣàjọ', 'hún', 'ìgbà', 'díẹ̀']",Supare
+"['mìí', 'ráwòrán', 'iye', 'ayọ̀', 'nọ́jà', 'àná']",Supare
+"['míiì', 'mọ', 'nhun', 'iye-ayọ̀', 'se']",Supare
+"['ó', 'mò', 'gbewó', 'gbọ́múlé', 'láńtà', 'ní', 'è', 'ṣì', 'sán', 'padà']",Supare
+"['ewó', 'Lápó', 'nà', 'í', 'pè', 'ní', 'ewó', 'gbọ́múlé', 'láńtà']",Supare
+"['wéè', 'mọ', 'ǹkankàn', 'ewó', 'Lápó', 'nọ̀', 'í', 'pè', 'bẹ́ẹ̀ní', 'àwọn', 'Lápó', 'í', 'ya', 'ni', 'ewó']",Supare
+"['ó', 'hun', 'ewó', 'rẹ̀n', 'rajà']",Supare
+"['mí', 'gbọ', 'í', 'pé', 'ó', 'hun', 'ra', 'kòkó', 'àmọ', 'ewó', 'kòkó', 'já']",Supare
+"['jí', 'mi', 'fọ̀', 'án', 'ẹ', 'wàá', 'fílì', 'fọ́ọ̀mù', 'kí', 'wèé', 'bé', 'yá', 'gbewó', 'ní', 'káńtà']",Supare
+"['ó', 'mò', 'sán', 'ni', 'báyìí', 'à', 'tòórọ̀', 'ni', 'mì', 'ṣí', 'wá', 'ọmọ', 'oní', 'POS', 'ní']",Supare
+"['míì', 'rántí', 'eye', 'ìntírẹ́stì', 'ye', 'nórí', 'ewó', 'yì', 'mí', 'yá']",Supare
+"['rárá', 'mìí', 'ṣì', 'gbìyànjú', 'ẹ̀', 'wò']",Supare
+"['mílíọ̀nù', 'kàn', 'ni', 'mìí', 'góòlù', 'rẹ̀n', 'ní']",Supare
+"['ọmọge', 'Yorùbá', 'mọ', 'í', 'pé', 'ó', 'pọndandan', 'kée', 'wọ', 'aṣọ', 'ẹbí', 'ní', 'kete', 'ayẹyẹ', 'ìbílẹ̀']",Supare
+"['ùgbà', 'délé', 'í', 'wa', 'nọ́sàn', 'rẹ̀n', 'ó', 'go', 'iwájú', 'ilí', 'mi', 'kọjà', 'é', 'dẹ̀', 'kọ́n', 'nì', 'kànkàn']",Supare
+"['délé', 'é', 'nèkọ́', 'páàpáà', 'etín', 'ẹ̀', 'rán', 'nù', 'é', 'gbétín']",Supare
+"['míì', 'rántí', 'bọ́n', 'ṣìí', 'kọ́ni', 'yèé', 'ṣẹ̀', 'í', 'toko', 'i', 'wa']",Supare
+"['ọkùnrẹn', 'nà', 'í', 'kín', 'kàbá', 'ní', 'ọbìnrẹn', 'nà', 'í', 'kín', 'kèyé', 'ní']",Supare
+"['mí', 'mọ̀', 'bọ́ni', 'ọ̀', 'ṣi', 'kọ́ni', 'póṣé']",Supare
+"['ọ̀', 'í', 'fọ̀', 'í', 'pé', 'sere', 'ò', 'olúwàmi']",Supare
+"['míì', 'rántí', 'ọdún', 'yọ̀', 'í', 'ṣe', 'kọ́n-ọn', 'ṣí', 'ṣọdún', 'ṣúpárè', 'deè']",Supare
+"['ọ̀', 'í', 'gbe', 'olúndolè', 'kọ', 'ṣí', 'ṣe', 'ọdún', 'Ṣúpárè', 'deè']",Supare
+"['ọdún', 'Ṣupárè', 'deè', 'bọ́', 'sí', 'ọjọ́', 'kẹ́jọ', 'oṣù', 'ògún', 'nọdún', '2026']",Supare
+"['ọ̀', 'ṣọdún', 'Ṣupárè', 'deè', 'ní', 'ọjọ́', 'kẹ́jọ', 'oṣù', 'kẹ́jọ', 'ọdún', '2026']",Supare
+"['oríkì', 'í', 'kú', 'oríkì', 'é', 'rí', 'bíi', 'èròjà', 'yóò', 'ṣe', 'pàtàkì', 'ní', 'àṣà', 'Yorùbá']",Supare
+"['eyò', 'mìí', 'mọríkì', 'ulí', 'wa']",Supare
+"['mìí', 'mọ', 'oríkì', 'ulí', 'wa', 'mìí', 'dè', 'mọ', 'oríkì', 'ulú', 'Ṣúpáè']",Supare
+"['olórí', 'ọbìnrẹn', 'ne', 'rè', 'ní']",Supare
+"['à', 'á', 'ka', 'ewédú', 'àti', 'àmàlà', 'súǹjẹ', 'nálẹ̀', 'Yorùbá']",Supare
+"['nalẹ̀', 'Yorùbá', 'é', 'san', 'kọ́ni', 'ju', 'únjẹ', 'nójú', 'oorun', 'é', 'túmọ̀', 'sí', 'nhun', 'yèé', 'máà', 'san']",Supare
+"['ọmọ', 'méjì', 'yọ̀ọ́', 'bá', 'bí', 'nẹ́ẹ̀kàn', 'náà', 'nà', 'í', 'pè', 'ní', 'ìbejì', 'ní']",Supare
+"['ìdòwú', 'nà', 'í', 'pe', 'ìyí', 'yọ̀ọ́', 'bí', 'tẹ̀lé', 'wọn', 'ní']",Supare
+"['Àlàbá', 'nà', 'í', 'sọmọ', 'yọ̀ọ́', 'bí', 'tẹ̀lé', 'Ìdòwú', 'ní']",Supare
+"['ìdògbé', 'nà', 'í', 'sọmọ', 'yọ̀ọ́', 'bí', 'tẹ̀lé', 'Ìdòwú', 'ní']",Supare
+"['àgbo', 'nà', 'í', 'mú', 'hún', 'ọni', 'ara', 'ẹ̀', 'bé', 'má', 'yá', 'ké', 'bé', 'má', 'fẹ́', 'yú', 'ilé-ìwòsàn', 'ní']",Supare
+"['àgbo', 'nàá', 'mú', 'hún', 'mi', 'ùgbà', 'ara', 'mi', 'má', 'yàá']",Supare
+"['àṣà', 'é', 'è', 'parun', 'e', 'kọ̀', 'í', 'yípadà', 'ní', 'kéyà', 'bágbà', 'mu']",Supare
+"['míì', 'ṣì', 'gbọ́rin', 'Ayo', 'Balogun', 'yòó', 'fọ̀', 'nípà', 'èdè', 'àti', 'àṣà', 'Yorùbá']",Supare
+"['míì', 'mọ', 'ni', 'yèé', 'jẹ́', 'bẹ́ẹ̀', 'àmọ́', 'mìí', 'mọ̀', 'pé', 'àá', 'fẹ́ràn', 'àṣà', 'wa']",Supare
+"['ẹ̀kọ́', 'san', 'hún', 'ọni', 'kée', 'yáà', 'dàgbà', 'dáadáa']",Supare
+"['eyò', 'mìí', 'fẹ́', 'kọ́n-ọn', 'ka', 'kọ', 'èdè', 'yorùbá', 'ní', 'ṣùkúu']",Supare
+"['ọ̀họn', 'ulí-uṣẹ́', 'ẹ̀kọ́', 'yáà', 'mú', 'àwọ́dù', 'hún', 'ọ̀họn', 'akẹ́kọ̀ọ́', 'yòó', 'ṣáná', 'kọhún', 'gbé', 'ẹ̀kọ́', 'nárugẹ']",Supare
+"['ọ̀pọ̀lọpọ̀', 'ọ̀họn', 'òbí', 'à', 'ti', 'kéeké', 'nà', 'ṣìí', 'mọ́mọ', 'họ́n', 'yú', 'ilé-ìwé', 'èdè', 'òyìnbó', 'ní']",Supare
+"['àti', 'ilí', 'nọni', 'ṣií', 'káṣà', 'àti', 'kàwé', 'ní']",Supare
+"['kọ́họn', 'olùkọ́', 'ṣí', 'yá', 'kọ́ni', 'dáadáa', 'ọ̀n-ọ́n', 'nẹ', 'àti', 'núfẹ̀', 'sẹ́kọ̀ọ́']",Supare
+"['òkédè', 'grammer', 'school', 'ni', 'mìí', 'yú']",Supare
+"['ṣọlá', 'í', 're', 'ọ́físì', 'ọlùkọ́', 'àgbà', 'ọ̀la']",Supare
+"['kányin', 'yú', 'lábù', 'àwọn', 'ọmọ', 'sáyẹ́nsì', 'àná', 'ọ́n', 'gbà', 'kée', 'wọlí']",Supare
+"['ọ́n', 'gbà', 'kée', 'wọlí', 'torí', 'é', 'ì', 'sọmọ', 'kílásì', 'ìmọ̀', 'sáyẹ́nsì']",Supare
+"['kọ́lá', 'múwé', 'èdè', 'gẹ̀ẹ́sì', 'ẹ̀', 'hún', 'mi', 'ìgbà', 'à', 'í', 'relí', 'àná']",Supare
+"['mí', 'gbé', 'lọ́kà', 'mi', 'náti', 'ọ̀dọ', 'kápíntà', 'lórí', 'yú', 'ṣùkúù']",Supare
+"['yunifásítì', 'ti', 'ìbàdàn', 'nó', 'rè', 'mi', 'àti', 'yú', 'kú', 'mìí', 'bé', 'yá', 'yú', 'yunifásítì', 'ní']",Supare
+"['iye', 'rá', 'bẹ́rò', 'ìwé', 'àti', 'pẹ́ẹ́nsù', 'hún', 'mi', 'náti', 'ọjà', 'ìlẹ́mu']",Supare
+"['fọ̀', 'hún', 'ìye', 'ẹ̀', 'kée', 'ra', 'aṣọ', 'ṣùkúù', 'ọ̀míẹ̀', 'hún', 'ọ̀', 'má', 'dè', 'wọ', 'ìyí', 'yòó', 'ká', 'fàya']",Supare
+"['ọ̀họn', 'àgbàlígbà', 'yáà', 'tẹ̀síwájú', 'ní', 'ẹ̀kọ́', 'wọn', 'kọ̀n-ọ̀n', 'bá', 'lo', 'ètò', 'ayélujára']",Supare
+"['ẹ̀kọ́', 'yùn', 'é', 'ì', 'gbọ́ni', 'débi', 'gíga', 'e', 'í', 'sọni', 'dọni', 'ńlá']",Supare
+"['ṣùkúù', 'wa', 'í', 'tọ́jú', 'ọ̀họn', 'akẹ́kọ̀ọ́', 'yòó', 'mọ̀wé', 'buúkúbuúkú', 'nipa', 'múmú', 'ewó', 'hún', 'họn']",Supare
+"['mínísítà', 'hún', 'ètò', 'ẹ̀kọ́', 'fọ̀', 'í', 'pé', 'ọ̀n-ọ́n', 'yá', 'bẹ̀rẹ̀', 'ètò', 'ẹ̀kọ́', 'ọ̀fẹ́', 'họ́nhọn', 'ọmọ', 'ilé-ẹ̀kọ́', 'alákọ́bẹ̀rẹ̀']",Supare
+"['ṣùkúù', 'mi', 'nẹ́', 'ètò', 'yọ̀', 'hún', 'mójútó', 'ọ̀nkà', 'àti', 'ìwé']",Supare
+"['kọ́n-ọn', 'kọ́ni', 'ní', 'ìmọ̀', 'kọ̀mpútà', 'pé', 'ni', 'náyé', 'òde-òní']",Supare
+"['é', 'yẹ', 'kí', 'ìfẹ́', 'ọ̀họn', 'àgbàlúgbà', 'àti', 'kàwé', 'dẹ́n']",Supare
+"['kọ́n', '-ọn', 'ka', 'kọ́ni', 'ní', 'sílábọ́sì', 'ilẹ̀', 'òkèrè', 'é', 'san']",Supare
+"['ìwádìí', 'hún', 'hàn', 'pé', 'ọ̀họn', 'ọni', 'yòó', 'kẹ́kọ̀ọ́', 'dé', 'ilé-ẹ̀kọ́', 'gígà', 'nó', 'ṣe', 'pàtàkì', 'náwùjọ']",Supare
+"['eyò', 'ọ̀họn', 'olùkọ́', 'ulí-ẹ̀kọ́', 'wa', 'mọ̀', 'nípa', 'tẹkinọ́lọ́gì', 'nínẹ̀kọ́']",Supare
+"['àí', 'fọ̀', 'bá', 'ṣi', 'yáà', 'pèsè', 'hún', 'ọni', 'ye', 'má', 'yáà', 'kọ', 'tàbí', 'kà', 'ní', 'agbègbè', 'wa']",Supare
+"['mìí', 'yú', 'ṣùkúù', 'kí', 'ń', 'yá', 'rayè', 'kẹ́kọ̀ọ́']",Supare
+"['ọ̀n-ọ́n', 'lé', 'ọpẹ́', 'gbọ̀nè', 'súlì', 'torí', 'é', 'ṣì', 'san', 'owó', 'ṣùkúù', 'ẹ̀']",Supare
+"['ọ̀n-ọ́n', 'le', 'ọpẹ̀', 'padà', 'súlì', 'tórí', 'pé', 'é', 'ṣerun', 'ẹ̀']",Supare
+"['eyò', 'mìí', 'mọ̀', 'pé', 'ọ̀họn', 'akẹ́kọ̀ọ́', 'í', 'kẹ́kọ̀ọ́', 'nórí', 'ayélujára']",Supare
+"['ó', 'yẹ', 'kọ́n-ọn', 'akẹ́kọ̀ọ́', 'kọ́', 'nípa', 'èdè', 'àti', 'àṣà', 'họn']",Supare
+"['oríṣíríṣí', 'kọ́sì', 'ne', 'ní', 'yunifásítì', 'wòó', 'yà', 'kọ́', 'ìyí', 'yòó', 'bá', 'rè', 'ọ']",Supare
+"['ètò', 'ìlànà', 'ẹ̀kọ́', 'hún', 'sáà', 'ká', 'nóde', 'mìí', 'ríi', 'ìjẹ́ta']",Supare
+"['mìí', 'rí', 'ètò-ìlànà', 'ẹ̀kọ́', 'rẹ̀n', 'nórí', 'pọ́tà', 'mi']",Supare
+"['mẹ́dùn', 'fẹ́', 'yàá', 'san', 'ewó', 'ṣùkúù', 'ẹ̀', 'kée', 'yáà', 'rayè', 'rẹ́gístà', 'kọ́sì', 'hún', 'sáà', 'yìí']",Supare
+"['àmọ́', 'ìgbà', 'yòó', 'dé', 'kàféè', 'ọ̀ọ́', 'fọ̀', 'hun', 'pé', 'pọ́tà', 'ká', 'kílósì']",Supare
+"['oni', 'kàféè', 'náà', 'fọ̀', 'í', 'pé', 'é', 'yà', 'sanwó', 'àyàfí', 'ó', 'bá', 'sanwó', 'èlé', 'hún', 'pípẹ́', 'sanwó']",Supare
+"['mìí', 'da', 'dókítà', 'nọ́jọ̀', 'ọ̀la']",Supare
+"['Hukumar', 'wasan', 'motsa', 'jiki', 'ta', 'duniya', 'WA', 'ta', 'cire', 'sunan', 'Shehu', 'Gusau', 'daga', 'shafinta']",Hausa
+"['Hukumar', 'ta', 'duniya', 'ta', 'dauki', 'wannan', 'matakin', 'ne', 'kwanaki', 'kadan', 'bayan', 'kammala', 'mabanbantan', 'zabukan', 'shugabancin', 'hukumar', 'AFN', 'da', 'ya', 'rabu', 'gida', 'biyu', 'kuma', 'aka', 'gudanar', 'a', 'ranar', '14', 'ga', 'watan', 'Yuni', 'inda', 'Shehu', 'Gusau', 'da', 'Tonobok', 'Okowa', 'kowanensu', 'ke', 'ikirarin', 'zama', 'zababben', 'shugaban', 'hukumar']",Hausa
+"['Haka', 'zalika', 'WA', 'ta', 'kuma', 'goge', 'sunan', 'babban', 'daraktan', 'hukumar', 'AFN', 'Siminialayi', 'Pepple', 'daga', 'shafin', 'nata']",Hausa
+"['AFN', 'ta', 'kasance', 'cikin', 'rikici', 'tun', 'daga', 'shekarar', '2019', 'bayan', 'da', 'kwamitin', 'gudanarwa', 'da', 'Gusau', 'ke', 'jagoranta', 'ya', 'bukaci', 'ma', 'aikatar', 'wasanni', 'ta', 'kasa', 'ta', 'baiwa', 'hukumar', 'damar', 'cin', 'gashin', 'kai']",Hausa
+"['Hakan', 'ne', 'dai', 'ya', 'haifar', 'da', 'dakatar', 'da', 'Gusau', 'tare', 'da', 'magoya', 'bayansa', 'daga', 'shugabancin', 'hukumar']",Hausa
+"['Tokyo', '2020', 'An', 'baiwa', 'yan', 'kallo', 'dubu', '10', 'damar', 'shiga', 'kowane', 'wasa']",Hausa
+"['Hakan', 'na', 'zuwa', 'ne', 'ta', 'cikin', 'wata', 'sanarwa', 'da', 'masu', 'shirya', 'gasar', 'suka', 'fitar', 'don', 'bayyana', 'matsayar', 'kasar', 'ta', 'Japan', 'kan', 'karbar', 'bakuncin', 'gasar', 'yayin', 'da', 'Coronavirus', 'ke', 'kara', 'kamari', 'a', 'wasu', 'kasashen', 'duniya']",Hausa
+"['Sanarwar', 'ta', 'kuma', 'ce', 'biyo', 'bayan', 'bukatar', 'masana', 'kiwon', 'lafiya', 'gudanar', 'da', 'wasannin', 'gasar', 'ba', 'tare', 'da', 'da', 'yan', 'kallo', 'ba', 'shine', 'zabi', 'mafi', 'karancin', 'hadari', 'wajen', 'yada', 'cutar', 'COVID-19']",Hausa
+"['An', 'dai', 'cimma', 'matsayar', 'baiwa', 'yan', 'kallo', 'dubu', '10', 'a', 'kasar', 'damar', 'shiga', 'kallon', 'wasan', 'yayin', 'wani', 'zama', 'da', 'kwararru', 'a', 'fanin', 'lafiya', 'na', 'kasar', 'suka', 'yi', 'da', 'masu', 'shirya', 'gasar', 'don', 'dakile', 'barazanar', 'yaduwar', 'cutar', 'Corona']",Hausa
+"['Za', 'kuma', 'a', 'fara', 'gasar', 'ne', 'a', 'ranar', '23', 'ga', 'watan', 'Yuli', 'mai', 'kamawa', 'a', 'birnin', 'Tokyo']",Hausa
+"['Messi', 'ya', 'yi', 'kunne', 'doki', 'da', 'Mascherano', 'a', 'yawan', 'wasanni', 'ga', 'Argentina']",Hausa
+"['Shi', 'dai', 'Javier', 'Mascherano', 'ya', 'bugawa', 'kasar', 'ta', 'Argentina', 'wasanni', '147', 'a', 'tarihin', 'da', 'Messi', 'ya', 'karya', 'a', 'fafatawa', 'da', 'kasar', 'ta', 'yi', 'da', 'Paraguay', 'a', 'gasar', 'Copa', 'America', 'ta', '2021']",Hausa
+"['Mascherano', 'ya', 'taya', 'babban', 'dan', 'wasan', 'Messi', 'murna', 'ta', 'kafofin', 'sada', 'zumunta']",Hausa
+"['Idan', 'har', 'mai', 'horarwa', 'Luis', 'Scaloni', 'zai', 'baiwa', 'Messi', 'damar', 'fara', 'wasa', 'a', 'mako', 'mai', 'zuwa', 'a', 'kan', 'Bolivia', 'to', 'zai', 'zama', 'dan', 'wasan', 'da', 'ya', 'fi', 'kowa', 'taka', 'leda', 'a', 'kasar', 'ta', 'Argentina', 'fiye', 'da', 'irin', 'su', 'Javier', 'Zanetti', 'da', 'Diego', 'Maradona']",Hausa
+"['A', 'yanzu', 'dai', 'kasar', 'ta', 'Argentina', 'ta', 'samu', 'nasarar', 'tsallakawa', 'zagayen', 'daf', 'da', 'na', 'kusa', 'da', 'na', 'karshe']",Hausa
+"['Sergio', 'Ramos', 'ya', 'bar', 'Real', 'Madrid', 'bayan', 'shafe', 'shekaru', '16']",Hausa
+"['Kungiyar', 'ta', 'kuma', 'ce', 'an', 'shirya', 'wa', 'Ramos', 'taron', 'bankwana', 'da', 'aka', 'gudanar', 'a', 'gaban', 'shugaban', 'kungiyar', 'Florentino', 'Perez', 'a', 'yau', 'Alhamis', '17', 'ga', 'watan', 'Yuni']",Hausa
+"['Ramos', 'mai', 'shekaru', '35', 'ya', 'sha', 'fama', 'da', 'raunika', 'tun', 'a', 'farkon', 'wannan', 'kakar', 'wasan', 'da', 'muke', 'ciki', 'lamarin', 'da', 'ya', 'sanya', 'dan', 'wasan', 'buga', 'wasanni', 'sau', 'biyar', 'kadai', 'a', 'bana']",Hausa
+"['Wasanni', '21', 'da', 'Ramos', 'ya', 'buga', 'wa', 'Madrid', 'a', 'dukkan', 'gasa', 'shi', 'ne', 'mafi', 'karanci', 'a', 'cikin', 'shekaru', '15', 'da', 'ya', 'kasance', 'a', 'kungiyar']",Hausa
+"['Yan', 'bindiga', 'sun', 'yi', 'garkuwa', 'da', 'mai', 'horas', 'da', 'Rivers', 'United']",Hausa
+"['Rahotanni', 'na', 'cewa', 'lamarin', 'ya', 'afku', 'ne', 'yayin', 'da', 'suke', 'komawa', 'gida', 'bayan', 'wasan', 'da', 'kungiyar', 'su', 'ta', 'buga', 'da', 'Adamawa', 'United', 'a', 'gasar', 'cin', 'kofin', 'kwararru', 'ta', 'kasa']",Hausa
+"['Kungiyar', 'ta', 'Rivers', 'United', 'dai', 'ta', 'fafata', 'da', 'Adamawa', 'United', 'ne', 'a', 'ranar', 'Lahadi', '13', 'ga', 'watan', 'Yunin', '2021', 'a', 'filin', 'wasa', 'na', 'Ribadu', 'Square', 'da', 'ke', 'Yola', 'a', 'jihar', 'Adamawa']",Hausa
+"['Wannan', 'dai', 'ba', 'shine', 'karo', 'na', 'farko', 'da', 'aka', 'fara', 'yin', 'garkuwa', 'da', 'yan', 'wasan', 'kwallon', 'kafa', 'da', 'masu', 'horas', 'da', 'su', 'a', 'kasar', 'nan', 'ba']",Hausa
+"['Koda', 'a', 'watan', 'Fabrairun', 'da', 'ya', 'gabata', 'ma', 'sai', 'da', 'aka', 'yi', 'garkuwa', 'da', 'direban', 'yan', 'wasan', 'kungiyar', 'kwallon', 'kafa', 'ta', 'Adamawa', 'United', 'Kabiru', 'Muhammad', 'wanda', 'saida', 'aka', 'biya', 'naira', 'Miliyan', 'daya', 'sannan', 'suka', 'sake', 'shi']",Hausa
+"['Mun', 'hana', 'cin', 'gashin', 'kai', 'ga', 'kowace', 'hukumar', 'wasanni', 'Dare']",Hausa
+"['Dare', 'ya', 'yi', 'wannan', 'gargadin', 'ne', 'yayin', 'da', 'yake', 'kaddamar', 'da', 'sabon', 'zababben', 'shugaban', 'hukumar', 'guje-guje', 'da', 'tsalle-tsalle', 'ta', 'kasa', 'AFN', 'Tonobok', 'Okowa', 'a', 'Abuja']",Hausa
+"['Ministan', 'ya', 'ce', 'baya', 'goyon', 'bayan', 'yadda', 'shugabancin', 'hukumar', 'AFN', 'ya', 'dare', 'gida', 'biyu', 'tare', 'da', 'gudanar', 'da', 'zabe', 'daban-daban', 'a', 'ranar', 'Litinin', '14', 'ga', 'watan', 'Yuni']",Hausa
+"['An', 'gudanar', 'da', 'mabanbantan', 'zabukan', 'biyu', 'a', 'Abuja', 'da', 'Birnin', 'Kebbi', 'inda', 'aka', 'zabi', 'Tonobok', 'Okowa', 'a', 'matsayin', 'shugaban', 'tsagi', 'guda', 'na', 'hukumar', 'yayin', 'da', 'a', 'daya', 'bangaren', 'kuma', 'aka', 'zabi', 'Shehu', 'Gusau']",Hausa
+"['Domin', 'gudun', 'rudani', 'babu', 'wata', 'hukumar', 'wasanni', 'da', 'aka', 'sahale', 'wa', 'cin', 'gashin', 'kanta', 'kowace', 'na', 'a', 'karkashin', 'ma', 'aikatar', 'wasanni', 'ta', 'kasa', 'inji', 'Dare']",Hausa
+"['Dare', 'ya', 'kuma', 'ce', 'Mun', 'jaddada', 'amincewar', 'mu', 'da', 'Tonobok', 'Okowa', 'a', 'matsayin', 'sabon', 'zababben', 'shugaban', 'hukumar', 'AFN', 'a', 'yanzu']",Hausa
+"['Shugabancin', 'hukumar', 'AFN', 'ya', 'dare', 'gida', 'biyu']",Hausa
+"['An', 'dai', 'gudanar', 'da', 'zaben', 'ne', 'a', 'ranar', 'Litinin', '14', 'ga', 'watan', 'Yuni', 'inda', 'Shehu', 'Gusau', 'da', 'kuma', 'Tonobok', 'Okowa', 'kowane', 'ke', 'ikirarin', 'cewa', 'shi', 'ne', 'zababben', 'shugaban', 'hukumar', 'ta', 'AFN']",Hausa
+"['Hukumar', 'ta', 'kasance', 'cikin', 'rikicin', 'shugabanci', 'tun', 'a', 'shekarar', '2019', 'sakamakon', 'yancin', 'cin', 'gashin', 'kai', 'da', 'zababben', 'shugaba', 'na', 'shekarar', '2017', 'Shehu', 'Gusau', 'ya', 'nema', 'daga', 'hannun', 'ma', 'aikatar', 'wasanni', 'ta', 'kasa']",Hausa
+"['Hakan', 'ne', 'ya', 'sanya', 'aka', 'raba', 'gari', 'tsakanin', 'shugaban', 'hukumar', 'Shehu', 'Gusau', 'da', 'mataimakinsa', 'Olamide', 'George', 'kowa', 'na', 'cewa', 'shi', 'ne', 'shugaban', 'hukumar']",Hausa
+"['An', 'dai', 'rantsar', 'da', 'shugabannin', 'bangarorin', 'biyu', 'da', 'zummar', 'kama', 'aiki']",Hausa
+"['Pillars', 'ta', 'kadu', 'kan', 'tarar', 'da', 'LMC', 'ya', 'yi', 'mata', 'Jambul']",Hausa
+"['Shugaban', 'kungiyar', 'Alhaji', 'Surajo', 'Shu', 'aibu', 'Yahya', 'Jambul', 'ne', 'ya', 'bayyana', 'hakan', 'ne', 'jim', 'kadan', 'bayan', 'da', 'ya', 'karbi', 'sakon', 'tarar', 'daga', 'LMC']",Hausa
+"['Mun', 'yi', 'matukar', 'kaduwa', 'a', 'lokacin', 'da', 'muka', 'fara', 'jin', 'rade-radin', 'an', 'ci', 'tarar', 'mu', 'kafin', 'daga', 'bisani', 'a', 'aiko', 'mana', 'da', 'takaddar', 'tarar', 'inji', 'Jambul']",Hausa
+"['Ya', 'kara', 'da', 'cewa', 'Pillars', 'bata', 'sayar', 'da', 'tikitin', 'shiga', 'filin', 'wasan', 'ga', 'kowa', 'ba', 'haka', 'kuma', 'bata', 'san', 'yadda', 'aka', 'yi', 'wadanda', 'suka', 'tayar', 'da', 'hargitsin', 'suka', 'shiga', 'cikin', 'filin', 'ba']",Hausa
+"['Jambul', 'ya', 'kuma', 'ce', 'Kasancewar', 'mu', 'masu', 'bin', 'doka', 'da', 'oda', 'zamu', 'cigaba', 'da', 'yin', 'duk', 'mai', 'yiwuwa', 'don', 'ganin', 'mun', 'ciyar', 'da', 'gasar', 'League', 'da', 'kuma', 'wasan', 'kwallon', 'kafa', 'gaba', 'amma', 'dai', 'ya', 'kamata', 'a', 'rinka', 'yin', 'adalci', 'a', 'dukkan', 'lamura', 'Ya', 'kuma', 'shawarci', 'masu', 'ruwa', 'da', 'tsaki', 'kan', 'harkokin', 'wasannin', 'da', 'su', 'yi', 'nazari', 'kan', 'abinda', 'ya', 'faru', 'a', 'lokacin', 'da', 'kungiyar', 'ta', 'Pillars', 'da', 'kuma', 'takwararta', 'ta', 'Akwa', 'United', 'ke', 'buga', 'wasan', 'don', 'samo', 'daidaito', 'game', 'da', 'kura-kuran', 'da', 'akan', 'tafka']",Hausa
+"['Kano', 'Pillars', 'za', 'ta', 'biya', 'tarar', 'sama', 'da', 'naira', 'miliyan', '7', 'LMC']",Hausa
+"['A', 'ranar', 'Lahadin', 'data', 'gabata', 'ne', '13', 'ga', 'watan', 'Yuni', 'aka', 'zargi', 'magoya', 'bayan', 'Pillars', 'da', 'tada', 'hargitsi', 'yayin', 'da', 'kungiyar', 'take', 'wasa', 'da', 'Akwa', 'United', 'a', 'cigaba', 'da', 'gasar', 'League', 'ta', 'kasa', 'a', 'jihar', 'Kaduna']",Hausa
+"['LMC', 'ta', 'ce', 'Pillars', 'za', 'ta', 'biya', 'tarar', 'naira', 'miliyan', '5', 'bisa', 'karya', 'dokar', 'dakile', 'yaduwar', 'cutar', 'COVID-19', 'sai', 'kuma', 'tarar', 'naira', 'miliyan', '2', 'da', 'dubu', 'dari', '5', 'kan', 'tayar', 'da', 'hargitsi', 'da', 'magoya', 'bayan', 'kungiyar', 'suka', 'yi', 'lamarin', 'da', 'ya', 'saka', 'aka', 'tashi', 'daga', 'wasan', 'ba', 'tare', 'da', 'an', 'kammala', 'ba']",Hausa
+"['Haka', 'zalika', 'an', 'dai', 'karkare', 'wasa', 'ne', 'da', 'safiyar', 'ranar', 'Litinin', '14', 'ga', 'watan', 'Yuni']",Hausa
+"['LMC', 'ta', 'kuma', 'yi', 'barazanar', 'cire', 'maki', '3', 'a', 'cikin', 'makin', 'da', 'Pillars', 'ta', 'samu', 'matukar', 'hakan', 'ta', 'sake', 'faruwa']",Hausa
+"['Mun', 'rushe', 'hukumar', 'gudanar', 'da', 'wasan', 'gudu', 'da', 'tsalle-tsalle', 'ta', 'Najeriya', 'Dare']",Hausa
+"['Hakan', 'na', 'kunshe', 'ta', 'cikin', 'wata', 'sanarwa', 'da', 'mai', 'taimakawa', 'ministan', 'wasanni', 'kan', 'harkokin', 'sadarwa', 'John', 'Joshua-Akanji', 'ya', 'fitar', 'a', 'yau', 'litinin', '14', 'ga', 'watan', 'Yuni']",Hausa
+"['Sanarwar', 'na', 'cewa', 'an', 'rushe', 'gudanarwar', 'hukumar', 'ne', 'sakamakon', 'karewar', 'wa', 'adin', 'mulkin', 'shugabannin']",Hausa
+"['Ministan', 'yayi', 'kira', 'ga', 'mambobin', 'hukumar', 'ta', 'AFN', 'dasu', 'ajiye', 'bambance', 'bambance', 'a', 'tsakaninsu', 'domin', 'su', 'zabi', 'shugabanni', 'nagari', 'a', 'zaben', 'da', 'zasu', 'gudanar', 'a', 'yau', '14', 'ga', 'watan', 'Yuni']",Hausa
+"['AFN', 'Crisis', 'Kowane', 'shugaban', 'tsagin', 'bangarorin', 'biyu', 'zai', 'gudanar', 'da', 'zabensa', 'da', 'ban']",Hausa
+"['Yayin', 'da', 'masu', 'ruwa', 'da', 'tsaki', 'a', 'hukumar', 'dake', 'goyon', 'bayan', 'shugaban', 'daya', 'bangaren', 'Inginiya', 'Ibrahim', 'Shehu', 'Gusau', 'za', 'su', 'gudanar', 'da', 'zabensu', 'a', 'jihar', 'Kebbi']",Hausa
+"['Haka', 'kuma', 'suma', 'daya', 'tsagin', 'bangaren', 'da', 'shugaba', 'Hon']",Hausa
+"['Olamide', 'George', 'ke', 'jagoranta', 'dake', 'samun', 'goyon', 'bayan', 'ma', 'aikatar', 'wasanni', 'ta', 'kasa', 'za', 'su', 'gudanar', 'da', 'nasu', 'zaben', 'a', 'Abuja']",Hausa
+"['A', 'kwanakin', 'baya', 'ne', 'hukumar', 'wasan', 'gudu', 'da', 'tsalle-tsalle', 'ta', 'duniya', 'tare', 'da', 'mambobin', 'hukumar', 'AFN', 'suka', 'gudanar', 'da', 'taron', 'kwanaki', 'biyu', 'don', 'yin', 'sasanci', 'tsakanin', 'bangarorin', 'biyu', 'inda', 'aka', 'cimma', 'matsayar', 'gudanar', 'da', 'zabe', 'a', 'ranar', '14', 'ga', 'watan', 'Yuni', 'a', 'yunkurin', 'kawo', 'karshen', 'rikicin']",Hausa
+"['Yanzu', 'haka', 'dai', 'masu', 'ruwa', 'da', 'tsaki', 'na', 'cigaba', 'da', 'sanya', 'ido', 'domin', 'ganin', 'yadda', 'sakamakon', 'zaben', 'guda', 'biyu', 'za', 'su', 'kasance']",Hausa
+"['CAF', 'Women', 's', 'CL', 'An', 'zabi', 'alkalan', 'wasa', '5', 'daga', 'Najeriya']",Hausa
+"['Sauran', 'jami', 'an', 'sun', 'hadar', 'da', 'Felicia', 'Okwugba', 'da', 'Yemisi', 'Akintoye', 'da', 'Friday', 'Mfon', 'da', 'kuma', 'Promise', 'Uwaeme']",Hausa
+"['Za', 'dai', 'a', 'gudanar', 'da', 'wasanni', 'daga', 'ranar', '15', 'zuwa', '30', 'ga', 'watan', 'Yulin', '2021', 'a', 'birnin', 'Abidjan', 'dake', 'kasar', 'Cote', 'd', 'Ivoire']",Hausa
+"['Kasashe', 'shida', 'da', 'za', 'su', 'fafata', 'a', 'wasannin', 'su', 'ne', 'Najeriya', 'da', 'Jamhoriyar', 'Niger', 'da', 'Cote', 'd', 'Ivoire', 'da', 'Ghana', 'da', 'Togo', 'da', 'kuma', 'Burkina', 'Faso']",Hausa
+"['Women', 'Handball', 'Jamhuriyar', 'Congo', 'ta', 'lallasa', 'Najeriya', 'a', 'gasar', 'cin', 'kofin', 'Afirka']",Hausa
+"['An', 'dai', 'gudanar', 'da', 'wasan', 'farko', 'ne', 'a', 'birnin', 'Yaounde', 'dake', 'kasar', 'Cameroon', 'a', 'ranar', 'Talata', '8', 'ga', 'watan', 'Yuni']",Hausa
+"['A', 'wasanta', 'na', 'gaba', 'Najeriya', 'za', 'ta', 'kara', 'da', 'kasar', 'Kamarun', 'a', 'gobe', 'Alhamis', '10', 'ga', 'watan', 'da', 'muke', 'ciki', 'na', 'Yuni']",Hausa
+"['Haka', 'zalika', 'wannan', 'shi', 'ne', 'karo', 'na', 'farko', 'da', 'Najeriya', 'ta', 'sake', 'fafatawa', 'a', 'gasar', 'tun', 'a', 'shekarar', '1994']",Hausa
+"['Gasar', 'da', 'aka', 'fara', 'a', 'ranar', '8', 'ga', 'watan', 'Yuni', 'za', 'a', 'karkareta', 'a', 'ranar', '18', 'ga', 'watan', 'Yuni', 'inda', 'kasashe', 'hudu', 'za', 'su', 'samu', 'tikitin', 'zuwa', 'gasar', 'cin', 'kofin', 'duniya']",Hausa
+"['Onuachu', 'ya', 'lashe', 'lambar', 'yabo', 'ta', 'takalmin', 'Ebony']",Hausa
+"['Yanzu', 'haka', 'dai', 'Onuachu', 'ya', 'na', 'taka', 'leda', 'ne', 'a', 'kungiyar', 'kwallon', 'kafa', 'ta', 'Genk', 'dake', 'kasar', 'Belgian']",Hausa
+"['Dan', 'wasan', 'mai', 'shekara', '27', 'ya', 'yi', 'nasarar', 'jefa', 'kwallo', '33', 'a', 'gasar', 'ajin', 'kwararru', 'ta', 'Belgian', 'wato', 'Pro-League', 'da', 'aka', 'kammala', 'a', 'bana']",Hausa
+"['Onuachu', 'ya', 'zama', 'dan', 'Najeriya', 'na', 'farko', 'da', 'ya', 'lashe', 'kyautar', 'bayan', 'shekaru', '25', 'da', 'Celestine', 'Babayaro', 'ya', 'taba', 'samun', 'kyautar', 'yayin', 'da', 'yake', 'buga', 'wasa', 'a', 'kungiyar', 'Anderlecht', 'a', '1996']",Hausa
+"['Hukumar', 'kwallon', 'kafa', 'ta', 'Brazil', 'ta', 'dakatar', 'da', 'shugaba', 'Rogerio', 'Caboclo']",Hausa
+"['Hukumar', 'da', 'a', 'ta', 'CBF', 'ta', 'dai', 'dakatar', 'da', 'Mr']",Hausa
+"['Caboclo', 'tsawon', 'kwanaki', '30']",Hausa
+"['Caboclo', 'da', 'laifin', 'yunkurin', 'yin', 'lalata', 'da', 'wata', 'ma', 'aikaciyar', 'hukumar', 'inda', 'ya', 'kuma', 'musanta', 'zargin', 'da', 'ake', 'yi', 'masa']",Hausa
+"['A', 'bisa', 'ka', 'idar', 'kundin', 'tsarin', 'mulkin', 'hukumar', 'wanda', 'ya', 'baiwa', 'mataimaki', 'damar', 'maye', 'gurbin', 'shugaba', 'koda', 'wani', 'abu', 'ka', 'iya', 'faruwa', 'yanzu', 'haka', 'Antonio', 'Carlos', 'zai', 'maye', 'gurbin', 'Mr']",Hausa
+"['Caboclo', 'a', 'matsayin', 'shugaban', 'hukumar']",Hausa
+"['Kano', 'Pillars', 'ta', 'doke', 'abokiyar', 'hamayya', 'Enyimba', 'a', 'gasar', 'NPFL']",Hausa
+"['Pillars', 'ta', 'yi', 'nasara', 'kan', 'Enyimba', 'a', 'wasa', 'da', 'suka', 'fafata', 'ranar', 'Lahadi', '6', 'ga', 'watan', 'Yuni', 'da', 'ci', '2-1', 'a', 'filin', 'wasa', 'na', 'Ahmadu', 'Bello', 'dake', 'nan', 'Kano']",Hausa
+"['Yan', 'wasa', 'Rabi', 'u', 'Ali', 'da', 'Ifeanyi', 'Eze', 'ne', 'suka', 'jefa', 'kwallo', 'biyu', 'a', 'ragar', 'ta', 'Enyimba']",Hausa
+"['Pillars', 'ta', 'kuma', 'samu', 'nasarar', 'buga', 'wasanni', '10', 'a', 'jere', 'ba', 'tare', 'da', 'an', 'doke', 'ta', 'ba', 'a', 'gasar']",Hausa
+"['Hukumar', 'wasan', 'gudu', 'da', 'tsalle-tsalle', 'ta', 'Najeria', 'ta', 'fitar', 'da', 'ka', 'idojin', 'zabe']",Hausa
+"['Sakataren', 'kwamitin', 'gudanar', 'zaben', 'hukumar', 'Siminialayi', 'Pepple', 'ne', 'ya', 'bayyana', 'hakan', 'ta', 'cikin', 'wata', 'sanarwa', 'da', 'ya', 'fitar']",Hausa
+"['Sanarwar', 'mai', 'dauke', 'da', 'ka', 'idojin', 'zaben', 'ta', 'ce', 'za', 'a', 'gudanar', 'da', 'zaben', 'ne', 'a', 'ranar', '14', 'ga', 'watan', 'Yunin', '2021', 'a', 'jihar', 'Kebbi']",Hausa
+"['Pepple', 'ya', 'kuma', 'ce', 'duk', 'wanda', 'ke', 'bukatar', 'tsayawa', 'takarar', 'neman', 'wata', 'kujera', 'a', 'hukumar', 'sai', 'ya', 'ziyarci', 'shafinta', 'a', 'karfar', 'Internet', 'domin', 'cike', 'fam', 'din', 'kafin', 'ranar', '12', 'ga', 'watan', 'na', 'Yuni']",Hausa
+"['Inter', 'Milan', 'ta', 'nada', 'sabon', 'mai', 'horaswa']",Hausa
+"['Inzaghi', 'mai', 'shekara', '45', 'ya', 'sanya', 'hannu', 'a', 'yarjejeniyar', 'kwantiragin', 'shekaru', 'biyu', 'da', 'kungiyar']",Hausa
+"['Inzaghi', 'dai', 'ya', 'ki', 'amincewa', 'ne', 'da', 'sabunta', 'kwantiraginsa', 'da', 'kungiyar', 'kwallon', 'kafa', 'ta', 'Lazio', 'bayan', 'karewar', 'kwantiragin', 'a', 'makon', 'jiya']",Hausa
+"['Takwas', 'daga', 'cikin', 'manyan', 'kungiyoyi', 'goma', 'dake', 'fafatawa', 'a', 'gasar', 'Serie', 'A', 'sun', 'canja', 'masu', 'horaswa', 'tun', 'a', 'karshen', 'kakar', 'wasannin', 'da', 'ta', 'gabata']",Hausa
+"['Antonio', 'Conte', 'ya', 'bar', 'Inter', 'Milan', 'ne', 'a', 'watan', 'Mayun', '2021', 'yayin', 'da', 'ya', 'rage', 'shekara', 'guda', 'kafin', 'kwantiraginsa', 'ya', 'kare']",Hausa
+"['Mun', 'shiga', 'yaki', 'da', 'yada', 'labaran', 'bogi', 'NFF']",Hausa
+"['Shugaban', 'hukumar', 'Amaju', 'Pinnick', 'ne', 'ya', 'bayyana', 'hakan', 'yayin', 'kaddamar', 'da', 'kwamitin', 'yada', 'labaran', 'hukumar', 'a', 'birnin', 'tarayya', 'Abuja']",Hausa
+"['Pinnick', 'da', 'ya', 'samu', 'wakilcin', 'mamban', 'kwamitin', 'gudunarwar', 'hukumar', 'Ibrahim', 'Gusau', 'ya', 'bukaci', 'mambobin', 'kwamitin', 'da', 'su', 'tashi', 'tsaye', 'wajen', 'yaki', 'da', 'yada', 'labaran', 'bogin']",Hausa
+"['Ya', 'kuma', 'ce', 'babban', 'yaki', 'a', 'yanzu', 'shine', 'ganin', 'an', 'kawo', 'karshe', 'yada', 'labaran', 'bogin', 'tare', 'da', 'tabbatar', 'da', 'sahihan', 'labarai', 'a', 'kafar', 'Internet']",Hausa
+"['Ƙungiyar', 'Liverpool', 'ta', 'ɗauki', 'ɗan', 'wasan', 'RB', 'Leipzig', 'Ibrahima', 'Konate']",Hausa
+"['Ƙungiyar', 'ta', 'sanar', 'da', 'labarin', 'ne', 'a', 'shafinta', 'na', 'intanet']",Hausa
+"['Dan', 'wasan', 'mai', 'shekaru', '22', 'kwantiraginsa', 'za', 'ta', 'fara', 'aiki', 'ne', 'daga', 'ranar', '1', 'ga', 'watan', 'jibi', 'na', 'Yuli']",Hausa
+"['Inyass', 'ya', 'tabbatar', 'wa', 'Muhammadu', 'Sanusi', 'na', '2', 'jagoranci', 'Ɗarikar', 'Tijjaniya', 'a', 'Najeriya']",Hausa
+"['Mai', 'magana', 'da', 'yawun', 'tsohon', 'gwamnan', 'babban', 'bankin', 'kasa', 'CBN', 'Sa', 'adatu', 'Baba', 'Ahmad', 'ce', 'ta', 'sanar', 'da', 'hakan', 'ta', 'cikin', 'wani', 'sako', 'da', 'ta', 'wallafa', 'a', 'shafinta', 'na', 'facebook', 'a', 'yau', 'litinin']",Hausa
+"['Ta', 'ce', 'shugaban', 'ɗarikar', 'Tijjaniya', 'ta', 'duniyar', 'ya', 'tabbatar', 'wa', 'Malam', 'Muhammadu', 'Sanusi', 'na', 'biyu', 'jagoranin', 'Tijjaniyar', 'ce', 'a', 'garin', 'Madina', 'Baye', 'Kaulaha', 'da', 'ke', 'kasar', 'Senegal', 'bayan', 'kammala', 'sallar', 'asham', 'a', 'jiya', 'lahadi']",Hausa
+"['Tun', 'bayan', 'rasuwar', 'tsohon', 'jagoran', 'ɗarikar', 'marigayi', 'Sheikh', 'Khalifa', 'Isyaku', 'Rabi', 'u', 'a', 'shekarar', '2018', 'ɗarikar', 'ta', 'Tijjaniya', 'ba', 'ta', 'nada', 'sabon', 'shugaba', 'ba']",Hausa
+"['Idan', 'za', 'a', 'iya', 'tunawa', 'ko', 'da', 'kakan', 'sarkin', 'na', 'goma', 'sha', 'hudu', 'wato', 'Muhammadu', 'Sanusi', 'na', 'daya', 'ya', 'rike', 'mukamin', 'na', 'jagoran', 'ɗarikar', 'Tijjaniya']",Hausa
+"['FIFA', 'ta', 'ɗage', 'wasannin', 'share', 'fagen', 'halartar', 'gasar', 'cin', 'ƙofin', 'duniya', 'ɓanbagen', 'nahiyar', 'afurka']",Hausa
+"['A', 'yanzu', 'dai', 'hukumar', 'ta', 'FIFA', 'ta', 'ce', 'za', 'ayi', 'wasanne', 'a', 'watan', 'Satumban', 'bana', 'sakamakon', 'ci', 'gaba', 'da', 'fama', 'da', 'ake', 'yi', 'da', 'cutar', 'corona']",Hausa
+"['Haka', 'zalika', 'FIFA', 'ta', 'kuma', 'bayyana', 'rashin', 'kyawun', 'filayen', 'wasanni', 'a', 'matsayin', 'daya', 'daga', 'cikin', 'dalilan', 'Bugu', 'da', 'kari', 'hukumar', 'FIFA', 'ta', 'kara', 'da', 'cewa', 'a', 'watan', 'Satumba', 'Oktoba', 'da', 'kuma', 'Nuwamba', 'za', 'a', 'fafata', 'a', 'wasanni', 'tsakanin', 'kasashen', 'nahiyar', 'da', 'ke', 'son', 'halartar', 'gasar', 'ta', 'cin', 'ƙofin', 'duniya']",Hausa
+"['A', 'fafatawa', 'da', 'kungiyoyin', 'biyu', 'wato', 'Real', 'Madrid', 'da', 'Chelsea', 'su', 'ka', 'yi', 'masu', 'hasashen', 'kwallon', 'kafa', 'da', 'dama', 'sun', 'tabka', 'muhawa', 'kan', 'dan', 'wasan', 'da', 'ya', 'fi', 'gogewa', 'a', 'cikin', 'yan', 'wasan', 'biyu']",Hausa
+"['Najeriya', 'ka', 'iya', 'rasa', 'tikitin', 'Kofin', 'Duniya', 'na', 'Rubgy', 'Martin', 'Crawford']",Hausa
+"['Crawford', 'ya', 'bayyana', 'a', 'zantawar', 'sa', 'da', 'ƴan', 'Jarida', 'a', 'harabar', 'ofishin', 'hukumar', 'ranar', 'Talata', '04', 'Mayu', '2021', 'cewa']",Hausa
+"['Ina', 'tabbatar', 'muku', 'da', 'cewar', 'hukuncin', 'Ministan', 'ya', 'karya', 'dukkan', 'ƙa', 'idojin', 'hukumar', 'Olympic', 'da', 'ta', 'Rubgy', 'ta', 'Duniya', 'na', 'hana', 'Gwamnati', 'yin', 'Katsalandan', 'a', 'harkokin', 'wasanni']",Hausa
+"['Mun', 'Kashe', 'ma', 'udan', 'kuɗi', 'kana', 'ƴan', 'wasa', 'sun', 'kashe', 'nasu', 'kuɗaɗen', 'daga', 'Amurka', 'Ingila', 'Italiya', 'duk', 'sun', 'amince', 'da', 'zuwa', 'buga', 'wasannin', 'share', 'fagen', 'shiga', 'gasar', 'tare', 'da', 'ƙwararrun', 'ƴan', 'wasan', 'mu', 'na', 'Kano', 'da', 'Legas', 'amma', 'sai', 'gashi', 'ana', 'neman', 'watsa', 'lamarin', 'wannan', 'ba', 'abu', 'ne', 'mai', 'daɗi', 'ba', 'inji', 'Crawford']",Hausa
+"['Da', 'yake', 'nasa', 'jawabin', 'Ɗan', 'Kwamitin', 'zartarwa', 'na', 'hukumar', 'kwallon', 'Rubgy', 'ta', 'kasa', 'NRFF', 'David', 'Emeana', 'ya', 'buƙaci', 'Ministan', 'da', 'ya', 'janye', 'hukuncin', 'da', 'ya', 'ɗauka', 'don', 'ci', 'gaba', 'da', 'shirye-shiryen', 'tunkarar', 'gasar']",Hausa
+"['A', 'cewar', 'sa', 'rashin', 'yin', 'hakan', 'zai', 'jawo', 'wa', 'Najeriya', 'kora', 'ko', 'dakatarwa', 'daga', 'hukumar', 'ƙwallon', 'Rubgy', 'ta', 'Duniya', 'na', 'tsawon', 'shekaru', 'huɗu', 'kamar', 'yadda', 'aka', 'taɓa', 'fuskanta', 'a', 'shekarun', 'baya']",Hausa
+"['Najeriya', 'na', 'shirye-shiryen', 'tunkarar', 'takwarorinta', 'na', 'Afirka', 'a', 'wasannin', 'share', 'fagen', 'shiga', 'gasar', 'Kofin', 'Duniya', 'da', 'za', 'gudanar', 'a', 'Ouagadougou', 'babban', 'Birnin', 'kasar', 'Burkina', 'Faso', 'da', 'tawagar', 'ta', 'zata', 'kammala', 'shiri', 'zuwa', 'ranar', '24', 'ga', 'Mayu']",Hausa
+"['Kyan', 'Hali', 'Ɗan', 'jarida', 'ya', 'mayar', 'da', 'sama', 'da', 'miliyan', 'guda', 'da', 'ya', 'tsinta']",Hausa
+"['Ɗan', 'jaridar', 'mai', 'suna', 'Abdulƙadir', 'Shehu', 'Aliyu', 'ɗan', 'asalin', 'jihar', 'Kano', 'ne', 'kuma', 'tsohon', 'ma', 'aikacin', 'Freedom', 'Radio', 'wanda', 'ya', 'ke', 'aiki', 'a', 'gidan', 'rediyon', 'Progress', 'FM', 'ya', 'yi', 'cigiyar', 'tsuntuwar', 'a', 'gidan', 'rediyo', 'inda', 'daga', 'bisani', 'aka', 'samu', 'mai', 'kuɗin']",Hausa
+"['Adadin', 'kuɗin', 'a', 'Naira', 'ya', 'kama', 'miliyan', 'ɗaya', 'da', 'dubu', 'ɗari', 'biyu', 'da', 'ashirin', 'da', 'biyar', 'da', 'ɗari', 'tara', 'da', 'tamanin', 'N1', '225', '980']",Hausa
+"['A', 'wani', 'saƙo', 'da', 'ya', 'wallafa', 'a', 'shafin', 'sa', 'na', 'Facebook', 'yayi', 'godiya', 'ga', 'Allah', 'inda', 'ya', 'bayyana', 'cewa', 'an', 'samu', 'mai', 'kuɗin', 'har', 'ma', 'ya', 'karɓi', 'abin', 'sa']",Hausa
+"['Alhamdulillah', 'Alhamdulillah', 'Bayan', 'Sanarwa', 'da', 'na', 'bayar', 'a', 'gidan', 'Radio', 'Progress', 'Gombe', 'sakamakon', 'tsintar', 'kudi', 'kimanin', 'Posted', 'by', 'Prince', 'Abdulkadir', 'Aliyu', 'Shehu', 'on', 'Thursday', 'April', '29', '2021', 'Yanzu', 'haka', 'dai', 'wannan', 'labari', 'ya', 'fara', 'ɗaukar', 'hankalin', 'jama', 'a', 'a', 'kafafen', 'sada', 'zumunta', 'ga', 'na', 'ra', 'ayoyin', 'wasu', 'daga', 'ciki']",Hausa
+"['Femi', 'Gbajabiamila', 'ya', 'ki', 'amincewa', 'a', 'kori', 'Pantami', 'daga', 'minista']",Hausa
+"['Tun', 'farko', 'dan', 'majalisar', 'daga', 'jihar', 'Delta', 'Ndidi', 'Elumelu', 'y', 'ace', 'kasancewar', 'ana', 'zargin', 'ministan', 'da', 'alaka', 'da', 'kungiyoyin', 'yan', 'ta', 'adda', 'akwai', 'bukatar', 'majalisar', 'ta', 'tursasashi', 'ya', 'sauka', 'daga', 'mukaminsa']",Hausa
+"['Sai', 'dai', 'shugaban', 'majalisar', 'Femi', 'Gbajabiamila', 'ya', 'ki', 'amincewa', 'da', 'bukatar', 'hakan']",Hausa
+"['Jognny', 'McKinstry', 'ya', 'raba', 'gari', 'da', 'kungiyar', 'kwallon', 'kafa', 'ta', 'Uganda']",Hausa
+"['McKinstry', 'ya', 'amince', 'da', 'kawo', 'karshen', 'kwantiragin', 'bayan', 'watanni', '18', 'da', 'kama', 'aiki']",Hausa
+"['A', 'wata', 'sanarwa', 'da', 'hukumar', 'kwallon', 'kafa', 'ta', 'Uganda', 'FUFA', 'ta', 'fitar', 'ta', 'mika', 'godiya', 'ga', 'McKinstry', 'kan', 'irin', 'gudunmawar', 'da', 'ya', 'baiwa', 'yan', 'wasan', 'kasar']",Hausa
+"['Rahotanni', 'na', 'cewa', 'an', 'bukaci', 'McKinstry', 'mai', 'shekaru', '35', 'da', 'ya', 'ajiye', 'aikin', 'horas', 'da', 'yan', 'wasan', 'a', 'farkon', 'watan', 'Maris', 'din', 'da', 'ya', 'gabata']",Hausa
+"['Kwamitin', 'gasar', 'Olympic', 'a', 'Najeriya', 'zai', 'baiwa', 'yan', 'jarida', 'horo']",Hausa
+"['Za', 'a', 'gudanar', 'da', 'taron', 'bitar', 'ne', 'ga', 'duk', 'dan', 'jaradar', 'da', 'ke', 'bada', 'rahotannin', 'wasanni', 'a', 'ranar', '27', 'da', '28', 'ga', 'watan', 'Afirilu', 'Shugaban', 'kwamitin', 'gasar', 'Olympic', 'ta', 'kasa', 'injiniya', 'Habu', 'Ahmad', 'Gumel', 'ya', 'ce', 'bitar', 'tazo', 'a', 'daidai', 'lokacin', 'da', 'ake', 'bukatarta', 'duba', 'da', 'yadda', 'ake', 'dab', 'da', 'fara', 'gasar', 'Olympic', 'ta', 'duniya']",Hausa
+"['Yana', 'da', 'matukar', 'mahimmanci', 'mu', 'bawa', 'yan', 'jarida', 'dake', 'bada', 'rahotannin', 'wasanni', 'horo', 'na', 'musamman', 'duba', 'da', 'saura', 'yan', 'watanni', 'kadan', 'a', 'fara', 'gasar', 'Olympic', 'ta', '2020', 'a', 'birnin', 'Tokyo', 'dake', 'kasar', 'japan', 'a', 'cewar', 'Gumel']",Hausa
+"['Ahmed', 'Musa', 'zai', 'taimaka', 'wa', 'Pillars', 'lashe', 'kofin', 'bana', 'Ganduje']",Hausa
+"['A', 'wani', 'ƙwarya-ƙwaryar', 'taro', 'na', 'masu', 'ruwa', 'da', 'tsaki', 'a', 'harkar', 'ƙwallon', 'ƙafa', 'da', 'wasanni', 'da', 'ya', 'gudana', 'ranar', 'Jumu', 'a', 'a', 'fadar', 'Gwamnatin', 'jihar', 'gwamna', 'Ganduje', 'ya', 'gabatar', 'da', 'ɗan', 'wasan', 'biyo', 'bayan', 'amincewa', 'da', 'ɗan', 'wasan', 'ya', 'yi', 'tare', 'da', 'saka', 'hannu', 'kan', 'kwantiragin', 'wakiltar', 'tawagar', 'zuwa', 'ƙarshen', 'gasar', 'kakar', 'Firimiya', 'ta', 'Najeriya', 'NPFL', '2021']",Hausa
+"['Babu', 'shakka', 'dawowar', 'ka', 'zuwa', 'Kano', 'Pillars', 'ya', 'nuna', 'ƙaunar', 'ka', 'da', 'kishin', 'ka', 'a', 'kan', 'ƙungiyar', 'da', 'kuma', 'tuna', 'baya', 'da', 'ka', 'yi']",Hausa
+"['Kai', 'sananne', 'a', 'duniya', 'gaba', 'ɗaya', 'tabbas', 'mun', 'yi', 'babban', 'kamu', 'zamu', 'ci', 'gaba', 'da', 'taimakawa', 'tawagar', 'kai', 'ma', 'muna', 'fatan', 'zaka', 'taimaka', 'wajen', 'ganin', 'ƙungiyar', 'ta', 'lashe', 'kofi', 'na', 'Najeriya', 'nan', 'gida', 'Kano', 'inji', 'gwamna', 'Ganduje']",Hausa
+"['Daga', 'cikin', 'waɗanda', 'suka', 'karɓi', 'dan', 'wasan', 'tare', 'da', 'taimakawa', 'gwamnan', 'wajen', 'ƙaddamar', 'da', 'ɗan', 'wasan', 'akwai', 'shugaban', 'hukumar', 'wasanni', 'ta', 'jihar', 'Kano', 'Alhaji', 'Ibrahim', 'Galadima']",Hausa
+"['Sai', 'Kwamishinan', 'Wasanni', 'Kabiru', 'Ado', 'Lakwaya', 'da', 'Mataimakin', 'Gwamna', 'Nasiru', 'Yusuf', 'Gawuna', 'da', 'shugaban', 'ƙungiyar', 'Kano', 'Pillars', 'Alhaji', 'Shu', 'aibu', 'Surajo', 'Yahaya', 'Jambul']",Hausa
+"['Ganduje', 'zai', 'gabatar', 'da', 'Ahmad', 'Musa', 'a', 'matsayin', 'dan', 'wasan', 'Kano', 'Pillars']",Hausa
+"['A', 'cikin', 'wata', 'sanarwa', 'da', 'shugaban', 'kungiyar', 'Kano', 'Pillars', 'Suraj', 'Yahaya', 'Jambul', 'ya', 'fitar', 'mai', 'dauke', 'da', 'sa', 'hannun', 'jami', 'in', 'yada', 'labarai', 'na', 'kungiyar', 'Lurwan', 'Idris', 'Malikawa', 'wanda', 'aka', 'wallafa', 'a', 'shafin', 'Internet', 'na', 'Kano', 'Pillars', 'ta', 'ce', 'hakan', 'ya', 'biyo', 'bayan', 'yarjejeniya', 'tsakanin', 'dan', 'wasan', 'da', 'tawagar', 'ta', 'Pillars', 'wacce', 'kamfanin', 'Shirya', 'gasar', 'Firimiyar', 'Najeriya', 'LMC', 'ya', 'jagoranta']",Hausa
+"['Sanarwar', 'ta', 'kara', 'da', 'cewa', 'kamfanin', 'na', 'LMC', 'bisa', 'takardar', 'da', 'shugaban', 'gudanarwar', 'sa', 'Malam', 'Salihu', 'Abubakar', 'ya', 'sakawa', 'hannu', 'ta', 'tabbatar', 'da', 'daukar', 'dan', 'wasa', 'Ahmad', 'Musa', 'a', 'matsayin', 'babban', 'dan', 'wasa', 'jagora', 'kana', 'kuma', 'Jakadan', 'gasar', 'zuwa', 'karshen', 'kakar', 'wasa', 'ta', '2021']",Hausa
+"['Daga', 'cikin', 'Yarjejeniyar', 'da', 'aka', 'cimma', 'da', 'dan', 'wasan', 'a', 'cewar', 'Malikawa', 'ta', 'hada', 'da', 'amincewa', 'dan', 'wasan', 'ya', 'koma', 'duk', 'tawagar', 'da', 'ta', 'nemeshi', 'a', 'fadin', 'Duniya', 'da', 'zarar', 'ya', 'samu', 'hakan', 'a', 'kowanne', 'Lokaci']",Hausa
+"['Muna', 'murna', 'da', 'dawowar', 'dan', 'wasan', 'mu', 'Ahmad', 'Musa', 'daman', 'namu', 'ne', 'zamu', 'ci', 'gaba', 'da', 'bashi', 'goyon', 'baya', 'da', 'taimaka', 'masa', 'a', 'ko', 'da', 'yaushe', 'a', 'duk', 'inda', 'ya', 'samu', 'kansa', 'Haka', 'zalika', 'muna', 'yi', 'masa', 'addu', 'ar', 'Allah', 'ya', 'yi', 'masa', 'jagoranci', 'a', 'dukkan', 'Lamuran', 'sa', 'inji', 'Lirwanu', 'Idris', 'Malikawa']",Hausa
+"['Ahmad', 'Musa', 'ya', 'wakilci', 'Kano', 'Pillars', 'a', 'shekarar', '2009', 'inda', 'ya', 'kare', 'kakar', 'wasa', 'ta', 'shekarar', 'a', 'matsayin', 'dan', 'wasan', 'da', 'yafi', 'kowa', 'zura', 'kwallaye']",Hausa
+"['Inda', 'ya', 'zura', 'Kwallaye', '18', 'kafin', 'ya', 'koma', 'taka', 'Leda', 'a', 'tawagar', 'VV', 'Venlo', 'dake', 'kasar', 'Holland', 'Netherland']",Hausa
+"['NLC', 'Za', 'muyi', 'kokari', 'wajen', 'ganin', 'ba', 'a', 'sake', 'samun', 'sa-in-sa', 'ba', 'tsakaninmu', 'da', 'gwamnati']",Hausa
+"['Shugaban', 'kungiyar', 'reshen', 'jihar', 'Kano', 'Kwamared', 'Kabiru', 'Ado', 'Minjibir', 'ne', 'ya', 'bayyana', 'hakan', 'jim', 'kadan', 'bayan', 'kammala', 'shirin', 'Barka', 'da', 'Hantsi', 'na', 'nan', 'Freedom', 'Radio']",Hausa
+"['Shirin', 'dai', 'ya', 'mayar', 'da', 'hankali', 'ne', 'kan', 'yadda', 'kungiyar', 'ta', 'yi', 'yunkurin', 'tafiya', 'yajin', 'aiki', 'sakamakon', 'zaftarewa', 'ma', 'aikata', 'albashi', 'da', 'gwamnatin', 'jihar', 'Kano', 'ta', 'yi']",Hausa
+"['Kabiru', 'Ado', 'Minjibir', 'ya', 'kuma', 'ce', 'kungiyar', 'za', 'ta', 'yi', 'iya', 'bakin', 'kokarinta', 'wajen', 'ganin', 'ba', 'a', 'sake', 'samun', 'wata', 'sa-in-sa', 'tsakaninta', 'da', 'gwamnati', 'ba']",Hausa
+"['Za', 'mu', 'dauki', 'mataki', 'kan', 'wasu', 'baragurbin', 'jami', 'an', 'gwamnati', 'da', 'ke', 'dibarwa', 'ma', 'aikata', 'kudi', 'da', 'sunan', 'ba', 'shi', 'a', 'cewar', 'Kwamared', 'Minjibir']",Hausa
+"['Rikicin', 'kwallon', 'kafa', 'ya', 'yi', 'sanadiyyar', 'mutuwar', 'wani', 'matashi', 'a', 'Kano']",Hausa
+"['A', 'ranar', 'Lahadi', '11', 'ga', 'watan', 'Afirilu', 'ne', 'aka', 'buga', 'wani', 'wasan', 'karshe', 'na', 'kwallon', 'kafa', 'tsakanin', 'matasan', 'Unguwa', 'Uku', 'da', 'na', 'Gyadi-Gyadi']",Hausa
+"['Lamarin', 'dai', 'ya', 'fusata', 'matasan', 'Gyadi-Gyadin', 'sakamakon', 'rashin', 'nasara', 'a', 'wasan', 'har', 'ya', 'kaiga', 'rasa', 'rai', 'in', 'ji', 'shaidun', 'gani', 'da', 'ido']",Hausa
+"['Bayan', 'an', 'binne', 'matashin', 'da', 'ya', 'rasu', 'ne', 'da', 'safiyar', 'ranar', 'Litinin', '12', 'ga', 'watan', 'na', 'Afririlu', 'sai', 'matasan', 'Unguwa', 'Uku', 'suka', 'shiga', 'Unguwar', 'Daurawa', 'domin', 'daukar', 'fansa']",Hausa
+"['Haka', 'zalika', 'fusatattun', 'matasan', 'da', 'suka', 'tafi', 'daukar', 'fansa', 'sai', 'kuma', 'suka', 'koma', 'yiwa', 'mutane', 'kwacen', 'wayoyi', 'har', 'ma', 'da', 'Babura']",Hausa
+"['Wakiliyarmu', 'Hadiza', 'Ado', 'Jinta', 'ta', 'rawaito', 'cewa', 'an', 'yi', 'kokarin', 'tuntubar', 'mai', 'magana', 'da', 'yawun', 'rundunar', 'yan', 'sandan', 'jihar', 'kano', 'DSP', 'Abdullahi', 'Haruna', 'Kiyawa', 'ta', 'wayar', 'tarho', 'sai', 'dai', 'bai', 'samu', 'damar', 'amsa', 'wayar', 'ba']",Hausa
+"['Najeriya', 'ta', 'matsa', 'mataki', 'na', '32', 'a', 'sabon', 'jadawalin', 'FIFA']",Hausa
+"['FIFA', 'ta', 'ce', 'ta', 'na', 'amfani', 'da', 'jerin', 'makin', 'kowace', 'kasa', 'domin', 'fitar', 'da', 'matakin', 'da', 'ta', 'dace', 'ta', 'samu', 'a', 'cikin', 'jadawali']",Hausa
+"['A', 'cikin', 'jerin', 'matakin', 'kasashen', 'da', 'FIFA', 'ta', 'fitar', 'a', 'ranar', 'Larabar', '6', 'ga', 'watan', 'Afirilun', '2021', 'Najeriya', 'ta', 'samu', 'zuwa', 'mataki', 'na', 'uku', 'a', 'kasashen', 'Afirka', 'bayan', 'da', 'tayi', 'nasara', 'kan', 'Benin', 'Republic', 'da', 'Lesotho', 'a', 'wasannin', 'share', 'fagen', 'cin', 'kofin', 'Afirka']",Hausa
+"['Edo', '2020', 'Za', 'a', 'cigaba', 'da', 'gasar', 'kamar', 'yadda', 'aka', 'tsara', 'Dare']",Hausa
+"['Umarnin', 'na', 'zuwa', 'ne', 'jim', 'kadan', 'bayan', 'da', 'kwamitin', 'shirya', 'gasar', 'na', 'jihar', 'ta', 'Edo', 'ya', 'bayyana', 'dakatar', 'da', 'gasar', 'sakamakon', 'rashin', 'kudaden', 'gudanarwa']",Hausa
+"['Mataimakin', 'daraktan', 'yadda', 'labarai', 'a', 'ma', 'aikatar', 'wasanni', 'ta', 'kasa', 'Ramon', 'Balogun', 'ne', 'ya', 'bayyana', 'matsayar', 'gwamnatin', 'tarayyar', 'kan', 'sha', 'anin', 'gasar']",Hausa
+"['Balogun', 'ya', 'ce', 'Ma', 'aikatar', 'ta', 'tabbata', 'da', 'ce', 'ana', 'cigaba', 'da', 'gudanar', 'da', 'gasar', 'kuma', 'wasanni', 'na', 'tafiya', 'kamar', 'yadda', 'aka', 'tsara', 'Yan', 'wasa', 'dai', 'sama', 'da', 'dubu', 'takwas', 'ne', 'daga', 'jihohin', 'daban-daban', 'a', 'fadin', 'kasar', 'nan', 'suke', 'fafatawa', 'a', 'bikin', 'kakar', 'wasannin']",Hausa
+"['Bundesliga', 'Kano', 'ce', 'cibiyar', 'gasar', 'a', 'Arewacin', 'Najeriya', 'Henning', 'Brinkmann']",Hausa
+"['Wakilin', 'gasar', 'Henning', 'Brinkmann', 'ya', 'bayyana', 'hakan', 'ga', 'manema', 'labarai', 'yana', 'mai', 'cewa', 'Bundesliga', 'ta', 'hada', 'kai', 'da', 'gidajen', 'Rediyo', 'a', 'jihar', 'Kano', 'musamman', 'Freedom', 'Rediyo', 'don', 'kawo', 'wa', 'magoya', 'baya', 'yadda', 'wasannin', 'ke', 'kasancewa', 'kai', 'tsaye']",Hausa
+"['Brinkmann', 'ya', 'ce', 'Nigeria', 'na', 'daya', 'daga', 'cikin', 'kasashen', 'da', 'Bundesliga', 'ta', 'mayar', 'da', 'hankali', 'wajen', 'fadada', 'ayyukan', 'ta', 'don', 'haka', 'zasu', 'cigaba', 'da', 'shirya', 'taruka', 'don', 'farantawa', 'magoya', 'bayansu']",Hausa
+"['Manufar', 'ita', 'ce', 'sanya', 'masoya', 'su', 'kara', 'jin', 'dadin', 'gasar', 'duba', 'da', 'jihar', 'Kano', 'ce', 'cibiyar', 'kwallon', 'kafa', 'a', 'Nigeria', 'kamar', 'yadda', 'bincikenmu', 'ya', 'nuna', 'hakan', 'ne', 'ya', 'sanya', 'za', 'mu', 'kawo', 'wasu', 'sabbin', 'abubuwa', 'a', 'jihar', 'dama', 'sauran', 'wasu', 'jihohi', 'a', 'kasar', 'inji', 'Brinkmann']",Hausa
+"['Edo', '2020', 'Yan', 'sanda', 'sun', 'kwantar', 'da', 'hatsaniyar', 'magoya', 'baya', 'da', 'yan', 'kallo']",Hausa
+"['Hakan', 'na', 'zuwa', 'ne', 'yayin', 'da', 'ake', 'cigaba', 'da', 'gudanar', 'a', 'gasar', 'kakar', 'wasanni', 'ta', '2020', 'a', 'jihar', 'Edo']",Hausa
+"['Hatsaniyar', 'ta', 'farune', 'a', 'lokacin', 'da', 'yan', 'kallon', 'suka', 'cika', 'dakin', 'da', 'ake', 'gudanar', 'da', 'wasan', 'Damben', 'lamarin', 'da', 'ya', 'sanya', 'take', 'dokokin', 'dakile', 'yaduwar', 'cutar', 'Corona']",Hausa
+"['Wakilan', 'masu', 'shirya', 'gasar', 'sun', 'nemi', 'dauki', 'daga', 'wajen', 'jami', 'an', 'yan', 'sanda', 'yayin', 'da', 'suka', 'gaza', 'daidaita', 'hatsaniyar', 'magoya', 'baya', 'da', 'kuma', 'yan', 'kallon', 'dake', 'dakin', 'wasan']",Hausa
+"['Daga', 'bisani', 'jami', 'an', 'yan', 'sandan', 'sun', 'samu', 'nasarar', 'kwantar', 'da', 'hatsaniyar', 'don', 'cigaba', 'da', 'gudanar', 'da', 'wasannin', 'a', 'tsanake']",Hausa
+"['EDO', '2020', 'An', 'killace', 'yan', 'wasa', '10', 'da', 'suka', 'kamu', 'da', 'Corona']",Hausa
+"['Yayin', 'tattaunawa', 'da', 'manema', 'labarai', 'babban', 'jami', 'in', 'kwamitin', 'dakile', 'yaduwar', 'cutar', 'Corona', 'Dakta', 'Andrew', 'Obi', 'ya', 'ce', 'an', 'mika', 'bakwai', 'daga', 'cikin', 'masu', 'dauke', 'da', 'cutar', 'zuwa', 'wajen', 'killacewa', 'a', 'asibitin', 'Stella', 'Obasanjo', 'dake', 'jihar', 'ta', 'Edo']",Hausa
+"['Ya', 'kuma', 'ce', 'sauran', 'yan', 'wasan', 'uku', 'ba', 'a', 'kaiga', 'mika', 'su', 'asibitin', 'ba', 'amma', 'tuni', 'aka', 'killace', 'su']",Hausa
+"['Jaridar', 'Punch', 'ta', 'ruwaito', 'cewa', 'Za', 'a', 'cigaba', 'da', 'kula', 'da', 'yan', 'wasan', 'da', 'suka', 'kamu', 'da', 'cutar', 'har', 'sai', 'sun', 'warke', 'kafin', 'su', 'dawo', 'cikin', 'mutane', 'kamar', 'yadda', 'Dakta', 'Obi', 'ya', 'bayyana']",Hausa
+"['EDO', '2020', 'Akwai', 'yiwuwar', 'sauya', 'mai', 'masaukin', 'baki', 'MYSD']",Hausa
+"['Tunda', 'da', 'fari', 'dai', 'anyi', 'niyyar', 'gudanar', 'da', 'gasar', 'ne', 'da', 'akayi', 'ta', 'dagewa', 'sakamakon', 'bullar', 'cutar', 'Corona', 'da', 'kuma', 'matsalar', 'karancin', 'kudade', 'a', 'jihar', 'Edo']",Hausa
+"['Za', 'a', 'fara', 'gasar', 'a', 'ranar', '2', 'ga', 'watan', 'Afirilu', 'kuma', 'a', 'karkare', 'ranar', '14', 'ga', 'watan', 'na', 'Afirilun', '2021']",Hausa
+"['Ministan', 'matasa', 'da', 'wasanni', 'Sunday', 'Dare', 'ya', 'ce', 'ya', 'rubuta', 'wa', 'gwamnatin', 'tarayya', 'takarda', 'don', 'ta', 'baiwa', 'jihar', 'Edo', 'tallafin', 'kudi', 'da', 'zata', 'alkinta', 'wajen', 'gudanar', 'da', 'gasar', 'yayin', 'da', 'jihar', 'ke', 'kokawa', 'kan', 'matsalar', 'karanci', 'kudi']",Hausa
+"['Jaridar', 'Punch', 'ta', 'ruwaito', 'cewa', 'wani', 'mutun', 'a', 'ma', 'aikatar', 'wasannin', 'ta', 'kasa', 'wanda', 'ya', 'nemi', 'a', 'sakaya', 'sunansa', 'ya', 'ce', 'ma', 'aikatar', 'ta', 'fara', 'yunkurin', 'maye', 'gurbin', 'jihar', 'ta', 'Edo', 'da', 'Abuja', 'a', 'matsayin', 'inda', 'za', 'a', 'gudanar', 'da', 'gasar']",Hausa
+"['Har', 'yanzu', 'Gwamnati', 'ba', 'ta', 'bada', 'kuɗaɗen', 'gudanar', 'da', 'gasar', 'wasanni', 'ta', 'ƙasa', 'ba', 'Musa', 'Ebomhiana']",Hausa
+"['Shugaban', 'gudanarwa', 'kwamitin', 'Musa', 'Ebomhiana', 'ne', 'ya', 'bayyana', 'hakan', 'a', 'birnin', 'Benin', 'dake', 'jihar', 'ta', 'Edo']",Hausa
+"['Ya', 'kuma', 'ce', 'yayin', 'da', 'ya', 'rage', 'kwanaki', 'kalilan', 'a', 'fara', 'gudanar', 'da', 'gasar', 'izuwa', 'yanzu', 'gwamnatin', 'bata', 'saki', 'kudaden', 'ba']",Hausa
+"['Duk', 'da', 'cewa', 'gwamnatin', 'jihar', 'Edo', 'na', 'kyautata', 'tsammanin', 'za', 'a', 'fitar', 'da', 'kudaden', 'amma', 'da', 'an', 'fitar', 'da', 'kudaden', 'a', 'cikin', 'lokaci', 'da', 'yafi', 'dacewa', 'a', 'cewar', 'Ebomhiana']",Hausa
+"['Haka', 'kuma', 'ya', 'ce', 'biyan', 'kudin', 'akan', 'lokaci', 'zai', 'taimaka', 'wajen', 'yin', 'kyakkyawan', 'shirye-shirye', 'don', 'gudanar', 'da', 'bikin', 'a', 'tsanaki']",Hausa
+"['AFCON', '2021', 'Kasashe', '17', 'Da', 'Za', 'Su', 'Samu', 'Tikitin', 'Gasar']",Hausa
+"['Wannan', 'na', 'zuwa', 'ne', 'bayan', 'da', 'Najeriya', 'ta', 'doke', 'Benin', 'da', 'ci', 'daya', 'mai', 'banhaushi', 'a', 'fafatawarsu', 'ta', 'ranar', 'Asabar', '27', 'ga', 'watan', 'Maris', '2021']",Hausa
+"['Yanzu', 'haka', 'dai', 'Najeriya', 'nada', 'maki', '11', 'sai', 'Benin', 'Republic', 'da', 'take', 'da', '7', 'sai', 'kuma', 'Sierra', 'Leone', 'tana', 'da', 'maki', '4', 'yayin', 'da', 'Lesotho', 'ke', 'da', 'maki', '3', 'inda', 'kuma', 'suke', 'dakon', 'wasan', 'karshe', 'da', 'za', 'a', 'fafata', 'a', 'ranar', 'Talata', '30', 'ga', 'watan', 'Maris']",Hausa
+"['Najeriya', 'zata', 'karbi', 'bakuncin', 'Lesotho', 'a', 'jihar', 'Lagos', 'yayin', 'da', 'ita', 'kuma', 'Sierra', 'Leone', 'zata', 'barje', 'gumi', 'da', 'Benin', 'a', 'Freetown']",Hausa
+"['Kasashen', '17', 'sun', 'hadar', 'da', 'Aljeria', 'da', 'Burkina', 'Faso', 'da', 'Cameroon', 'da', 'Comoros', 'da', 'Masar', 'da', 'Equatorial', 'Guinea', 'da', 'Gabon', 'da', 'Gambia', 'da', 'Ghana', 'da', 'Guinea', 'da', 'Ivory', 'Coast', 'da', 'Mali', 'da', 'Morocco', 'da', 'Nigeria', 'da', 'Senegal', 'da', 'Tunisia', 'da', 'kuma', 'Zimbabwe']",Hausa
+"['Rigakafin', 'Corona', 'Yan', 'wasan', 'Kogi', 'ka', 'iya', 'rasa', 'bikin', 'kakar', 'wasa', 'ta', '2020']",Hausa
+"['Za', 'dai', 'a', 'fara', 'gudanar', 'da', 'bikin', 'ne', 'a', 'ranar', '2', 'zuwa', '14', 'ga', 'watan', 'Afrilu', 'mai', 'kamawa', 'a', 'jihar', 'Edo']",Hausa
+"['Rahotanni', 'na', 'cewa', 'mataimakin', 'gwamnan', 'jihar', 'ta', 'Edo', 'Philip', 'Shu', 'aibu', 'wanda', 'kuma', 'ya', 'ke', 'jagorantar', 'kwamitin', 'shirya', 'gasar', 'ya', 'ce', 'wajibi', 'ne', 'kowane', 'dan', 'wasa', 'ya', 'zamanto', 'ya', 'karbi', 'allurar', 'rigakafin', 'Corona', 'kafin', 'a', 'barshi', 'ya', 'fafata', 'a', 'gasar']",Hausa
+"['A', 'cewar', 'Babban', 'Daraktan', 'hukumar', 'bunkasa', 'kiwon', 'lafiya', 'a', 'matakin', 'farko', 'na', 'Kasa', 'Dakta', 'Faisal', 'Shu', 'aibu', 'dukkanin', 'jihohin', 'kasar', 'nan', 'sun', 'karbi', 'allurar', 'rigakafin', 'Corona', 'amma', 'banda', 'jihar', 'ta', 'Kogi']",Hausa
+"['Ungulu', 'za', 'ta', 'koma', 'gidanta', 'na', 'tsamiya', 'Gareth', 'Bale']",Hausa
+"['Bale', 'ya', 'ce', 'yana', 'shirye-shiryen', 'komawa', 'tsohuwar', 'shekar', 'tashi', 'a', 'karshen', 'wannan', 'kakar', 'wasannin', 'da', 'muke', 'ciki', 'yayin', 'da', 'zamansa', 'a', 'Tottenham', 'ke', 'karewa']",Hausa
+"['Dan', 'wasan', 'mai', 'shakara', '31', 'ya', 'koma', 'kungiyar', 'ta', 'Tottenham', 'a', 'matsayin', 'aro', 'sakamakon', 'ajiye', 'shi', 'a', 'benci', 'da', 'Zinedine', 'Zidane', 'keyi', 'a', 'Real', 'Madrid']",Hausa
+"['Haka', 'zalika', 'mai', 'horas', 'da', 'Tottenham', 'Jose', 'Mourinho', 'ya', 'ce', 'makomar', 'Bale', 'bayan', 'wannan', 'kakar', 'wasannin', 'ta', 'ka', 'allaka', 'ne', 'a', 'hannun', 'Real', 'Madrid']",Hausa
+"['FIFA', 'ta', 'tsawaita', 'wa', 'adin', 'dakatarwar', 'da', 'ta', 'yiwa', 'Blatter', 'da', 'Valcke']",Hausa
+"['FIFA', 'dai', 'ta', 'dakatar', 'da', 'Sepp', 'Blatter', 'da', 'Jerome', 'Valcke', 'ne', 'sakamakon', 'zargin', 'badakalar', 'kudade', 'masu', 'yawa', 'a', 'hukumar']",Hausa
+"['A', 'wata', 'sanarwa', 'da', 'kwamitin', 'Da', 'a', 'na', 'hukumar', 'ya', 'fitar', 'na', 'cewa', 'Blatter', 'mai', 'shekaru', '85', 'ya', 'karbi', 'cin', 'hancin', 'kudaden', 'sama', 'da', 'dala']",Hausa
+"['Ndị', 'uweojii', 'na', 'steeti', 'Edo', 'ejidela', 'ma', 'kpọchie', 'ndị', 'nta', 'abụọ', 'maka', 'ịgba', 'ndị', 'jere', 'akwamozu', 'égbè', 'ma', 'jirikwa', 'égbè', 'merụsịa', 'ha', 'ahụ', 'kà', 'a', 'ga-asị', 'na', 'ha', 'bụ', 'anụ', 'oriri']",Igbo
+"['Ihe', 'ọdachi', 'a', 'bụ', 'nke', 'dapụtàrà', ""n'obodo"", 'Ama', 'dị', 'na', 'mpaghara', 'okpuru', 'ọchịchị', 'ime', 'obodo', 'Esan', 'South-East', 'nke', 'steeti', 'Edo', 'ma', 'bụrụkwa', 'nke', 'ndị', 'nta', 'ahụ', 'sitere', 'na', 'ya', 'wee', 'merụọ', 'mmadụ', 'isii', 'àhụ', ""n'ime"", 'ndị', 'ahụ', 'gara', 'akwamozu', 'Dịka', 'ozi', 'a', 'kụpụrụ', 'site', ""n'aka"", 'onye', 'na-ahụ', 'maka', 'mmekọrịta', 'ọhaneze', 'na', 'ndị', 'uweojii', 'steeti', 'ahụ', 'bụ', 'SP', 'Kontongs', 'Bello', 'siri', 'kọwaa', 'onyeisi', 'ndị', 'uweojii', 'na', 'mpaghara', 'ụlọọrụ', 'uweojii', 'Agbede', 'Division', 'bụ', 'CSP', 'Iredia', 'Ogiata', 'nwètèrè', 'ozi', 'banyere', 'égbè', 'a', 'na-agba', ""n'obodo"", 'ahụ']",Igbo
+"['Ọ', 'gara', ""n'ihu"", 'kọwaa', 'na', 'ndị', 'nta', 'ahụ', 'sòrò', 'ndị', 'bu', 'ozu', 'onye', 'ahụ', 'a', 'kwara', 'ụbọchị', 'ahụ', 'wee', 'si', ""n'Ubiaja"", 'dị', ""n'okpuru"", 'ọchịchị', 'ime', 'obodo', 'Esan', 'South-East', 'wee', 'bàtaruo', 'Ama', 'bụ', 'ebe', 'ahụ', 'a', 'na-akwa', 'ya', 'bụ', 'ozu']",Igbo
+"['O', 'kwuru', 'na', 'oge', 'e', 'ruzịrị', ""n'obodo"", 'ahụ', 'na', 'ndị', 'nta', 'ahụ', 'malitere', 'ịgbali', 'egbe', 'elu', 'bụ', 'nke', 'ha', 'sikwara', 'na', 'ya', 'wee', 'gbabie', 'eriri', 'ọkụ', 'latiriiki', ""n'ebe"", 'ahụ']",Igbo
+"['Ya', 'bụ', 'ọnụ', 'na-ekwuru', 'ndị', 'uweojii', 'gàkwàzịrị', ""n'ihu"", 'kwuo', 'na', 'onyeisi', 'ndị', 'uweojii', 'na', 'steeti', 'ahụ', 'bụ', 'CP', 'Phillip', 'Ogbadu', 'mere', 'ka', 'o', 'doo', 'anya', 'na', 'o', 'nweghị', 'onye', 'ọbụla', 'nwere', 'ikike', 'iyijà', 'maọbụ', 'itinye', 'ndụ', 'mmadụ', 'ibe', 'ya', ""n'ihe"", 'égwù']",Igbo
+"['Ọ', 'dụzịkwara', 'ndị', 'obodo', 'ahụ', 'ọdụ', 'ka', 'ha', 'wetuo', 'obi', 'ma', 'ghara', 'iji', 'iwe', 'mebie', 'ihe', 'ọbụladị', 'dịka', 'o', 'mekwazịrị', 'ka', 'a', 'mara', 'na', 'nnyocha', 'ka', 'na-aga', ""n'ihu"", 'banyere', 'ya', 'bụ', 'okwu', 'nke', 'mgbe', 'e', 'mechara', 'ya', 'e', 'nye', 'ndị', 'ahụ', 'ọnọdụ', 'ruru', 'ha']",Igbo
+"['Ogun', 'Steeti', 'emeriela', 'na', 'asọmpi', 'sayensị', 'nke', 'ụlọọrụ', 'mmanụ', 'ụgbọala', 'NNPC', 'chịkọbara', 'nke', 'afọ', '2019', 'maka', 'ụlọ', 'akwụkwọ', 'sekọndịrị', ""n'ala"", 'anyị', 'niile']",Igbo
+"['Steeti', 'gbara', 'ndị', 'nke', 'mbụ', ""n'agba"", 'nke', 'ikpeazụ', 'na', 'asọmpi', 'ahụ', 'were', 'ọnọdụ', 'ụbọchị', 'Tọzdee', ""n'isi"", 'ụlọọrụ', 'NNPC', 'dị', 'na', 'Abuja']",Igbo
+"['Onyeisi', 'Ụlọọrụ', 'NNPC', 'Malam', 'Mele', 'Kyari', 'kwuru', 'na', 'ụlọọrụ', 'ahụ', 'ga-aga', ""n'ihu"", 'ịtụnye', 'ụtụ', 'nke', 'nke', 'ha', ""n'ebe"", 'mmepe', 'na', 'ọganihu', 'nke', 'ngalaba', 'akwụkwọ', 'iji', 'were', 'hụ', 'na', 'Naijiria', 'dị', 'ukwu']",Igbo
+"['Ọ', 'gbakwụnyere', 'na', 'asọmpi', 'a', 'bụ', 'otu', ""n'ime"", 'ụzọ', 'ụlọọrụ', 'ahụ', 'si', 'agba', 'mbụ', 'ị', 'kwado', 'iwulite', 'obodo', 'anyị']",Igbo
+"['Ịwulite', 'obodo', 'na-aga', ""n'ihu"", 'gụnyere', 'ịchọpụta', 'na', 'ịhazi', 'akara', 'aka']",Igbo
+"['Dịka', 'ụlọọrụ', 'anyị', 'na-agba', 'mbọ', 'ịchọpụta', 'ndị', 'a', 'oge', 'ha', 'dị', 'na', 'nwata', 'ma', 'nyere', 'ha', 'aka', 'iwulite', 'ya', 'nke', 'ọma', 'ka', 'o', 'kwuru']",Igbo
+"['Dịka', 'ọ', 'dị', 'onyeisi', 'otu', 'Dangote', 'Alhaji', 'Aliko', 'Dangote', 'rịọrọ', 'ụmụ', 'akwụkwọ', 'ahụ', 'ka', 'ha', 'tinye', 'ume', 'ha', 'niile', ""n'ihe"", 'ọ', 'bụla', 'ha', 'na-eme', 'na', 'ndụ', 'a', 'dịka', 'ndị', 'ndu', 'nke', 'echi']",Igbo
+"['O', 'gara', ""n'ihu"", 'kelee', 'NNPC', ""n'atụmatụ"", 'ha', 'tinyere', 'na', 'ọ', 'ga-enye', 'aka', 'iwulite', 'ọtụtụ', 'ndị', 'sayensị', ""n'ala"", 'anyị']",Igbo
+"['Ụlọọrụ', 'ahụ', 'na', 'ngụpụta', 'ya', 'kwuru', 'na', 'asọmpi', 'ahụ', 'bidoro', 'na', 'ime', 'obodo', 'nke', 'okpuru', 'ọchịchị', 'ime', 'obodo', 'narị', 'asaa', 'na', 'iri', 'asaa', 'na', 'anọ', 'enwere', ""n'ala"", 'ànyị', 'ebe', 'mmadụ', 'atọ', 'kacha', 'mma', 'gara', ""n'ogogo"", 'steeti']",Igbo
+"[""N'ogogo"", 'steeti', 'onye', 'kachasị', 'mee', 'nke', 'ọma', 'bụ', 'onye', 'gara', 'na', 'ngalaba', 'akụkụ', 'ala', 'anyị', 'ebe', 'onye', 'meriri', ""n'ogogo"", 'a', 'bụ', 'onye', 'nwetara', 'ego', 'maka', 'agụmakwụkwụ', 'dị', 'otu', 'narị', 'puku', 'naira', 'ka', 'o', 'kwuru']",Igbo
+"['O', 'gakwara', ""n'ihu"", 'were', 'kwuo', 'na', 'steeti', 'dị', 'na', 'ngalaba', 'akụkụ', 'ala', 'anyị', 'dị', 'iche', 'zutere', ""n'oge"", 'dị', 'iche', 'were', 'sọkọrịta', 'mpi', ""n'etiti"", 'onwe', 'ha', 'iji', 'were', 'mata', 'mmadụ', 'atọ', 'kacha', 'mma', 'ga-anọchite', 'anya', 'ha', ""n'agba"", 'nke', 'ikpeazụ']",Igbo
+"['Onye', 'meriri', 'ritara', 'ịgụ', 'akwụkwọ', ""n'efu"", 'ruo', 'mahadum', 'nke', 'ọnụ', 'ego', 'ya', 'bụ', 'puku', 'narị', 'naira', 'atọ', 'kwa', 'afọ', 'akwụkwọ', 'ọ', 'bụla', 'ebe', 'onye', 'nke', 'abụọ', 'na', 'nke', 'atọ', 'ritara', 'puku', 'narị', 'naira', 'abụọ', 'na', 'iri', 'ise', 'na', 'puku', 'narị', 'naira', 'abụọ']",Igbo
+"['Steeti', 'iri', 'na', 'asatọ', 'sonyere', ""n'agba"", 'nke', 'ikpeazụ', 'ebe', 'steeti', 'atọ', 'nọchitere', 'anya', 'ngalaba', 'ọchịchị', 'akụkụ', 'ọ', 'bụla', ""n'ala"", 'ànyị']",Igbo
+"['Ọ', 'bụ', 'nnọ', 'oge', 'nkuzi', 'na', 'nkọwa', 'pụrụ', 'iche', 'dịka', 'ọba', 'akwụkwọ', 'steeti', 'Anambra', 'bụ', 'nke', 'a', 'maara', 'dịka', 'ọba', 'akwụkwọ', 'Ọkammụta', 'Kenneth', 'Dike', 'dị', ""n'Awka"", 'sònyèèrè', 'ndị', 'òtù', 'ha', ""n'imerùbè"", 'mmemme', 'izu-ụka', 'ọba', 'akwụkwọ', 'nke', 'ahọ', '2019']",Igbo
+"['A', 'kọwaala', 'mkpa', 'ọ', 'dị', 'na', 'ndị', 'ntorobịa', 'ga-amụta', 'ọrụ', 'aka', 'ma', 'mụtakwa', 'usoro', 'e', 'ji', 'achị', 'ezi', 'ọchịchị', 'dịka', 'ihe', 'ga-enyere', 'ha', 'aka', 'ịbụ', 'ndị', 'ga-ewèta', 'mgbanwe', ""n'ime"", 'obodo', 'ha', 'dị', 'iche', 'iche']",Igbo
+"['Nke', 'a', 'bụ', 'isi', 'sekpụ', 'ntị', 'nakwa', 'okwu', 'a', 'kpụ', ""n'ọnụ"", 'na', 'nnukwu', 'ọgbakọ', 'otu', 'ụbọchị', 'a', 'chịkọbarààrà', 'ndị', 'ntorobịa', 'steeti', 'Anambra', 'site', ""n'aka"", 'òtù', 'nnọrọ', 'onwe', 'a', 'maara', 'dịka', 'Progressive', 'Anambra', 'Youths', 'PAY', 'bụkwa', 'nke', 'weere', 'ọnọdụ', ""n'Awka"", 'bụ', 'isi', 'obodo', 'steeti', 'Anambra']",Igbo
+"[""N'okwu"", 'ya', 'oge', 'ọ', 'na-anabàta', 'ndị', 'ahụ', ""n'isi"", 'ụlọ', 'ọrụ', 'ya', 'onyeisi', 'ọba', 'akwụkwọ', 'mahadum', 'Nnamdị', 'Azikiwe', 'dị', ""n'Awka"", 'bụ', 'Ọkammụta', 'Obiọra', 'Nwosu', 'kọwara', 'oba', 'akwụkwọ', 'dịka', 'ụlọ', 'mmụta', 'nakwa', 'ebe', 'nchekwa', 'ozi', 'ma', 'kwuokwa', 'na', 'ọba', 'akwụkwọ', 'nwèrè', 'ọrụ', 'pụrụ', 'iche', 'dịịrị', 'ya', ""n'ịkwàlite"", 'mmepe', 'tọrọ', 'àtọ', ""n'obodo""]",Igbo
+"['Izu-ụka', 'ọba', 'akwụkwọ', 'bụ', 'mmemme', 'a', 'na-eme', 'kwà', 'ahọ', 'ọbụla', ""n'ala"", 'Nigeria', 'iji', 'merùbe', 'ọrụ', 'ọma', 'dị', 'iche', 'iche', 'ọba', 'akwụkwọ', 'na', 'ndị', 'ọrụ', 'ụlọ', 'ọba', 'akwụkwọ', 'na-arụ', ""n'ịkwàlite"", 'mmụta', 'nchọcha', 'nakwa', 'mmepe', 'obodo', ""n'izugbe""]",Igbo
+"['Onye', 'isi', 'otu', 'ụmụ', 'akwụkwọ', 'na', 'mba', 'ofesi', 'Student', 'Association', 'of', 'Nigeria', 'in', 'Diaspora', 'Olalekan', 'Oshunkoya', 'gwara', 'ndị', 'nta', 'akụkọ', 'na', 'ndị', 'uwe', 'ojii', 'na', 'London', 'enyego', 'ha', 'nnakwe', 'ime', 'ngagharị', 'iwe', 'n', 'ogige', 'ebe', 'ụmụ', 'afọ', 'Nigeria', 'bi', 'na', 'London', 'na-enwe', 'nzụkọ', 'bụ', 'ebe', 'a', 'kpọrọ', 'Nigerian', 'House', 'na', 'bekee']",Igbo
+"[""N'ịga"", ""n'ihu"", ""n'ọrụ"", 'iwulite', 'ngalaba', 'ahụike', 'steeti', 'Anambra', 'ọchịchị', 'steeti', 'ahụ', 'enyela', 'ụlọọgwụ', 'ndị', 'ụka', 'dịgasị', 'na', 'steeti', 'ahụ', 'mgbàkọta', 'ego', 'ruru', 'nde', 'narị', 'naịra', 'abụọ', 'na', 'iri', 'asatọ', 'na', 'asatọ', 'na', 'ọkara', 'N288', '5m', 'iji', 'kwàdo', 'ma', 'sị', 'ha', 'jisie', 'ike', ""n'ọrụ"", 'ịkwalite', 'ọnọdụ', 'ahụike', 'na', 'steeti', 'ahụ']",Igbo
+"['Dịka', 'o', 'siri', 'metụta', 'nkesà', 'ego', 'ahụ', 'ụka', 'Katọliiki', 'nwèrè', 'ụlọọgwụ', 'dị', 'iri', 'abụọ', 'na', 'anọ', ""n'ọnụọgụgụ"", ""n'ime"", 'steeti', 'ahụ', 'ma', 'nweta', 'akwụkwọ', 'ndọrọ', 'ego', 'dị', 'otu', 'narị', 'nde', 'naịra', 'na', 'iri', 'iteghete', 'na', 'asaa', 'na', 'ụma', 'narị', 'puku', 'naịra', 'asaa', 'na', 'iri', 'ise']",Igbo
+"[""N'aka"", 'nke', 'ọzọ', 'ụka', 'Angịlịkan', 'nwèrè', 'ụlọọgwụ', 'iri', 'abụọ', 'na', 'isii', 'ma', 'nwete', 'akwụkwọ', 'ndọrọ', 'ego', 'dị', 'nde', 'naịra', 'iri', 'isii', 'na', 'otu', 'na', 'puku', 'naịra', 'ise', 'ebe', 'ndị', 'ụka', 'ọgbara', 'ọhụrụ', 'a', 'maara', 'dịka', 'pentikostaal', 'nwere', 'otu', 'ụlọọgwụ', 'ma', 'nwete', 'akwụkwọ', 'ndọrọ', 'ego', 'ruru', 'nde', 'naịra', 'iri', 'atọ']",Igbo
+"['Ozi', 'anyị', 'siri', 'n', 'aka', 'ndị', 'MSNBC', 'nwete', 'n', 'akọwa', 'na', 'otu', 'ụgbọelu', 'bu', 'ihe', 'karịrị', 'mmadụ', '120', 'dara', 'n', 'ihe', 'mberede', 'ụgbọelu', 'na', 'Pakistan']",Igbo
+"['Ihe', 'mberede', 'a', 'mere', 'na', 'Fraịdee', 'ka', 'yabụ', 'ụgbọelu', 'na-akwado', 'ifeda', 'n', 'otu', 'ọdụ', 'ụgbọelu', 'dị', 'na', 'Islamabad', 'isi', 'obodo', 'Pakistan']",Igbo
+"['Aka', 'na-achị', 'steeti', 'Anambra', 'bụ', 'Gọvanọ', 'Willie', 'Obianọ', 'ekwela', 'nkwà', 'na', 'ọchịchị', 'ya', 'agaghị', 'ada', 'mbà', ""n'ịkwàdò"", 'nà', 'ijikọ', 'aka', 'ọnụ', 'ha', 'na', 'ndị', 'ụka', 'dị', 'iche', 'iche', 'na', 'steeti', 'ahụ']",Igbo
+"['A', 'ka', 'na-eme', 'nnyocha', 'maka', 'ighọta', 'ihe', 'kpara', 'ihe', 'mberede', 'a']",Igbo
+"['Mana', 'a', 'na-akọwa', 'na', 'ajọ', 'ọnọdụ', 'ihu', 'eluigwe', 'nke', 'a', 'hụtara', 'mgbe', 'ihe', 'a', 'mere', 'nwere', 'ike', 'iso', 'n', 'ihe', 'ndị', 'kpatara', 'ihe', 'mberede', 'a']",Igbo
+"['Ihe', 'karịrị', 'mmadụ', '120', 'nwụrụ']",Igbo
+"['Gọvanọ', 'kwupụtara', 'nke', 'a', 'na', 'mmemme', 'sinọọdụ', 'ahọ', '2021', 'nke', 'ụka', 'Angịlịkan', 'na', 'dayọsiisi', 'Awka', 'bụ', 'nke', 'weere', 'ọnọdụ', ""n'ụlọụka"", 'St']",Igbo
+"['Micheal', 'and', 'All', 'Angel', ""'s"", 'Church', 'Nawfia', 'dị', ""n'okpuru"", 'ọchịchị', 'Njikọka', 'nke', 'steeti', 'ahụ', 'ma', 'bụrụkwa', 'àgbà', 'nke', 'abụọ', 'nke', 'sinọọdụ', 'nke', 'iri', 'abụọ', 'nke', 'dayọsiisi', 'ahụ']",Igbo
+"['Mmemme', 'sinọọdụ', 'ahụ', 'a', 'malitere', 'ụbọchị', 'Fraịdee', 'bụ', 'nke', 'were', 'mkpụrụ', 'ụbọchị', 'atọ', 'ma', 'bụrụkwa', 'nke', 'e', 'jiri', 'ofufe', 'nrò', 'ịtụ', 'mmamma', 'pụrụ', 'iche', 'wee', 'chịkọta', 'ụbọchị', 'ụka']",Igbo
+"['O', 'mere', 'ka', 'a', 'mara', 'na', 'ASHIA', 'sò', ""n'otu"", ""n'ime"", 'atụmatụ', 'ahụike', 'atọ', 'kacha', 'arụ', 'ọrụ', 'na', 'steeti', 'ahụ', 'ma', 'kwuo', 'na', ""n'okpuru"", 'atụmatụ', 'ahụike', 'ASHIA', 'ahụ', 'na', 'mmadụ', 'pụrụ', 'iji', 'naanị', 'puku', 'naịra', 'iri', 'na', 'abụọ', 'wee', 'nara', 'ọgwụgwọ', ""n'efu"", 'ruo', 'otu', 'ahọ', 'zuru', 'ezu', ""n'ụlọọgwụ"", 'ọ', 'chọrọ']",Igbo
+"['Aka', 'ndị', 'uweojii', 'na', 'steeti', 'Ogun', 'anwụchikọọla', 'otu', 'nwaanyị', 'gbara', 'afọ', 'iri', 'atọ', 'na', 'ise', 'aha', 'ya', 'bụ', 'Blessing', 'Ebuneku', 'Agoro', 'maka', 'ire', 'ụmụ', 'ya', 'ụmụnwaanyị', 'abụọ', 'n', 'ọnụego', 'dị', 'puku', 'narị', 'naịra', 'atọ', 'N300', '000']",Igbo
+"[""N'okwu"", 'ya', ""n'ebe"", 'ahụ', 'Gọvanọ', 'Obianọ', 'nke', 'Maazị', 'Uzuegbuna', 'Okagbue', 'nọchitere', 'anya', 'ya', 'na', 'mmemme', 'ahụ', 'mere', 'ka', 'a', 'mara', 'na', 'ya', 'na', 'ndị', 'ụka', 'dị', 'iche', 'iche', 'na', 'steeti', 'ahụ', 'enweela', 'ezi', 'njikọakaọnụ', 'kemgbe', 'ọchịchị', 'ya', 'siri', 'bata', ""n'ọkwa"", 'bụ', 'nke', 'pụtagoro', 'ìhè', ""n'ọtụtụ"", 'ụzọ', 'dị', 'iche', 'iche']",Igbo
+"['Nke', 'a', 'bụ', 'nke', 'e', 'mere', 'ka', 'ụwa', 'mara', 'site', ""n'ọnụ"", 'onye', 'na-ahụ', 'maka', 'mmekọrịta', 'ọhaneze', 'na', 'ndị', 'uweojii', 'na', 'steeti', 'Ogun', 'bụ', 'DSP', 'Abimbola', 'Oyeyemi', ""n'okwu"", 'ọ', 'gwara', 'ndị', 'ntaakụkọ']",Igbo
+"['Dịka', 'o', 'siri', 'kọwaa', 'nwaanyị', 'ahụ', 'onye', 'kwuru', 'na', 'di', 'ya', 'gbahapụrụ', 'ya', 'ma', 'hapụrụ', 'ya', 'ilekọta', 'ụmụ', 'ya', 'nwaanyị', 'Semilore', 'Agoro', 'gbara', 'afọ', 'anọ', 'na', 'Deborah', 'Agoro', 'gbara', 'afọ', 'abụọ', 'kọwàrà', 'na', 'o', 'rere', 'ụmụaka', 'ahụ', 'n', 'ihi', 'ihe', 'isi', 'ike']",Igbo
+"['DSP', 'Oyeyemi', 'kwùrù', 'na', 'a', 'nwụchikọrọ', 'nwaanyị', 'ahụ', 'site', 'na', 'mkpesa', 'nke', 'di', 'ya', 'bụ', 'Oluwaseyi', 'Agoro', 'mere', ""n'ogige"", 'ụlọọrụ', 'ndị', 'uweojii', 'a', 'kpọrọ', 'Redemption', 'Camp', 'Divisional', 'Headquarters', 'banyere', 'ihe', 'ahụ', 'nwunye', 'ya', 'mere']",Igbo
+"['Na', 'mbụ', ""n'okwuchukwu"", 'ya', ""n'ebe"", 'ahụ', 'Bishọọpụ', 'ụka', 'Angịlịkan', 'na', 'Dayọsiisi', 'Lagos', 'Rt']",Igbo
+['Rev'],Igbo
+"['Humphrey', 'Olumakaiye', 'bụ', 'onye', 'gbadoro', 'ụkwụ', ""n'isiokwu"", 'sinọọdụ', 'ahụ', 'kpọrọ', 'òkù', 'ka', 'onye', 'ọbụla', 'jiri', 'ọnatarachi', 'ya', 'na', 'akụnụba', 'ya', 'wee', 'jeere', 'Chineke', 'ozi', 'ma', 'kwàdo', 'mmgbasà', 'oziọma', 'Ya']",Igbo
+"['Dịka', 'ọ', 'na-agba', 'akaebe', 'na', 'ọnọdụ', 'ngalaba', 'dị', 'iche', 'iche', ""n'ala"", 'Nigeria', 'amachaghịzị', 'kwụrụ', 'ugbua', 'ya', 'bụ', 'Bishọọpụ', 'mèkwàrà', 'ka', 'a', 'mara', 'na', 'ndị', 'ụka', 'nwèrè', 'ọtụtụ', 'ọrụ', 'pụrụ', 'iche', 'chere', 'ha', ""n'ihu"", ""n'ịkwalite"", 'ezi', 'ọnọdụ', 'mmepe', 'bụ', 'ịgbà']",Igbo
+"['O', 'kwuru', 'na', 'nwoke', 'ahụ', 'gwara', 'ndị', 'uweojii', 'na', 'ya', 'mechara', 'njem', 'chighata', 'azụ', 'ọ', 'hụghịzị', 'ụmụ', 'ya', 'abụọ', 'ma', 'kọkwara', 'ha', 'na', 'mbọ', 'niile', 'ọ', 'gbara', 'iji', 'mata', 'ebe', 'ụmụ', 'ya', 'nọ', 'màrà', 'afọ', 'n', 'ala', 'nke', 'mere', 'o', 'jizịrị', 'wètá', 'mkpesa', 'ahụ', 'n', 'ogige', 'ndị', 'uweojii']",Igbo
+"['DSP', 'Oyeyemi', 'gàkwara', ""n'ihu"", 'kọwaa', 'na', 'mgbe', 'ha', 'nwètèchara', 'mkpesa', 'ahụ', 'na', 'onyeisi', 'ndị', 'uweojii', 'na', 'mpaghara', 'ahụ', 'bụ', 'CSP', 'Alabi', 'Akinjide', 'kpọkuru', 'ndị', 'ọrụ', 'ya', 'ozigbo', 'ma', 'nye', 'ha', 'ntụziaka', 'ka', 'ha', 'ga', 'nwụchikọọ', 'Blessing']",Igbo
+"['Ha', 'wee', 'gaa', 'chọọ', 'ma', 'jide', 'ya']",Igbo
+"[""N'ozi"", 'pụrụ', 'iche', 'ọ', 'gụpụtara', 'na', 'mmemme', 'ahụ', 'Bishọọpụ', 'ụka', 'Angịlịkan', 'na', 'Dayọsiisi', 'Awka', 'onye', 'bụkwa', 'Ashbishọọpụ', 'nke', 'mpaghara', 'Niger', 'bụ', 'Ashbishọọpụ', 'Alexander', 'Chibuzor', 'Ibezim', 'kpọrọ', 'òkù', 'ka', 'e', 'nwee', 'ezi', 'nchekwa', ""n'ala"", 'Nigeria', 'ma', 'kwụsị', 'igbusi', 'mmadụ', 'aghara', 'aghara', 'na', 'mpaghara', 'ebe', 'dị', 'iche', 'iche']",Igbo
+"['DSP', 'Oyeyemi', 'kwuru', 'na', 'nkwuputa', 'ahụ', 'mere', 'ka', 'a', 'nwụchikọkwuo', 'Kolawole', 'Imoleayo', 'bụ', 'onye', 'nọ', 'n', 'agbata', 'nwaanyị', 'ahụ', 'na', 'di', 'na', 'nwunye', 'ahụ', 'o', 'resiri', 'ụmụaka', 'ahụ']",Igbo
+"['Ọ', 'gara', 'n', 'ihu', 'mee', 'ka', 'a', 'mara', 'na', 'ndị', 'ahụ', 'a', 'nwụchikọrọ', 'na-enyeziri', 'ndị', 'uweojii', 'aka', 'n', 'ime', 'nnyocha', 'ugbua', 'banyere', 'okwu', 'ahụ']",Igbo
+"[""N'okwu"", 'nke', 'ya', 'banyere', 'nke', 'ahụ', 'onyeisi', 'ndị', 'uweojii', 'na', 'steeti', 'ahụ', 'bụ', 'Kọmishọna', 'Edward', 'Awolowo', 'Ajogun', 'nyere', 'ntụziaka', 'ka', 'a', 'hafee', 'ndị', 'ahụ', 'n', 'aka', 'ngalaba', 'ọ', 'dị', 'n', 'aka', 'bụ', 'ngalaba', 'Anti-Human', 'Trafficking', 'and', 'Child', 'Labour', 'Unit', 'nke', 'State', 'Criminal', 'Investigations', 'and', 'Intelligence', 'Department', 'SCIID', 'maka', 'ezi', 'nnyocha']",Igbo
+"['Ụfọdụ', 'ndị', 'ọzọ', 'sonyere', 'ma', 'kwuo', 'okwu', 'na', 'mmemme', 'ahụ', 'gụnyèrè', 'Bishọọpụ', 'ụka', 'Ktọliiki', 'na', 'dayọsiisi', 'Awka', 'bụ', 'Bishọọpụ', 'Paulinus', 'Ezeokafor', 'eze', 'ọdịnala', 'Nnewi', 'bụ', 'Igwe', 'Kenneth', 'Orizu', 'onyeisi', 'òtù', 'ọrụ', 'haziri', 'sinọọdụ', 'ahụ', 'bụ', 'Maazị', 'Obinna', 'Etele', 'tinyere', 'ọtụtụ', 'ndị', 'ọzọ']",Igbo
+"['Ọ', 'bụ', 'nnukwu', 'arụ', 'kwọ', 'nwa', 'ka', 'a', 'gbara', ""n'anwụ"", 'dịka', 'ndị', 'ọrụ', 'Nigeria', 'Security', 'and', 'Civil', 'Defence', 'Corps', 'bụ', 'NSCDC', ""n'aha"", 'mkpirisì', 'ngalaba', 'nke', 'steeti', 'Anambra', 'jidere', 'ma', 'kpụgharịa', 'otu', 'nwoke', 'gbara', 'ahọ', 'iri', 'anọ', 'na', 'asatọ', 'maka', 'ịkwasò', 'ụmụ', 'ya', 'ụmụnwaanyị', 'atọ', 'iko', ""n'ike"", 'na', 'steeti', 'ahụ']",Igbo
+"['Gọvanọ', 'Obianọ', 'kwupụtara', 'nke', 'a', 'na', 'mmemme', 'sinọọdụ', 'ahọ', '2021', 'nke', 'ụka', 'Angịlịkan', 'na', 'dayọsiisi', 'Awka', 'bụ', 'nke', 'weere', 'ọnọdụ', ""n'ụlọụka"", 'St']",Igbo
+"['Micheal', 'and', 'All', 'Angel', ""'s"", 'Church', 'Nawfia', 'dị', ""n'okpuru"", 'ọchịchị', 'Njikọka', 'nke', 'steeti', 'ahụ', 'ma', 'bụrụkwa', 'àgbà', 'nke', 'abụọ', 'nke', 'sinọọdụ', 'nke', 'iri', 'abụọ', 'nke', 'dayọsiisi', 'ahụ']",Igbo
+"['Dịka', 'o', 'siri', 'kọwaa', 'nwoke', 'ahụ', 'bụ', 'Maazị', 'Igbo', 'Thomas', 'bụ', 'onye', 'obodo', 'Okolo', 'Anị', 'dị', ""n'okpuru"", 'ọchịchị', 'ime', 'obodo', 'Igbo', 'Etiti', 'nke', 'steeti', 'Enugu', 'ma', 'biri', 'ebiri', ""n'obodo"", 'Enuọjị', 'dị', ""n'Enugwu-Ukwu"", ""n'okpuru"", 'ọchịchị', 'Njikọka', 'dị', 'na', 'steeti', 'Anambra', 'bụ', 'ebe', 'ọ', 'nọrọ', 'wee', 'kụọ', 'akụmakụ', 'ahụ']",Igbo
+"['Na', 'mbụ', ""n'okwuchukwu"", 'ya', ""n'ebe"", 'ahụ', 'Bishọọpụ', 'ụka', 'Angịlịkan', 'na', 'Dayọsiisi', 'Lagos', 'bụ', 'Rt']",Igbo
+['Rev'],Igbo
+"['Humphrey', 'Olumakaiye', 'bụ', 'onye', 'gbadoro', 'ụkwụ', ""n'isiokwu"", 'sinọọdụ', 'ahụ', 'kpọrọ', 'òkù', 'ka', 'onye', 'ọbụla', 'jiri', 'ọnatarachi', 'ya', 'na', 'akụnụba', 'ya', 'wee', 'jeere', 'Chineke', 'ozi', 'ma', 'kwàdo', 'mgbasà', 'oziọma', 'Ya']",Igbo
+"['Dịka', 'ọ', 'na-agba', 'akaebe', 'na', 'ọnọdụ', 'ngalaba', 'dị', 'iche', 'iche', ""n'ala"", 'Nigeria', 'amachaghịzị', 'kwụrụ', 'ugbua', 'ya', 'bụ', 'Bishọọpụ', 'mèkwàrà', 'ka', 'a', 'mara', 'na', 'ndị', 'ụka', 'nwèrè', 'ọtụtụ', 'ọrụ', 'pụrụ', 'iche', 'chere', 'ha', ""n'ihu"", ""n'ịkwalite"", 'ezi', 'ọnọdụ', 'mmepe', 'bụ', 'ịgbà', ""n'obodo""]",Igbo
+"[""N'akụkọ"", 'ọzọ', 'dịkwa', 'ka', 'ibe', 'ya', 'ndị', 'ọrụ', 'NSCDC', 'ahụ', 'nọkwara', 'na', 'nsonso', 'a', 'wee', 'jide', 'otu', 'onye', 'a', 'na-enyo', 'ènyò', 'na', 'ọ', 'bụ', 'onye', 'otu', 'nzuzo']",Igbo
+"['Akụkọ', 'kọrọ', 'na', 'ya', 'bụ', 'nwoke', 'wụrụ', 'aja', 'ngwuru', 'wee', 'mabata', ""n'ogige"", 'isi', 'ụlọọrụ', 'NSCDC', 'dị', ""n'Awka"", 'nke', 'mezịrị', 'e', 'jiri', 'nwụchie', 'ya']",Igbo
+"['Mgbe', 'e', 'jidere', 'ya', 'nwaokorobịa', 'ahụ', 'kọwara', 'na', 'ọ', 'bụ', 'ọsọ', 'ndụ', 'ka', 'ọ', 'na-aga', 'wee', 'wụbàta', ""n'ebe"", 'ahụ', ""n'ihi"", 'na', 'ndị', 'otu', 'nzuzo', 'na-achụ', 'ya', 'ọsọ', 'oge', 'ahụ', 'ka', 'ha', 'memilaa', 'ya']",Igbo
+"['Ụfọdụ', 'ndị', 'ọzọ', 'sonyere', 'ma', 'kwukwa', 'okwu', 'na', 'mmemme', 'ahụ', 'gụnyèrè', 'Bishọọpụ', 'ụka', 'Katọliiki', 'na', 'dayọsiisi', 'Awka', 'bụ', 'Bishọọpụ', 'Paulinus', 'Ezeokafor', 'eze', 'ọdịnala', 'Nnewi', 'bụ', 'Igwe', 'Kenneth', 'Orizu', 'onyeisi', 'òtù', 'ọrụ', 'haziri', 'sinọọdụ', 'ahụ', 'bụ', 'Maazị', 'Obinna', 'Etele', 'tinyere', 'ọtụtụ', 'ndị', 'ọzọ']",Igbo
+"['Aka', 'ndị', 'uweojii', 'na', 'steeti', 'Anambra', 'akparala', 'mmadụ', 'abụọ', 'bụ', 'ndị', 'a', 'na-enyo', 'ènyò', 'na', 'ha', 'bụ', 'ndị', 'otu', 'nzuzo', 'ma', 'bụrụkwa', 'ndị', 'na-esonye', ""n'ọgụ"", 'ahụ', 'ndị', 'otu', 'nzuzo', 'na-alụ', 'ugbua', 'na', 'mpaghara', 'ebe', 'dị', 'iche', 'iche', 'na', 'gburugburu', 'Awka', 'bụ', 'isi', 'obodo', 'steeti', 'ahụ']",Igbo
+"['DSP', 'Toochukwu', 'mere', 'ka', 'a', 'mara', 'na', 'a', 'dọnyela', 'ozu', 'mmadụ', 'abụọ', 'ahụ', 'a', 'gbagburu', ""n'ụlọ"", 'nchekwa', 'ozu', 'ebe', 'ndị', 'uweojii', 'weghàràzịkwàrà', 'ọnọdụ', 'ugbua', 'iji', 'wètá', 'ya', 'bụ', 'ọgụ', 'na', 'atụmatụ', 'ndị', 'otu', 'nzuzo', 'ahụ', ""n'isi"", 'njedobe']",Igbo
+"['Ọ', 'gakwara', ""n'ihu"", 'kọwaa', 'na', 'a', 'na-emezị', 'nnyocha', 'ugbua', 'banyere', 'mmadụ', 'abụọ', 'ahụ', 'a', 'nwụchikọrọ', 'ebe', 'a', 'ka', 'na-agbasikwa', 'mbọ', 'ike', 'iji', 'nwọchikọọ', 'ndị', 'otu', 'nzuzo', 'ndị', 'ọzọ', 'bụkwa', 'ndị', 'nọ', ""n'ọsọ"", 'ugbua']",Igbo
+"['O', 'kwere', 'Ndị', 'Anambra', 'nkwà', 'na', 'ha', 'ha', 'ga-aga', ""n'ihu"", 'inye', 'ha', 'ezi', 'ọnọdụ', 'nchekwa', 'bụ', 'ịgbà', 'ọbụladị', 'dịka', 'o', 'kelere', 'ọchịchị', 'steeti', 'ahụ', 'maka', 'ezi', 'nkwàdo', 'ọ', 'na-enye', 'ha', 'bụ', 'ndị', 'ọrụ', 'nchekwa', ""n'ime"", 'steeti', 'ahụ', 'iji', 'rụọ', 'ọrụ', 'ha', 'nke', 'ọma']",Igbo
+"['CP', 'Kuryas', 'gwàkwàzịrị', 'ndị', 'ohi', 'ndị', 'otu', 'nzuzo', 'na', 'ndị', 'omekoomè', 'ka', 'ha', 'chegharịa', 'maọbụ', 'kwakọrọ', 'ngwongwo', 'ha', 'pụọ', 'na', 'steeti', 'ahụ', 'ugbua', ""n'ihi"", 'na', 'ụlọọrụ', 'ya', 'agaghị', 'ada', 'mbà', ""n'ịcha"", 'ha', 'ọkụ', 'na', 'ịchụ', 'ha', 'ọsọ', 'ụkwụ', 'eru', 'ala', 'na', 'steeti', 'ahụ', 'ruo', 'mgbe', 'ha', 'gwụchara']",Igbo
+"[""N'ịgbaso"", 'okwu', 'Igbo', 'ahụ', 'sị', 'na', 'otu', 'onye', 'anaghị', 'achụ', 'ngwere', 'mgbahige', 'aja', 'a', 'dụọla', 'ma', 'kpọkuo', 'ndị', 'ntorobịa', 'na', 'steeti', 'Anambra', 'ka', 'ha', 'sonye', ""n'amụma"", 'ịkwalite', 'ezi', 'ọnọdụ', 'nchekwa', 'tọrọ', 'àtọ', 'na', 'steeti', 'ahụ']",Igbo
+"['Ndị', 'omebe', 'iwu', 'steeti', 'Anambra', 'nọrọ', ""n'ụbọchị"", 'Tuuzdee', 'wee', 'nyòchaa', 'ma', 'nabàta', 'aha', 'mmadụ', 'iri', 'abụọ', 'na', 'otu', 'aka', 'na-achị', 'steeti', 'ahụ', 'bụ', 'Gọvanọ', 'Willie', 'Obianọ', 'zigaara', 'ha', 'ịbụ', 'ndị', 'isi', 'oche', 'nchere', 'oge', ""n'okpuru"", 'ọchịchị', 'iri', 'abụọ', 'na', 'otu', 'e', 'nwèrè', 'na', 'steeti', 'ahụ']",Igbo
+"['Ya', 'bụ', 'nnyòcha', 'na', 'nnabata', 'ndị', 'isi', 'oche', 'ahụ', 'bụ', 'nke', 'weere', 'ọnọdụ', ""n'isi"", 'ụlọ', 'ọrụ', 'omebe', 'iwu', 'steeti', 'ahụ', 'dị', ""n'Awka"", 'bụkwa', 'ndị', 'e', 'kwùrù', 'na', 'ọ', 'bụ', 'ọnwa', 'atọ', 'ka', 'ha', 'ga-eji', 'ọkwa', 'ahụ', 'nke', 'e', 'nwere', 'ike', 'imegharị', 'ma', 'ọ', 'bụ', 'gbatịnyekwuo', 'ya', 'ma', 'ha', 'nọzùo']",Igbo
+"['Igbo', 'sị', 'na', 'ọ', 'na-abụ', 'a', 'na-egbu', 'awaị', 'ọ', 'na-atọ', 'ụtọ', 'a', 'na-abachawanye', 'ji', 'maka', 'na', 'ọ', 'na-adị', 'mma', 'nke', 'e', 'mèrè', 'mma', 'kwòchaa', 'e', 'mee', 'ọzọ']",Igbo
+"['Ọ', 'kpọkuzịrị', 'ndị', 'mmadụ', 'ka', 'ha', 'kwụsị', 'ikwutọ', 'ndị', 'uwe', 'ojii', 'ma', 'ọ', 'bụ', 'ịhụta', 'ha', 'dịka', 'ndị', 'ọjọọ', 'kama', 'ka', 'ha', 'were', 'ha', 'mere', 'ndị', 'enyi', ""n'ịrụ"", 'ezi', 'ọrụ', ""n'ihi"", 'na', 'a', 'ka', 'nwekwara', 'ọtụtụ', 'ndị', 'ezigbo', 'mmadụ', ""n'ime"", 'ha', 'na-agbanyeghị', 'na', 'ụfọdụ', 'ndị', 'ọjọọ', 'nọkwa', ""n'etiti"", 'ha']",Igbo
+"['A', 'nọrọ', 'na', 'mmemme', 'ahụ', 'wee', 'nye', 'Gọvanọ', 'Obianọ', 'nkwanye', 'ugwu', 'site', ""n'aka"", 'ndị', 'uwe', 'ojii', 'ala', 'anyị', 'iji', 'sị', 'ya', 'jisie', 'ike', ""n'ịgbà"", 'ahụ', 'na-ada', 'ụda', 'ọ', 'na-eti', 'na', 'ngalaba', 'nchekwa', 'steeti', 'ahụ']",Igbo
+"[""N'izuụka"", 'gara', 'aga', 'ka', 'anyị', 'malitere', 'ileba', 'anya', ""n'isiokwu"", 'a', 'ma', 'bụrụkwa', 'nke', 'm', 'sitegoro', 'na', 'ya', 'wee', 'nye', 'nkọwa', 'ihe', 'gbasaara', 'arụ', 'ihe', 'dị', 'iche', ""n'etiti"", 'ya', 'na', 'nsọala', 'ma', 'nyekwa', 'ọmụmaatụ', 'arụ', 'na', 'nsọala']",Igbo
+"['Ka', 'ọ', 'dị', 'taa', 'ihe', 'anyị', 'ga-elebà', 'anya', ""n'ihe"", 'olenaole', 'fọrọ', 'banyere', 'isiokwu', 'ahụ', 'wee', 'mazie', 'ya', 'ákpụ']",Igbo
+"['Ọkụ', 'anyị', 'nyụrụ', ""n'izuụka"", 'gara', 'aga', 'oge', 'anyị', 'kpọpụtachara', 'ụfọdụ', 'ọmụmaatụ', 'arụ', 'na', 'nsọala', 'anyị', 'wee', 'wụsa', 'ọwa', ""n'ebe"", 'ahụ']",Igbo
+"['Ọ', 'bụ', 'ezie', 'na', 'Igbo', 'na-sị', 'na', 'ọ', 'na-abụ', 'arụ', 'gbàá', 'ahọ', 'ọ', 'bụrụ', 'omenala', 'mana', 'ọtụtụ', 'aghọtaghị', 'ihe', 'nke', 'ahụ', 'pụtara']",Igbo
+"['Agba', 'nke', 'abụọ', 'nke', 'atụmatụ', 'Operation', 'Kpochapụ', 'bụ', 'nke', 'a', 'gbàpèrè', 'nso-nso', 'a', 'site', ""n'aka"", 'Gọvanọ', 'Willie', 'Obianọ', 'na-achị', 'steeti', 'Anambra', 'ka', 'na-aga', ""n'ihu"", 'na-amịtawanye', 'mkpụrụ', 'ọma', 'ma', 'na-adọtawanye', 'ọtụtụ', 'akụkọ', 'ọgbụgba', 'àmà', 'dị', 'iche', 'iche']",Igbo
+"['Nke', 'a', 'bụ', 'nke', 'pụtara', 'ìhè', 'ọzọ', 'na', 'nso-nso', 'a', 'dịka', 'ndị', 'uwe', 'ojii', 'steeti', 'ahụ', 'nwụchikọrọ', 'mmadụ', 'anọ', 'a', 'na-enyo', 'ènyò', 'na', 'ha', 'bụ', 'ndị', 'ohi', 'ndị', 'na-atọrọ', 'mmadụ', 'nakwa', 'ndị', 'na-akwasò', 'nwaanyị', 'iko', ""n'ike""]",Igbo
+"['Tupu', 'mmadụ', 'ọbụla', 'aghọta', 'ihe', 'okwu', 'a', 'pụtara', 'ọ', 'ga-ebu', 'ụzọ', 'ghọta', 'ihe', 'bụ', 'arụ', 'na', 'ihe', 'bụ', 'omenala', 'nà', 'ihe', 'dị', 'iche', 'na', 'ha', 'abụọ', 'maka', 'na', 'onye', 'amaghị', 'ọfọ', 'nna', 'ya', 'na-akpọ', 'ya', 'mkpìrìsì', 'osisi']",Igbo
+"['Onye', 'amaghị', 'azụ', 'mmà', 'anaghị', 'ihu', 'ya']",Igbo
+"['Nke', 'a', 'bụ', 'nke', 'e', 'mere', 'ka', 'ụwa', 'mara', 'site', ""n'ozi"", 'a', 'kụpụrụ', 'nso-nso', 'a', 'site', ""n'aka"", 'onye', 'na-ahụ', 'maka', 'mmekọrịta', 'ọhaneze', 'na', 'ndị', 'uwe', 'ojii', 'na', 'steeti', 'ahụ', 'bụ', 'Maazị', 'Harụna', 'Mọhammed', ""n'aha"", 'onyeisi', 'ndị', 'uwe', 'ojii', 'na', 'ya', 'bụ', 'steeti', 'bụ', 'Maazị', 'John', 'Abang']",Igbo
+"['Ndị', 'omekoome', 'atọ', 'a', 'ka', 'e', 'kwùrù', 'na', 'ha', 'dakpòro', 'otu', 'nwa', 'agbọghọ', 'gbara', 'ahọ', 'iri', 'abụọ', 'na', 'ótù', 'pụnara', 'ya', 'ihe', 'niile', 'o', 'ji', 'ma', 'rie', 'ya', 'ọkọmbọ', ""n'ike""]",Igbo
+"['Ugbua', 'ị', 'ghọtagoro', 'ihe', 'ndị', 'Igbo', 'ji', 'ekwu', 'okwu', 'a', 'ma', 'ghọtakwa', 'ihe', 'dị', 'iche', ""n'etiti"", 'Arụ', 'na', 'Omenala', 'ọ', 'dịkwa', 'mkpa', 'ka', 'ị', 'ghọta', 'ihe', 'dị', 'iche', ""n'etiti"", 'Arụ', 'na', 'Nsọala', 'tupu', 'anyị', 'akọzie', ""n'ubi"", 'onye', 'anyị', 'bịara']",Igbo
+"['Ịkpụ', 'arụ', 'bụ', 'mmemme', 'omenala', 'a', 'na-eme', 'oge', 'e', 'mere', 'arụ', ""n'obodo"", 'iji', 'wee', 'mee', 'ka', 'obi', 'mmụọ', 'maọbụ', 'ala', 'e', 'mejọrọ', 'merụrụ', 'dàjụọ', 'ma', 'kutuo', 'ka', 'iwe', 'ha', 'wee', 'ghara', 'ịdịzị', 'ọkụ', ""n'ebe"", 'obodo', 'ahụ', 'maọbụ', 'onye', 'ndị', 'mere', 'arụ', 'ahụ', 'nọ']",Igbo
+"['Ndị', 'ahụ', 'ka', 'e', 'kwùrù', 'na', 'ha', 'serekwàrà', 'ònyòyóò', 'ebe', 'nwata', 'nwaanyị', 'ahụ', 'gbà', 'ọtọ', 'oge', 'ahụ', 'ha', 'na-amazụrị', 'ya', 'ma', 'gwa', 'ya', 'na', 'ọ', 'ga-akwụ', 'ha', 'otu', 'nde', 'nàrị', 'ma', 'e', 'meghị', 'ma', 'ya', 'ha', 'agbaa', 'ya', 'bụ', 'onyoonyoo', ""n'anwụ"", 'wee', 'mebie', 'aha', 'ya']",Igbo
+"['Arụ', 'na', 'Nsọala', 'bụ', 'ụmụnne', 'abụọ', 'yiri', 'onwe', 'ha', 'mana', 'ha', 'abụghị', 'otu', 'ihe', ""n'agbanyeghị"", 'na', 'e', 'nwere', 'ụfọdụ', 'ihe', 'ha', 'nwekọrọ', 'ọnụ', 'ha', 'abụọ', 'bụ', 'ihe', 'ala', 'na', 'asọ', 'nsọ', 'na', 'ihe', 'a', 'nabataghị', 'anabata', ""n'obodo""]",Igbo
+"['Ha', 'abụọ', 'bụ', 'ihe', 'ọjọọ', 'megide', 'mmadụ', 'na', 'ala']",Igbo
+"['Ndịiche', 'dị', ""n'etiti"", 'ụmụnne', 'abụọ', 'dàbèèrè', ""n'ihe"", 'e', 'mere', 'kpọmkwem', 'onye', 'mere', 'ya', 'na', 'etu', 'e', 'siri', 'mee', 'ya', 'maka', 'na', 'arụsị', 'niile', 'bụ', 'arụsị', ""n'ezie"", 'mana', 'e', 'nwere', 'arụsị', 'ka', 'ibè', 'ya', 'njọ']",Igbo
+"['Arụ', 'niile', 'bụ', 'njọ', 'mana', 'njọ', 'niile', 'abụghị', 'arụ', 'etu', 'ahụ', 'ka', 'ọ', 'dịkwa', 'na', 'nsọala']",Igbo
+"['Otu', 'ọ', 'dị', 'ndị', 'a', 'bụ', 'ajọ', 'nkịta', 'ji', 'isi', 'anya', 'ọkụ', 'kwètàra', ""n'eziokwu"", 'sị', 'na', 'ha', 'mèrè', 'ya', 'bụ', 'ihe', 'ma', 'ndị', 'uwe', 'ojii', 'anapụtakwala', 'ha', 'onyonyoo', 'ahụ', 'ebe', 'ha', 'bụzịkwa', 'ndị', 'a', 'ga-akpụpụ', 'ụlọ', 'ikpe', 'oge', 'adịghị', 'anya', 'ka', 'e', 'were', 'usoro', 'iwu', 'wee', 'gwọọ', 'ha', 'ji', 'mmanụ']",Igbo
+"['Onyeisi', 'ndị', 'uwe', 'ojii', 'bụ', 'Maazị', 'John', 'Abang', 'kwere', 'nkwà', 'na', 'ndị', 'uwe', 'ojii', 'steeti', 'ga-aga', ""n'ihu"", 'ịhụ', 'na', 'e', 'nwere', 'ezi', 'ọnọdụ', 'nchekwa', 'na', 'steeti', 'ahụ', 'ọ', 'kachasị', ""n'oge"", 'mmemme', 'ekeresimeesi', 'a']",Igbo
+"['Ọ', 'ga-aka', 'mma', 'ịgbado', 'ya', 'ebe', 'a', ""n'ihe"", 'gbasaara', 'Nsọala', 'ka', 'ọ', 'dịbazie', 'ụbọchị', 'anyị', 'm', 'ga-eji', 'Nsọala', 'mere', 'isiokwu', 'ka', 'anyị', 'wee', 'labàá', 'ya', 'anya', 'maka', 'na', 'ngwùgwù', 'a', 'ga-atọghe', 'atọghe', 'ọ', 'dịghị', 'mma', 'ka', 'a', 'tụọ', 'ya', 'mbọ']",Igbo
+"['Nke', 'a', 'bụ', 'nnọọ', 'otu', ""n'ime"", 'akụkọ', 'ọgbụgba', 'ama', 'sochigoro', 'amụmà', 'Operation', 'Kpochapụ', 'nke', 'abụọ', 'bụ', 'nke', 'aka', 'na-achị', 'steeti', 'ahụ', 'bụ', 'Gọvanọ', 'Willie', 'Obianọ', 'gbàpèrè', 'na', 'nso-nso', 'a', 'iji', 'kwàlitekwuo', 'agha', 'ahụ', 'a', 'na-ebu', 'megide', 'mpụ', 'ohi', 'otu', 'nzuzo', 'ntọrị', 'mmadụ', 'tinyere', 'arụrụ', 'ala', 'na', 'omekoome', 'ndị', 'ọzọ']",Igbo
+"['Igbo', 'sị', 'na', 'ọ', 'na-abụ', 'ebe', 'ọkụ', 'nyụọrọ', 'a', 'wụsa', 'ọwa']",Igbo
+"[""N'ihi"", 'nke', 'a', 'anyị', 'ga-agbadokwa', 'ya', 'ebe', 'a', 'ugbua', ""n'ihe"", 'gbasaara', 'Arụ', 'ma', 'laghachikwa', 'azụ', 'na', 'ya', 'oge', 'ọzọ', 'maka', 'na', 'ofe', 'tọrọ', 'ụtọ', 'anaghị', 'adị', 'mma', 'ka', 'a', 'gọọ', 'ya', 'àgwọọ']",Igbo
+"['Ya', 'bụ', 'chebirikwa', 'anyị', 'ọzọ', ""n'isiokwu"", 'a', ""n'oge"", 'adịghị', 'anya', 'ka', 'anyị', 'wee', 'malitekwa', 'ebe', 'anyị', 'kwụsịrị', 'ugba']",Igbo
+"['Mana', 'tupu', 'mgbe', 'ahụ', 'a', 'rịọ', 'm', 'gị', 'emekwala', 'arụ']",Igbo
+"['Ndị', 'ahụ', 'e', 'jidere', 'maka', 'igwù', 'ojoro', 'ka', 'e', 'kwùrù', 'na', 'ji', 'otu', 'nwa', 'amadi', 'bụ', 'Oledịmma', 'Macdowal', ""n'ọrụ"", 'ma', 'kapụ', 'ya', 'ego', 'dị', 'otu', 'nde', 'naịra', 'na', 'ụma', 'abụọ']",Igbo
+"['Usoro', 'nzikọrịta', 'ozi', 'ọgbara', 'ọhụrụ', 'Social', 'Media', 'bụzi', 'egwu', 'e', 'ji', 'n', 'ụwa', 'nille', 'taa']",Igbo
+"['O', 'mere', 'ka', 'mgbasaozi', 'na-aga', 'ọsọ', 'ọsọ', 'n', 'egbughị', 'oge', 'ọbụla', 'karịa', 'ka', 'ọ', 'dị', 'na', 'mbụ', 'oge', 'ụmụ', 'ụwa', 'ji', 'eze', 'ekpe', 'ekwere', 'n', 'ihe', 'gbasara', 'mgbasaozi']",Igbo
+"['Ihe', 'e', 'nwekọtara', ""n'aka"", 'ndị', 'ahụ', 'gụnyèrè', 'nsụnsụ', 'egbe', 'mmà', 'anyike', 'ọgwụ', 'ike', 'anwụrụ', 'ike', 'nakwa', 'ọtụtụ', 'ihe', 'ndị', 'ọzọ', 'ha', 'ji', 'eyi', 'ụmụ', 'mmadụ', 'égwù']",Igbo
+"['Dịka', 'onye', 'edemede', 'o', 'nwetala', 'ntúrú', 'ùgò', 'na', 'nkwanye', 'ùgwù', 'karịrị', 'iri', 'abụọ', 'na', 'ise', ""n'ihe"", 'gbasaara', 'edemede', 'site', ""n'ala"", 'anyị', 'na', ""n'ogoogo"", 'mba', 'òfèsi']",Igbo
+"['Nturu', 'ùgò', 'na', 'nkwanye', 'ùgwù', 'ndị', 'ahụ', 'gụnyere', 'Nigerian', 'Writers', 'Award', 'Indigenous', 'Writer', 'of', 'The', 'Year', 'N', 'oge', 'gboo', 'mgbe', 'ezi', 'dị', 'n', 'ukwu', 'ụkwa', 'ọ', 'bụ', 'leta', 'ka', 'e', 'ji', 'agbasa', 'ozi']",Igbo
+"['Ha', 'kwukwara', 'na', 'ha', 'nọ', 'na-akụ', 'waya', 'tinyere', 'foonu', 'nke', 'na-adịghị', 'ebe', 'niile']",Igbo
+"['Leta', 'bụ', 'nke', 'gazuru', 'ebe', 'niile', 'mana', 'ọ', 'na-ete', 'aka', 'tupu', 'o', 'ruo', 'onye', 'e', 'deere', 'ya', 'aka']",Igbo
+"['Mgbe', 'ịkpọ', 'na', 'ekwentị', 'pụtara', 'mmadụ', 'na-esi', 'obodo', 'ya', 'gaa', 'obodo', 'ọzọ', 'tere', 'aka', 'n', 'ụlọọrụ', 'ọ', 'dị', 'n', 'aka', 'maka', 'ịkpọ', 'onye', 'nke', 'ya', 'na', 'foonu']",Igbo
+"['Mgbe', 'ụfọdụ', 'onye', 'ahụ', 'na-anọcha', 'ọtụtụ', 'awa', 'n', 'enwetaghị', 'onye', 'ahụ', 'dịka', 'ọnọdụ', 'siri', 'dị']",Igbo
+"['Ka', 'ọ', 'dị', 'taa', 'ndị', 'nne', 'na', 'nna', 'ahụ', 'akpọrọla', 'ụmụ', 'ha', 'laa', 'ebe', 'ndị', 'uwe', 'ojii', 'ka', 'na-emekwa', 'nnyocha', 'bànyere', 'ya', 'bụ', 'okwu', 'na', 'okwu', 'ndị', 'omekoome', 'ndị', 'ọzọ', 'ha', 'jidere']",Igbo
+"[""N'ịgbaso"", 'nke', 'ya', 'bụ', 'onyeisi', 'ndị', 'uwe', 'ojii', 'fòòro', 'ntutu', 'taa', 'sị', 'na', 'ha', 'bụ', 'ndị', 'ọrọ', 'nchekwa', 'agaghị', 'ezu', 'ike', ""n'imemìlà"", 'na', 'ibuso', 'mpụ', 'ohi', 'na', 'arụrụ', 'ala', 'agha', 'na', 'steeti', 'ahụ', 'ruo', 'mgbe', 'a', 'chụrụ', 'ha', 'niile', 'ọsọ', 'ụkwụ', 'erughị', 'ala', 'na', 'ya', 'bụ', 'steeti']",Igbo
+"['Ọnọdụ', 'ahụ', 'bụnnọọ', 'ọnọdụ', 'ihe', 'a', 'hụrụ', 'e', 'were', 'n', 'ihi', 'na', 'ọ', 'bụ', 'nkụ', 'dị', 'na', 'mba', 'na-eghere', 'mba', 'nri', 'mmadụ', 'anaghị', 'ama', 'ihe', 'ọ', 'maghị']",Igbo
+"['N', 'ime', 'ihe', 'niile', 'Igbo', 'kwuru', 'okwu', 'sị', 'na', 'ihe', 'nwere', 'uru', 'nwekwara', 'ọghọ', 'm']",Igbo
+"['Ya', 'mere', 'ọtụtụ', 'ndị', 'mmadụ', 'na-akọwa', 'na', 'ọghọ', 'm', 'so', 'nzikọrịta', 'ozi', 'ọgbara', 'ọhụrụ', 'karịrị', 'uru', 'so', 'ya', 'ebe', 'ụfọdụ', 'kwuru', 'na', 'uru', 'so', 'ya', 'ka', 'ọghọ', 'm']",Igbo
+"['Mana', 'ọ', 'bụrụ', 'oge', 'mbụ', 'I', 'nwere', 'ike', 'buru', 'mmadụ', 'onye', 'ọrịa', 'gaa', 'ụlọọgwụ', 'a', 'gwa', 'gị', 'na', 'dọkịnta', 'pụrụ', 'apụ']",Igbo
+"['Oge', 'ụfọdụ', 'a', 'na-anọ', 'ebe', 'a', 'na-eche', 'dọkịnta', 'onye', 'ahụ', 'anwụọ']",Igbo
+"['Dịka', 'onye', 'nta', 'akụkọ', 'ọ', 'rụọla', ""n'ụlọ"", 'mbipụta', 'akwụkwọ', 'akụkọ', 'dị', 'iche', 'iche', 'ma', 'bụrụkwa', 'onye', 'edemede', 'na', 'onye', 'ntaakụkọ', ""n'Igbo"", 'Radio']",Igbo
+"['Ma', 'taa', 'tupu', 'e', 'buru', 'onye', 'ahụ', 'gaa', 'ụlọọgwụ', 'a', 'na-akpọ', 'dọkịnta', 'ọ', 'nọrọ', 'anọrọ', 'nke', 'bụ', 'na', 'e', 'buru', 'onye', 'ahụ', 'bata', 'e', 'bido', 'ozigbo', 'nyebe', 'ya', 'ọgwụgwọ']",Igbo
+"['Ụzọ', 'dị', 'otu', 'a', 'na-eme', 'ka', 'a', 'na-azọta', 'ndụ']",Igbo
+"['Ya', 'mere', 'ana', 'm', 'ekwu', 'na', 'nzikọrịta', 'ozi', 'ọgbara', 'ọhụrụ', 'dị', 'mma']",Igbo
+"['Chike', 'Ike', 'Ihe', 'ọbụla', 'nwere', 'uru', 'nwere', 'ọghọm']",Igbo
+"['Ụzọ', 'e', 'si', 'ezikọrịta', 'ozi', 'ugbua', 'bara', 'nnukwu', 'uru', 'ma', 'na-egbokwa', 'mkpa', 'mana', 'o', 'mebiela', 'ụmụaka', 'ugbu', 'a']",Igbo
+"['Ọtụtụ', 'ụmụaka', 'alaala', 'n', 'iyi', 'n', 'ihi', 'ụzọ', 'nzikọrịta', 'ozi', 'ọgbara', 'ọhụrụ']",Igbo
+"['O', 'deela', 'akwụkwọ', 'asatọ', 'ma', 'nwekwa', 'edemede', 'karịrị', 'narị', 'asatọ', ""n'ọnụ"", 'ọgụgụ', 'o', 'bipùtagòrò', ""n'ìkùkù""]",Igbo
+"['Ọ', 'bụ', 'onye', 'isi', 'òtù', 'jikọtara', 'ndị', 'ntorobịa', 'na-ede', 'akwụkwọ', ""n'ala"", 'Nigeria', 'ngalaba', 'steeti', 'Anambra']",Igbo
+"['Ha', 'gụchara', 'akwụkwọ', 'ma', 'onweghị', 'nke', 'chọrọ', 'ịrụ', 'ọrụoyibo']",Igbo
+"['Ị', 'juo', 'ya', 'ọ', 'gwa', 'gị', 'na', 'ya', 'ahụghị', 'ọrụ']",Igbo
+"['Ọ', 'bụ', 'eziokwu', 'na', 'ọrụ', 'adịghị', 'mana', 'onye', 'chọrọ', 'ịgwa', 'onwe', 'ya', 'eziokwu', 'na-ebidogodu', 'na-arụ', 'nke', 'o', 'nwetere', 'tupu', 'o', 'nwetezie', 'nke', 'dị', 'elu']",Igbo
+"['Mana', 'ha', 'agaghị', 'eme', 'nke', 'ahụ']",Igbo
+"['Otu', 'Sụwakwa', 'Igbo', 'bụ', 'otu', 'na-agba', 'mbọ', 'maka', 'ichekwaba', 'na', 'ịkwalite', 'asụsụ', 'Igbo', 'ma', 'na-akpọkwa', 'òkù', 'k', 'onye', 'ọbụla', 'bụ', 'nwaafọ', 'Igbo', 'na-asụ', 'asụsụ', 'Igbo']",Igbo
+"['N', 'ikpeazụ', 'o', 'si', 'ebe', 'ahụ', 'kpọọ', 'm', 'n', 'ekwenti', 'na-ebe', 'akwa']",Igbo
+"['O', 'kwuru', 'na', 'nwoke', 'ahụ', 'kpọrọ', 'ya', 'gaa', 'n', 'otu', 'ụlọ', 'oriri', 'na', 'ọńụńụ']",Igbo
+"['Ka', 'ha', 'nọchara', 'abalị', 'abụọ', 'ebe', 'ahụ', 'na', 'ya', 'malitere', 'nyobe', 'ya', 'enyobe']",Igbo
+"['O', 'nweghị', 'nne', 'na', 'nna', 'taa', ""n'Anambra"", 'anụbeghị', 'nkụzi', 'banyere', 'ịkwalite', 'asụsụ', 'Igbo', 'ọ', 'bụghị', 'site', ""n'ọnụ"", 'ndị', 'Otu', 'Sụwakwa', 'Igbo', 'ọ', 'bụrụ', 'site', ""n'ọnụ"", 'ndị', 'Otu', 'Sụwakwa', 'Igbo', 'kuziiri']",Igbo
+"['Ị', 'maara', 'na', 'ọ', 'bụ', 'na', 'be', 'mụ', 'bụ', 'Pita', 'Ejiofor', 'ka', 'a', 'nọrọ', 'wee', 'tụọ', 'arò', 'maka', 'ibido', 'BBC', 'Igbo']",Igbo
+"['M', 'wee', 'jụọ', 'ya', 'sị', 'Ị', 'gwàrà', 'm', 'mgbe', 'ị', 'na-ajụ', 'm', 'ajụjụ', 'na', 'Nigeria', 'nwere', 'ọkpụrụkpụ', 'asụsụ', 'atọ', 'tínyéré', 'bekee', 'i', 'wee', 'gụpụtasịa', 'ha', 'dịka', 'Igbo', 'Hausa', 'na', 'Yoruba', 'M', 'wee', 'jụọ', 'ya', 'ọzọ', 'sị', 'Ụnụ', 'bidoro', 'BBC', 'Hausa', ""n'ahọ"", '1957', 'wee', 'na-akwadokwa', 'ugbua', 'ibido', 'BBC', 'Yoruba', 'nke', 'na', 'ụnụ', 'ákàkwuola', 'ụbọchị', 'ụnụ', 'ga-ebido', 'ya', 'kpọmkwem']",Igbo
+"['Biko', 'nna', 'anyị', 'kedụ', 'mgbe', 'ụnụ', 'ga-ebido', 'BBC', 'Igbo', 'Ihe', 'a', 'm', 'na-agwa', 'gị', 'mèrè', ""n'okpuru"", 'Mango', 'dị', 'na', 'be', 'm', ""n'Udoka"", 'Esteeti']",Igbo
+"['Ihe', 'm', 'na-akpọzị', 'Mango', 'ahụ', 'taa', 'bụ', 'BBC', 'Mango']",Igbo
+"['Edere', 'm', 'aha', 'ndị', 'nọgasị', 'mgbe', 'ihe', 'a', 'na-eme']",Igbo
+"['M', 'wee', 'jụọ', 'ya', 'kedụ', 'oge', 'ha', 'ga-ebido', 'BBC', 'Igbo']",Igbo
+"['Ya', 'bụ', 'na', 'ị', 'jụọ', 'm', 'ihe', 'anyị', 'mepụtagoro', ""n'ịkwalite"", 'asụsụ', 'Igbo', 'm', 'ga-asịkwa', 'na', 'e', 'kwube', 'isi', 'sekpụ', 'ntị', 'na', 'ndị', 'bidoro', 'BBC', 'Igbo', 'm', 'ga-asịkwa', 'na', 'ọ', 'bụkwa', 'Otu', 'Sụwakwa', 'Igbo', 'ooo']",Igbo
+"['Ụgwọ', 'chi', 'onye', 'ụwa', 'ji', 'ya', 'bụ', 'ịgbara', 'ọgụ', ""n'ọha"", 'mmadụ', 'na', ""n'ọha"", 'mmụọ']",Igbo
+"['Nke', 'a', 'bụ', 'maka', 'na', 'chi', 'onye', 'na', 'nkwenye', 'onye', 'na-edu', 'onye']",Igbo
+"['Ọ', 'bụkwa', 'ihe', 'onye', 'na-akpọku', 'bụ', 'chi', 'ya']",Igbo
+"['Ya', 'bụ', 'na', 'ihe', 'anyị', 'mègoro', 'iji', 'kwàlite', 'asụsụ', 'Igbo', 'ehika']",Igbo
+"['Ọ', 'dị', 'ọtụtụ', 'nke', 'na', 'agaghị', 'm', 'echetanwuzị', 'maọbụ', 'gụpụtanwuo', 'ha', 'niile', ""n'ótù"", ""n'ótù""]",Igbo
+"['Site', ""n'ihe"", 'ndị', 'a', 'niile', 'm', 'kọọrọ', 'gị', 'ị', 'ga-ahụ', 'na', 'ihe', 'ndị', 'Otu', 'Sụwakwa', 'Igbo', 'megoro', ""n'ịkwàlite"", 'asụsụ', 'Igbo', 'ehika', 'ọ', 'dị', 'ọtụtụ']",Igbo
+"['Anyị', 'arahụbeghị', 'ụra', 'maka', 'na', 'anyị', 'ka', 'mụ', 'anya', 'na-agbasikwa', 'mbọ', 'ike', 'iji', 'mee', 'karịa', 'ka', 'anyị', 'megoro']",Igbo
+"['Ihe', 'ndị', 'a', 'niile', 'bụcha', 'ụzọ', 'ọma', 'agwụ', 'si', 'egosipụta', 'onwe', 'ya', 'na', 'ndụ', 'mmadụ']",Igbo
+"['I', 'nwékwara', 'ike', 'kpọọ', 'ya', 'ụzọ', 'ọma', 'agwụ', 'si', 'arụrụ', 'mmadụ', 'ọrụ', 'maọbụ', 'si', 'eji', 'mmadụ', 'arụ', 'ọrụ']",Igbo
+"[""N'aka"", 'nke', 'ọzọ', 'e', 'nwekwara', 'ụzọ', 'nke', 'abụọ', 'agwụ', 'si', 'egosipụta', 'onwe', 'ya', 'na', 'ndụ', 'mmadụ']",Igbo
+"['Agaghị', 'm', 'akpọ', 'nke', 'a', 'ụzọ', 'ọjọọ', 'mana', 'nkọwa', 'ya', 'ga-eme', 'ka', 'ị', 'ghọta', 'ya', 'nke', 'ọma']",Igbo
+"['Ọ', 'bụrụ', 'na', 'onwe', 'ahụ', 'amaghị', 'ihe', 'na-eme', 'ya', 'cháá-cháá', 'o', 'wee', 'ga', 'gbaa', 'afa', 'a', 'gwa', 'ya', 'na', 'ọ', 'bụ', 'agwụ', 'na-akpa', 'ya', 'maọbụ', 'na', 'eme', 'ya', 'ihe', 'ahụ', 'ihe', 'ọzọ', 'onye', 'ahụ', 'ga-ajụ', 'bụ', 'Gịnị', 'ka', 'a', 'ga-eme', 'banyere', 'nke', 'a']",Igbo
+"['Ihe', 'ahụ', 'chọkwàrà', 'iyi', 'nke', 'mere', ""n'Imo"", 'steeti', 'otu', 'oge', 'ebe', 'ụmụokorobịa', 'abụọ', 'lụrụ', 'ezigbo', 'ọgụ', 'maka', 'na', 'nke', 'ọzọ', 'na-asụ', 'bekee', 'nke', 'ọzọ', 'wee', 'sị', 'ya', 'asụzịla', 'ya', 'ya', 'sụba', 'asụsụ', 'Igbo', 'ọgụ', 'wee', 'dàá']",Igbo
+"['Kaosiladị', 'dịka', 'nkwenye', 'ndị', 'Igbo', 'siri', 'dị', 'ụsà', 'asịsà', 'ajụjụ', 'a', 'adịghị', 'abụọ']",Igbo
+"['Naanị', 'ụsa', 'e', 'nwere', 'nye', 'nke', 'ahụ', 'bụ', 'na', 'onye', 'ahụ', 'ga-eme', 'ihe', 'a', 'na-akpọ', 'Ịrụ', 'Agwụ']",Igbo
+"['Chetekwa', 'na', 'agwụ', 'nwere', 'ike', 'ịma', 'nwoke', 'maọbụ', 'nwaanyị', 'okenye', 'maọbụ', 'nwata']",Igbo
+"['Ọ', 'bụrụ', 'na', 'onye', 'ahụ', 'bụ', 'nwoke', 'ebe', 'ahụ', 'onye', 'ahụ', 'ga-eji', 'mere', 'ihu', 'agwụ', 'ga-adịrịrị', ""n'ala"", 'obi', 'ya']",Igbo
+"['Ọ', 'bụkwa', 'ụkwa', 'na', 'ji', 'bụ', 'nri', 'e', 'ji', 'arụ', 'agwụ']",Igbo
+"['E', 'jighị', 'osikapa', 'àgwà', 'indomí', 'spagetì', 'maọbụ', 'nri', 'ọgbaraọhụrụ', 'ndị', 'ọzọ', 'were', 'arụ', 'agwụ']",Igbo
+"['Nke', 'ahụ', 'gachaa', 'a', 'na-asaghesi', 'ọmụnkwụ', 'ma', 'rụnye', 'ya', ""n'ihu"", 'agwụ', 'ahụ', 'ma', 'werekwa', 'ugbele', 'ọkụkọ', 'olenaole', 'sitere', ""n'ọkụkọ"", 'ahụ', 'e', 'gbugasịrị', 'ebe', 'ahụ', 'manyesie', 'kechisie', 'ha', ""n'ọmụ"", 'ahụ']",Igbo
+"['Ihe', 'na-adị', ""n'akpa"", 'agwụ', 'bụ', 'ihe', 'anọ', 'a', 'tụrụ', 'àtụ']",Igbo
+"['Ha', 'bụ', 'ọfọ', 'agwụ', 'ikenga', 'agwụ', 'na', 'ụkwụ', 'na', 'ijè']",Igbo
+"['Ụkwụ', 'na', 'ije', 'na-adị', 'abụọ', 'oke', 'na', 'nwunye']",Igbo
+"['Ihe', 'anọ', 'ahụ', 'nwèchàra', 'ihe', 'ha', 'na-arụ', 'na', 'ndụ', 'onye', 'ahụ']",Igbo
+"[""N'eziokwu"", 'agwụ', 'bụ', 'nnukwu', 'ihe', 'na', 'nkwenye', 'ndị', 'Igbo', ""n'agbanyeghị"", 'na', 'ụfọdụ', 'ndị', 'mmadụ', 'na-emezị', 'na', 'ha', 'na-eje', 'ụka', 'ugbua', 'wee', 'jirizie', 'maka', 'ya', 'na-eleghara', 'ọtụtụ', 'ihe', 'ndị', 'a', 'anya', 'ihe', 'wee', 'na-emebisizị', 'maka', 'na', 'onye', 'amaghị', 'ebe', 'mmiri', 'siri', 'bido', 'maba', 'ya', 'agaghị', 'ama', 'ebe', 'ọ', 'ga-akwụsị', 'ya']",Igbo
+"['Dịka', 'nkọwa', 'niile', 'a', 'na', 'edemede', 'a', 'siri', 'dị', 'ọ', 'dị', 'nchọpụta', 'na', 'ọtụtụ', 'uru', 'dị', 'na', 'mmadụ', 'ịrụ', 'agwụ']",Igbo
+"['Agwụ', 'na-emepere', 'mmadụ', 'ụzọ', 'agwụ', 'na-ewètere', 'mmadụ', 'ihu', 'ọma', 'tinyere', 'ọtụtụ', 'uru', 'ndị', 'ọzọ']",Igbo
+"['Mana', 'mmadụ', 'ịkpọchi', 'ntị', 'ma', 'hapụkwa', 'ime', 'ihe', 'ọbụla', 'banyere', 'agwụ', 'na-akpa', 'ya', 'nwékwàrà', 'ike', 'iwètara', 'onye', 'ahụ', 'ọtụtụ', 'ihe', 'ọjọọ', 'na', 'ndụ', 'ma', 'kpuchiere', 'onye', 'ahụ', 'ihe', 'ọma', 'nke', 'na', 'o', 'nwere', 'ike', 'iwetèkwara', 'onye', 'ahụ', 'ọnwụ', 'ike', 'ma', 'ọ', 'bụrụ', 'na', 'o', 'meghị', 'ihe', 'ọbụla', 'banyere', 'ya']",Igbo
+"['Onye', 'a', 'gwara']",Igbo
+"['Abẹ́rẹ́', 'tó', 'lókùn', 'niwá', 'a', 'kìí', 'jalè', 'a', 'kìí', 'ṣ̣e', 'gbọ́mọ-gbọ́mọ', 'Onífàájì', 'taa', 'jẹ́', 'ni', 'wọ́n', 'ṣe', 'ń', 'pè', 'wá', 'lọ́kọ', 'aṣẹ́wó', 'Ààrẹ', 'ẹgbẹ́', 'onítaksí', 'Ọ̀túnba', 'Táíwò', 'Ọmọ́lékan', 'Àjàdí', 'ni', 'Ààrẹ', 'ẹgbẹ́', 'àwọn', 'awakọ̀', 'taksí', 'nípínlẹ̀', 'Èkó', 'wọ́n', 'ti', 'bá', 'OLÚWATÓYÌN', 'MATHNUEL', 'sọ̀rọ̀', 'nípa', 'àwọn', 'ìlépa', 'wọn', 'àtohun', 'tí', 'wọn', 'ń', 'retí', 'lọ́dọ', 'ìjọba']",Yoruba
+"['Ohun', 'tí', 'wọ́n', 'sọ', 'rèé']",Yoruba
+"['Àṣejèrè', 'Ẹ', 'káàsán', 'Alàgbà', 'ǹjẹ́', 'a', 'lè', 'mọ̀', 'yín']",Yoruba
+"['Ààrẹ', 'Onítaksí', 'Bẹ́ẹ̀', 'ni']",Yoruba
+"['Orúkọ', 'tèmi', 'ni', 'Ọ̀túnba', 'Táíwò', 'Ọmọ́lékan', 'Àjàdí']",Yoruba
+"['Mo', 'jẹ', 'ààrẹ', 'ẹgbẹ́', 'yìí', 'lọ́gbọ̀njọ́', 'oṣù', 'karùn-ún', 'ọdún', 'yìí', 'nígbà', 'tí', 'ààrẹ', 'àná', 'Olóògbé', 'Tajudeen', 'Adétòrò', 'jáde', 'láyé', 'láì', 'parí', 'àkókò', 'wọn', 'lórí', 'oyè', 'ààrẹ', 'lẹ́yìn', 'oṣù', 'mẹ́sàn-án', 'lẹgbẹ́', 'ṣe', 'ìyànsípò', 'ìdákọ́ńkọ́', 'aláìláriwo', 'nítorí', 'àrùn', 'Kòrónà', 'tó', 'gbòde', 'kan', 'yìí']",Yoruba
+"['Àṣejèrè', 'Ọdún', 'kelòó', 'rèé', 'tẹ́yin', 'tí', 'ń', 'wa', 'taksí']",Yoruba
+"['Ààrẹ', 'Onítaksí', 'Láti', 'ọdún', 'ọgbọ̀n', 'ọdún', 'rèé', 'tí', 'mo', 'ti', 'jẹ́', 'dẹ́rẹ́bà', 'awakọ̀', 'taksí', 'ní', 'Adéṣínà', 'Taxi', 'Park', 'ní', 'Sùúrùlérè', 'ẹnu', 'ẹ̀', 'ni', 'mo', 'di', 'akọ̀wé', 'ẹgbẹ́', 'yìí', 'mo', 'lo', 'ọdún', 'mẹ́jọ', 'gẹ́gẹ́', 'bí', 'akọ̀wé', 'Sùúrùlérè', 'Branch', 'ni', 'mo', 'jẹ', 'akápò', 'ẹgbẹ́', 'ní', 'olú', 'iléeṣẹ́', 'ẹgbẹ́', 'wa', 'lábẹ́', 'Àlàájì', 'Tati', 'Useeni', 'kí', 'n', 'tóó', 'wá', 'di', 'akọ̀wé', 'àgbà', 'ẹgbẹ́', 'fọ́dún', 'mẹ́jọ', 'mííràn', 'lábẹ́', 'Àlàájì', 'Tajudeen', 'Adétòrò', 'pẹ̀lú', 'gbogbo', 'ìrìnàjò', 'mi', 'nínú', 'iṣẹ́', 'awakọ̀', 'taksí', 'yìí', 'làwọn', 'ẹgbẹ́', 'kúkú', 'rò', 'ó', 'pé', 'òdú', 'ni', 'ohun', 'gbogbo', 'tó', 'ní', 'i', 'ṣe', 'pẹ̀lú', 'iṣ̣ẹ́', 'awakọ̀', 'taksí', 'Èkó', 'kìí', 'ṣàìmò', 'fólóko', 'mi', 'ni', 'wọ́n', 'bá', 'kúkú', 'pa', 'oókan', 'pọ̀', 'mọ́', 'eéjì', 'ni', 'wọ́n', 'bá', 'lémi', 'nipò', 'ààrẹ', 'tọ́', 'sí', 'fún', 'oríṣìí', 'ìrírí', 'mi', 'lẹ́gbẹ́']",Yoruba
+"['Àṣejèrè', 'Bí', 'mo', 'ṣe', 'ń', 'wò', 'yín', 'ẹni', 'tó', 'kàwé', 'dáadáa', 'ni', 'yín', 'báwo', 'ni', 'ètò', 'ẹ̀kọ́', 'kíkà', 'yín', 'ṣe', 'lọ']",Yoruba
+"['Ààrẹ', 'Onítaksí', 'Mo', 'ka', 'ilé-ẹ̀kọ́', 'alákọ̀ọ́bẹ̀rẹ̀', 'ní', 'Kàdúná', 'ilé', 'ẹ̀kọ́', 'gíga', 'ní', 'Òyun', 'Baptist', 'High', 'School', 'ní', 'Ìjágbó', 'Kwara']",Yoruba
+"['Lẹ́yìn', 'iṣẹ́', 'díẹ̀', 'mo', 'tẹ̀', 'síwájú', 'nínú', 'ẹ̀kọ́', 'ìmọ̀', 'nípa', 'iṣẹ́', 'ìránṣẹ́', 'tí', 'wọn', 'ń', 'pè', 'ní', 'Theology', 'ni', 'Holy', 'Ghost', 'Christain', 'Center', 'níléèwé', 'gbogbonìṣe', 'ti', 'Kàdúná', 'mo', 'kàwé', 'nípa', 'ìṣàkóso', 'níbẹ̀', 'kí', 'tóó', 'wáá', 'parí', 'HND', 'nínú', 'ètò', 'ẹ̀kọ́', 'iṣẹ́', 'ìránṣẹ́', 'ní', 'Kàdúná', 'Polytecnic']",Yoruba
+"['Bí', 'ẹ', 'ṣe', 'ń', 'wò', 'mí', 'yìí', 'ojúlówó', 'àlúfáà', 'ìránṣẹ́', 'Ọlọ́run', 'tí', 'a', 'fi', 'àmì', 'òróró', 'yàn', 'ni', 'mí', 'ṣùgbọ́n', 'mo', 'kàn', 'ní', 'ìfẹ́', 'sí', 'iṣẹ́', 'awakọ̀', 'taksí', 'ni', 'mo', 'sì', 'ti', 'ní', 'oore-ọ̀fẹ́', 'láti', 'rìnrìnàjò', 'lọ', 'sílùú', 'London', 'South', 'Africa', 'Germany', 'Holand', 'lọọ', 'bá', 'wọn', 'ṣiṣẹ́', 'taksí', 'lọ́hùn', 'ún']",Yoruba
+"['Ìrírí', 'mi', 'nílùú', 'òyìnbó', 'wú', 'mi', 'lórí', 'púpọ̀', 'mo', 'dẹ̀', 'pinnu', 'láti', 'yí', 'ìgbé', 'ayé', 'taksí', 'wíwà', 'padà', 'sí', 'rere', 'ní', 'àsìkò', 'tí', 'mo', 'jẹ́', 'ààrẹ', 'yìí']",Yoruba
+"['Bó', 'tiẹ̀', 'jẹ́', 'pé', 'àrùn', 'Kòrónà', 'fẹ́ẹ́', 'dáwa', 'lọ́wọ́', 'kọ̀', 'díẹ̀', 'ṣùgbọ́n', 'ìtẹ̀síwájú', 'yóò', 'bá', 'iṣẹ́', 'náà', 'láìpẹ́']",Yoruba
+"['Àṣejèrè', 'Ṣùgbọ́n', 'iṣẹ́', 'ọ̀hún', 'kò', 'fi', 'bẹ́ẹ̀', 'dá', 'bíi', 'ti', 'tẹ́lẹ̀', 'mọ́']",Yoruba
+"['Ààrẹ', 'Onítaksí', 'Ọ̀rọ̀', 'lẹ', 'sọ']",Yoruba
+"['Díẹ̀', 'lọ́wọ́', 'olórí', 'púpọ̀', 'lọ́wọ́', 'àwọn', 'ọmọ', 'ẹgbẹ́']",Yoruba
+"['Gómìnà', 'Raji', 'Fáṣọlá', 'ṣe', 'gudugudu', 'méje', 'yààyà', 'mẹfà', 'fẹ́gbẹ́', 'onítaksí', 'l’Ékòó']",Yoruba
+"['Fáṣọlá', 'kò', 'yá', 'wa', 'lówó', 'ṣùgbọ́n', 'wọ́n', 'pọ̀n', 'wá', 'lẹ́yìn', 'pẹ̀lú', 'ọ̀já', 'tó', 'nípọn', 'wọ́n', 'ṣe', 'onídùúró', 'fún', 'wa', 'láwọn', 'báǹkì', 'kan', 'àìmọye', 'mílíọ̀nù', 'làwọn', 'ilé', 'ìfowópamọ́', 'yá', 'wa', 'tí', 'a', 'sì', 'ti', 'san-án', 'tán', 'gbogbo', 'ohun', 'tí', 'mo', 'ń', 'sọ', 'yìí', 'ti', 'le', 'lọ́dún', 'mẹ́wàá', 'o', 'ṣé', 'ẹ', 'mọ̀', 'pé', 'mọ́tò', 'náà', 'máa', 'ń', 'dàgbà', 'bẹ́ẹ', 'sì', 'ni', 'kò', 'sí', 'onídùúró', 'àti', 'báǹkì', 'tó', 'fẹ́ẹ́', 'yá', 'wa', 'lówó', 'bíi', 'ti', 'ìgbà', 'yẹn', 'mọ́', 'àti', 'pé', 'iṣẹ́', 'awakọ̀', 'taksí', 'nínú', 'àwọn', 'estate', 'wa', 'káàkiri', 'Èkó', 'kò', 'dà', 'bíi', 'ti', 'àtẹ̀yìnwá']",Yoruba
+"['Ọ̀pọ̀lọpọ̀', 'onítaksí', 'ni', 'wọ́n', 'kùn', 'lọ́dà', 'mííràn', 'láti', 'leè', 'ma', 'wọnú', 'estate', 'káàkiri', 'a', 'ò', 'le', 'máa', 'yáwó', 'ra', 'mọ́tò', 'ká', 'má', 'leè', 'san', 'án', 'padà', 'lásìkò', 'ṣùgbọ́n', 'èyí', 'da', 'omitútù', 'sí', 'wa', 'lọ́kàn', 'ló', 'fi', 'dà', 'bíi', 'pé', 'taksí', 'ti', 'ń', 'kú', 'l’Ékòó']",Yoruba
+"['Lára', 'ìṣòro', 'táà', 'ń', 'dojú', 'kọ', 'nìyí', 'abẹ́rẹ́', 'tó', 'lókùn', 'nídìí', 'ni', 'wá', 'a', 'kìí', 'ṣe', 'gbọ́mọ-gbọ́mọ', 'bẹ́ẹ̀', 'a', 'kìí', 'fi', 'mọto', 'wa', 'jalè']",Yoruba
+"['Gbogbo', 'àkọsílẹ̀', 'àwọn', 'ọmọ', 'ẹgbẹ́', 'wa', 'pátápátá', 'la', 'ní']",Yoruba
+"['Ẹ', 'wo', 'káàdì', 'ni', 'mo', 'gbé', 'kọ́', 'ọrùn', 'yìí', 'bí', 'gbogbo', 'ọmọ', 'ẹgbẹ́', 'dẹ̀', 'ṣe', 'ní', 'i', 'nìyí']",Yoruba
+"['Àwọn', 'tó', 'ń', 'kun', 'taksí', 'wọn', 'lọ́dà', 'mííràn', 'ni', 'wọ́n', 'ń', 'ṣiṣẹ́', 'burúkú']",Yoruba
+"['Ẹgbẹ́', 'wa', 'nìkan', 'nìjọba', 'fọwọ́', 'sí', 'pẹ̀lú', 'kọ́lọ̀', 'ìdánimò', 'wa', 'tó', 'jẹ́', 'yẹ́lò']",Yoruba
+"['Ṣùgbọ́n', 'kí', 'ló', 'dé', 'tàwọn', 'estate', 'àti', 'pápákọ̀', 'òfúrufú', 'ń', 'gbógun', 'tì', 'wá']",Yoruba
+"['Bẹ́ẹ̀', 'ló', 'rí', 'ní', 'Unilag', 'Èkó', 'Hotels', 'bẹ́ẹ̀', 'àm̀básádọ̀', 'la', 'jẹ́', 'káàkiri', 'àgbáyé', 'kò', 'sí', 'ibi', 'tí', 'ẹ', 'máa', 'dé', 'lágbàáyé', 'tí', 'ẹ', 'ò', 'ní', 'rí', 'taksí']",Yoruba
+"['Lára', 'àwọn', 'ìgbésẹ̀', 'àtúnṣe', 'tí', 'mo', 'fẹ́ẹ́', 'gbé', 'nìyí', 'gẹ́gẹ́', 'bí', 'ààrẹ', 'láti', 'ṣèpàdé', 'pẹ̀lú', 'àwọn', 'adarí', 'estate', 'kọ̀ọ̀kan', 'l’Ékòó', 'àti', 'FAAN', 'ìyẹn', 'àjọ', 'tó', 'ń', 'ṣàkóso', 'pápákọ̀', 'òfúrufú', 'Airport', 'wa', 'pàápàá', 'Ọ̀gbẹ́ni', 'Rótìmí', 'Amaechi', 'tó', 'jẹ́', 'mínísítà']",Yoruba
+"['Taksí', 'kò', 'kú', 'rárá', 'o', 'èmí', 'mọ̀', 'pé', 'láìpẹ́', 'a', 'ó', 'débẹ̀']",Yoruba
+"['Àṣejèrè', 'Irú', 'àwọn', 'àtúntò', 'wo', 'lẹ', 'fẹ́ẹ́', 'mú', 'bá', 'iṣẹ́', 'taksí', 'ǹjẹ́', 'ẹ', 'lèè', 'sọ', 'fún', 'wa']",Yoruba
+"['Ààrẹ', 'Onítaksí', 'Kí', 'n', 'tóó', 'dépò', 'ààrẹ', 'a', 'ti', 'ṣèfilọ́lè', 'ohun', 'tí', 'a', 'pè', 'ní', 'Taxi', 'App']",Yoruba
+"['Ibi', 'táyé', 'bá', 'yí', 'sí', 'làwa', 'náà', 'gbọdọ̀', 'báwọn', 'yí', 'sí', 'ìrọ̀rùn', 'làwọn', 'aráàlú', 'ń', 'fẹ́']",Yoruba
+"['Bẹ́ẹ̀', 'làwa', 'onítaksí', 'náà', 'ti', 'ní', 'Èkó', 'Cab', 'tó', 'wà', 'lórí', 'ẹ̀rọ', 'ayélujára', 'fún', 'ìgbáyé-gbádùn', 'àwọn', 'èèyàn']",Yoruba
+"['Nígbà', 'tí', 'a', 'bá', 'kó', 'mọ́tò', 'tuntun', 'wọlé', 'pẹ̀lú', 'ẹ̀rọ', 'ọlọ́yẹ́', 'bíi', 'ọgbọ̀n', 'ti', 'wà', 'nílẹ̀', 'báyìí', 'ṣùgbọ́n', 'a', 'ń', 'fẹ́', 'ìrànwọ́', 'owó', 'láti', 'báǹkì']",Yoruba
+"['Àṣejèrè', 'Kí', 'ló', 'fà', 'á', 'tí', 'kò', 'fi', 'sí', 'àwọn', 'ọ̀dọ́', 'nínú', 'iṣẹ́', 'taksí', 'mọ́']",Yoruba
+"['Ààrẹ', 'Onítaksí', 'Ọmọọdún', 'márùndínlọ́gbọ̀n', 'ni', 'mí', 'nígbà', 'tí', 'mo', 'darapọ̀', 'mọ́', 'ẹgbẹ́', 'yìí', 'gẹ́gẹ́', 'bí', 'awakọ̀', 'àwọn', 'ọ̀dọ́', 'wà', 'lẹ́nu', 'iṣẹ́', 'wa', 'yìí', 'wọn', 'ń', 'dàgbà', 'sẹ́nu', 'ẹ̀', 'ni', 'tí', 'ẹ', 'bá', 'rántí', 'nígbà', 'tí', 'Fáṣọlá', 'kó', 'àwọn', 'Mega', 'Taxi', 'wọlé', 'àwọn', 'ọ̀dọ́', 'pọ̀', 'tí', 'wọn', 'ń', 'wá', 'á', 'nítorí', 'ó', 'jẹ́', 'mọ́tò', 'tuntun', 'pẹ̀lú', 'ọyẹ́']",Yoruba
+"['Ṣé', 'ẹ', 'mọ̀', 'pé', 'àwọn', 'ọ̀dọ́', 'ayé', 'ìsíǹyí', 'fẹ́ràn', 'ǹǹkan', 'tó', 'bá', 'rọrùn', 'ṣùgbọ́n', 'a', 'ti', 'ń', 'gbìyànjú', 'láti', 'rí', 'i', 'pé', 'tọkùnrin', 'tobìnrin', 'àti', 'ọ̀dọ́mọdé', 'tọ́jọ́', 'orí', 'ẹ̀', 'tóó', 'wa', 'ọkọ̀', 'la', 'máá', 'ṣèpolongo', 'fún', 'láti', 'wáá', 'darapọ̀', 'mọ́', 'iṣẹ́', 'yìí', 'nítorí', 'iṣẹ́', 'owó', 'tó', 'níye', 'lórí', 'àti', 'wípé', 'àwọn', 'àgbàlagbà', 'tó', 'wà', 'níbẹ̀', 'máa', 'dògbó', 'lọ́jọ́', 'kan', 'káwọn', 'ọ̀dọ́', 'túnbọ̀', 'leè', 'máa', 'gbé', 'taksí', 'wíwà', 'lárugẹ']",Yoruba
+"['Àwa', 'awakọ̀', 'kìí', 'ṣiṣẹ́', 'pẹ̀lú', 'goggle', 'map', 'kò', 'sọ́nà', 'tí', 'Ọlọ́run', 'kò', 'fún', 'wa', 'mọ̀', 'l’Ékòó', 'fún', 'ìdí', 'èyí', 'àti', 'ṣèpolongo', 'nínú', 'rédíò', 'rí', 'ara', 'ìpolongo', 'náà', 'ni', 'mo', 'ń', 'ṣe', 'pẹ̀lú', 'ẹ̀yin', 'oníìwé', 'ìròyìn', 'yìí', 'láìpẹ́', 'a', 'tún', 'gbé', 'ìgbésẹ̀', 'sí', 'i']",Yoruba
+"['Àṣejèrè', 'Ẹ', 'jẹ́', 'ká', 'yà', 'díẹ̀', 'ọkọ', 'aṣẹ́wó', 'tí', 'wọn', 'máa', 'ń', 'pè', 'yín', 'kí', 'ló', 'fà', 'á']",Yoruba
+"['Ààrẹ', 'Onítaksí', 'Ààrẹ', 'Rẹ́rìn-ín', 'Ọ̀rọ̀', 'lẹ', 'sọ']",Yoruba
+"['Onífàájì', 'nii', 'wá', 'onífàájì', 'lèmi', 'náà']",Yoruba
+"['Tẹ́lẹ̀', 'àárín', 'wákàtí', 'mẹ́ta', 'sí', 'mẹ́rin', 'a', 'ti', 'pawó', 'rẹpẹtẹ', 'tẹ́ẹ', 'bá', 'wá', 'rí', 'dẹ́rẹ́bà', 'pẹ̀lú', 'ṣéènì', 'lọ́rùn', 'àti', 'lọ́wọ́', 'ara', 'fàájì', 'náà', 'ni']",Yoruba
+"['Àwa', 'onítaksí', 'la', 'mọ', 'ilé', 'oúnjẹ', 'tó', 'dára', 'jù', 'l’Ékòó']",Yoruba
+"['Owó', 'ojúmọ́', 'tí', 'à', 'ń', 'pa', 'àwọn', 'obìnrin', 'máa', 'ń', 'sá', 'tẹ̀lé', 'wa', 'ni']",Yoruba
+"['Àwọn', 'kan', 'níyàwó', 'méjì', 'mẹ́ta', 'nínú', 'wa', 'ṣùgbọ́n', 'nǹkan', 'ti', 'yí', 'padà']",Yoruba
+"['Nítorí', 'náà', 'ọkọ', 'aṣẹ́wó', 'ni', 'mí', 'o', 'a', 'sì', 'ń', 'jẹ́', 'orúkọ', 'yẹn']",Yoruba
+"['Ẹní', 'bá', 'ń', 'ṣiṣẹ́', 'déédé', 'ó', 'yẹ', 'kó', 'lásìkò', 'ìgbádùn']",Yoruba
+"['Àṣejèrè', 'Ìrànwọ́', 'wo', 'lẹ', 'wá', 'ń', 'fẹ́', 'lọ́wọ́', 'ìjọba', 'báyìí', 'o']",Yoruba
+"['Ààrẹ', 'Onítaksí', 'Mo', 'gbé', 'ìgbésẹ̀', 'láti', 'rí', 'Gómìnà', 'Sanwó-Olú', 'ṣùgbọ́n', 'àrùn', 'Kòrónà', 'ló', 'ń', 'dí́', 'wa', 'lọ́wọ́']",Yoruba
+"['Nǹkan', 'mẹ́ta', 'là', 'ń', 'fẹ́', 'kí', 'wọ́n', 'máá', 'jẹ́', 'kí', 'iṣẹ́', 'taksí', 'parẹ́', 'nílùú', 'Èkó']",Yoruba
+"['Fáṣọlá', 'Adéfulírẹ', 'Ọpẹ́ifá', 'àti', 'Toríọlá', 'gbogbo', 'àwọn', 'èèyàn', 'wọ̀nyí', 'ni', 'wọ́n', 'sọ', 'nǹkan', 'rere', 'nípa', 'iṣẹ́', 'taksí']",Yoruba
+"['Ẹ̀kejì', 'lọ̀rọ̀', 'àwọn', 'estate', 'yẹn', 'lóòótọ́', 'ìjọba', 'Fáṣọlá', 'gbìyànjú', 'ṣùgbọ́n', 'bí', 'wọ́n', 'ti', 'kúrò', 'níbẹ̀', 'làwọn', 'estate', 'yẹn', 'tún', 'gbégi', 'dínà', 'wa']",Yoruba
+"['Kí', 'wọ́n', 'sì', 'tún', 'jọ̀ọ́', 'kí', 'wọ́n', 'ran', 'àwa', 'náà', 'lọ́wọ́', 'pàápàá', 'pẹ̀lú', 'ìrànwọ́', 'tí', 'wọ́n', 'ṣe', 'lásìkò', 'ìgbélé', 'àrùn', 'Kòrónà', 'nípa', 'yíyáwa', 'lówó', 'kí', 'èlé', 'orí', 'ẹ̀', 'má', 'sì', 'pọ̀', 'jù', 'gẹ́gẹ́', 'bí', 'Amọ́sùn', 'àti', 'AbdulFatai', 'ṣe', 'ṣe', 'ní', 'Ògùn', 'àti', 'Kwara']",Yoruba
+"['Àṣejèrè', 'Kínni', 'ìmọ̀ràn', 'yín', 'fọ́mọ', 'ẹgbẹ́', 'lápapọ̀']",Yoruba
+"['Ààrẹ', 'Onítaksí', 'Ìgbà', 'ọ̀tun', 'ti', 'dé', 'Ọ̀túnba', 'Táíwò', 'Ọmọ́lékan', 'ló', 'wà', 'lórí', 'ipò', 'ààrẹ']",Yoruba
+"['Kò', 'síbi', 'tá', 'ò', 'leè', 'lọ', 'kò', 'sẹ́ni', 'tá', 'ò', 'leè', 'bá', 'sọ̀rọ̀']",Yoruba
+"['Ẹ', 'gba', 'káàdì', 'ìdánimọ̀', 'yín', 'ẹ', 'gba', 'ìwé', 'ìdánimọ̀', 'ara', 'ọkọ̀', 'ẹ', 'ṣe', 'àwọn', 'ìwé', 'mọ́tò', 'yín', 'kó', 'pé']",Yoruba
+"['Lẹ́yìn', 'taa', 'bá', 'ṣèyí', 'tán', 'ká', 'wáá', 'wo', 'ibi', 'tí', 'Ọlọ́run', 'yóò', 'gbé', 'iṣẹ́', 'taksí', 'wíwà', 'dé', 'l’Ékòó']",Yoruba
+"['Ẹ', 'ṣé', 'é', 'o']",Yoruba
+"['Àwa', 'là', 'ń', 'jà', 'fẹ́tọ̀ọ́', 'àwọn', 'tóhun', 'tí', 'wọ́n', 'fowó', 'rà', 'kò', 'bá', 'tẹ́', 'lọ́rùn', 'Kẹ́mi', 'Olúgbòde', 'Ẹ', 'jẹ́', 'kí', 'á', 'mọ', 'orúkọ', 'yín', 'àti', 'ohun', 'tí', 'ẹ̀', 'ń', 'ṣe', 'níléeṣẹ́', 'yìí']",Yoruba
+"['Orúkọ', 'mi', 'ni', 'Kẹ́mi', 'Olúgbòde']",Yoruba
+"['Èmi', 'ni', 'adarí', 'iléeṣẹ́', 'LASCOPA', 'ìyẹn', 'ní', 'Lagos', 'State', 'Consumers', 'Protection', 'Agency', 'tó', 'jẹ́', 'Ilé', 'iṣẹ́', 'tìjọba', 'dálẹ̀', 'láti', 'jà', 'fún', 'ẹ̀tọ́', 'ọmọ', 'ènìyàn', 'nípa', 'ohun', 'tí', 'wọ́n', 'fowó', 'wọn', 'rà', 'àbí', 'iṣẹ́', 'tí', 'wọ́n', 'sanwó', 'fún', 'tí', 'kò', 'tẹ́', 'wọn', 'lọ́rún']",Yoruba
+"['Òfin', 'ló', 'dá', 'iléeṣẹ́', 'yìí', 'sílẹ̀', 'láti', 'jà', 'fáráàlú', 'lórí', 'nǹkan', 'táa', 'ń', 'lò', 'sára', 'tàbí', 'táa', 'ń', 'jẹ', 'sẹ́nu', 'àwọn', 'araàlú', 'lábẹ́', 'òfin', 'lẹ́tọ̀ọ́', 'láti', 'ní', 'ìmọ̀', 'tó', 'péye', 'nípa', 'ẹ̀tọ́', 'wọn', 'lábẹ́', 'òfin', 'àti', 'pé', 'kí', 'wọn', 'lè', 'mọ̀', 'pé', 'wọ́n', 'lẹ́ẹ̀tọ́', 'fún', 'ààbò', 'kí', 'gbogbo', 'nǹkan', 'tí', 'wọ́n', 'bá', 'kówó', 'lé', 'le', 'tẹ́', 'wọn', 'lọ́rùn']",Yoruba
+"['Gbogbo', 'nǹkan', 'tó', 'jẹ́', 'kòṣeémánì', 'fáwọn', 'aráàlú', 'ìbá', 'ṣe', 'omi', 'aṣọ', 'táà', 'ń', 'wọ̀', 'sọ́rùn', 'iná', 'mọ̀nàmọ́ná', 'ilé', 'táa', 'ń', 'gbé', 'àwọn', 'nǹkan', 'tó', 'jẹ́', 'pé', 'owó', 'àpò', 'wọn', 'ni', 'wọ́n', 'fi', 'ń', 'rà', 'á', 'wọ́n', 'gbọ́dọ̀', 'rí', 'ìtẹ́lọ́rùn', 'nínú', 'ẹ̀', 'kó', 'má', 'jẹ́', 'pé', 'wọn', 'sowó', 'nù']",Yoruba
+"['Bí', 'a', 'bá', 'wá', 'rí', 'ẹni', 'tó', 'fọwọ́', 'ẹ̀', 'ra', 'nǹkan', 'tí', 'kò', 'tẹ́', 'ẹ', 'lọ́rùn', 'irú', 'wọn', 'là', 'ń', 'jà', 'fún']",Yoruba
+"['Láìpẹ́', 'yìí', 'lẹ', 'lọ', 'sínú', 'ọjà', 'fún', 'ètò', 'kan', 'kínni', 'ìdí', 'tó', 'fi', 'jẹ́', 'pé', 'inú', 'ọjà', 'lẹ', 'lọ']",Yoruba
+"['A', 'lọọ', 'ṣètò', 'kan', 'níbẹ̀', 'nínú', 'ọjà', 'Ojúwòyè', 'ní', 'Muṣin']",Yoruba
+"['Ṣùgbọ́n', 'a', 'ò', 'fẹ́', 'káwọn', 'èèyàn', 'ṣì', 'wá', 'mu', 'fún', 'àwọn', 'àjọ', 'ìjọba', 'yòókù', 'tó', 'ní', 'ṣe', 'pẹ̀lú', 'ọjà']",Yoruba
+"['CBD', 'wà', 'níbẹ̀', 'àjọ', 'Taskforce', 'náà', 'wà', 'níbẹ̀', 'àmọ́', 'àwa', 'kìí', 'kó', 'ọjà', 'ọlọ́jà']",Yoruba
+"['Gbogbo', 'ọjà', 'táa', 'bá', 'lọ', 'la', 'máa', 'ń', 'ní', 'àjọṣepọ̀', 'pẹ̀lú', 'àwọn', 'adarí', 'ọjà', 'wọn', 'ìyálọ́jà', 'àti', 'bàbálọ́jà']",Yoruba
+"['Wọ́n', 'ṣì', 'máa', 'ń', 'ràn', 'wá', 'lọ́wọ́', 'táa', 'bá', 'gbọ́', 'pé', 'ayédèrú', 'ọjà', 'kan', 'wà', 'níbì', 'kan', 'tàbí', 'ọjà', 'tó', 'ti', 'pé', 'lórí', 'igbá']",Yoruba
+"['Àwọn', 'la', 'máa', 'pè', 'tí', 'wọ́n', 'sì', 'máa', 'bá', 'wa', 'pe', 'àwọn', 'tó', 'ń', 'ta', 'ọjà', 'yẹn']",Yoruba
+"['Ìrànlọ́́wọ́', 'ńlá', 'là', 'ń', 'rí', 'gbà', 'lọ́dọ̀', 'àwọn', 'ọlọ́jà', 'lórí', 'iṣẹ́', 'wa']",Yoruba
+"['Ṣùgbọ́n', 'a', 'kìí', 'kó', 'ẹrù', 'ọjà', 'ọlọ́jà']",Yoruba
+"['Ẹnìkan', 'fẹjọ́', 'sùn', 'wá', 'nípa', 'ohun', 'mímu', 'kan', 'tó', 'rà', 'lọ́jà', 'láìpẹ́', 'yìí', 'a', 'sì', 'lọ', 'sọ́jà', 'yẹn', 'lọ́dọ̀', 'ẹni', 'tó', 'ń', 'tà', 'á', 'àwọn', 'adarí', 'ọjà', 'náà', 'gbọ́', 'sí', 'i', 'wọ́n', 'sì', 'gba', 'gbogbo', 'ọjà', 'yẹn', 'lọ́wọ́', 'àwọn', 'tó', 'ń', 'tà', 'á', 'lọ́jà', 'ṣùgbọ́n', 'wọ́n', 'fún', 'bàbá', 'tó', 'ra', 'ọjà', 'yẹn', 'ní', 'owó', 'gbà', 'má', 'bínú']",Yoruba
+"['A', 'láwọn', 'òṣìṣẹ́', 'tó', 'máa', 'ń', 'lọ', 'sí', 'àwọn', 'ọjà', 'ìgbàlódé', 'náà', 'láti', 'wádìí', 'nǹkan', 'tí', 'wọn', 'ń', 'tà']",Yoruba
+"['Ó', 'tó', 'àwọn', 'mélòó', 'tẹ́ẹ', 'ti', 'fọwọ́', 'òfin', 'mú']",Yoruba
+"['Àwọn', 'ẹjọ́', 'kan', 'wà', 'ní', 'kóòtù', 'taa', 'ń', 'bá', 'ṣẹjọ́', 'lọ́wọ́', 'àwọn', 'tó', 'ti', 'san', 'owó', 'ìtanràn', 'náà', 'wà']",Yoruba
+"['Kò', 'sí', 'ọ̀sẹ̀', 'kan', 'taa', 'kí', 'ń', 'mú', 'àwọn', 'èèyàn', 'tó', 'ń', 'ta', 'féèkì', 'tàbí', 'ọjà', 'tó', 'ti', 'pẹ́', 'lórí', 'igbá', 'bó', 'tiẹ̀', 'jẹ́', 'pé', 'ó', 'ti', 'ń', 'dínkù', 'a', 'dé', 'ọjà', 'kan', 'ṣọ́ọ̀bù', 'kan', 'níbẹ̀', 'ìdajì', 'ọjà', 'rẹ̀', 'ló', 'ti', 'bàjẹ́', 'lórí', 'igbá']",Yoruba
+"['Báwo', 'lẹ', 'ṣe', 'ń', 'ṣe', 'é', 'tí', 'iṣẹ́', 'yín', 'pẹ̀lú', 'àwọn', 'iléeṣẹ́', 'ìjọba', 'yòókù', 'kò', 'fi', 'tako', 'ara', 'wọn']",Yoruba
+"['Iléeṣẹ́', 'ìjọba', 'ni', 'gbogbo', 'wa', 'táwọn', 'èèyàn', 'bá', 'ti', 'wáá', 'fẹjọ́', 'sùn', 'a', 'kàn', 'máa', 'gbé', 'ọ̀rọ̀', 'yẹn', 'lọ', 'sí', 'ọ̀dọ̀', 'ẹni', 'tó', 'kàn', 'ni', 'a', 'kìí', 'tako', 'ara', 'wa', 'òṣìṣẹ́', 'ìjọba', 'náà', 'ni', 'gbogbo', 'wa', 'ṣùgbọ́n', 'òfin', 'ló', 'gbé', 'iléeṣẹ́', 'yìí', 'kalẹ̀']",Yoruba
+"['Bí', 'àwọn', 'èèyàn', 'bá', 'mú', 'ẹ̀sùn', 'wá', 'sọ́dọ̀', 'wa', 'a', 'máa', 'ṣèwádìí', 'rẹ̀', 'dáadáa', 'àwọn', 'lọ́ọ́yà', 'wà', 'níbí', 'àwọn', 'onímọ̀', 'sáyẹ́ǹsì', 'wà', 'níbẹ̀', 'iléeṣẹ́', 'SON', 'wà', 'pẹ̀lú', 'wa', 'bẹ́ẹ̀', 'náà', 'ni', 'NAFDAC', 'àti', 'FIIRO']",Yoruba
+"['Àwọn', 'tó', 'ra', 'irinṣẹ́', 'tí', 'kò', 'bá', 'dára', 'lọ́jà', 'a', 'ní', 'àwọn', 'òṣìṣẹ́', 'tó', 'máa', 'ṣéwàdìí', 'bóyá', 'lóòótọ́', 'ni', 'ọjà', 'yẹn', 'kò', 'dáa']",Yoruba
+"['Bẹ́ẹ̀', 'náà', 'la', 'ní', 'iléẹjọ́', 'mẹ́fà', 'báyìí', 'ẹyọ', 'kan', 'la', 'fi', 'bẹ̀rẹ̀', 'tẹ́lẹ̀']",Yoruba
+"['Àwọn', 'tí', 'ìjọba', 'fẹ̀tọ́', 'wọn', 'dù', 'ńkọ́', 'ṣé', 'ẹ', 'máa', 'ń', 'jà', 'fáwọn', 'yẹn', 'náà']",Yoruba
+"['Bẹ́ẹ̀', 'ni', 'ìjọba', 'ta', 'ilẹ́', 'fẹ́nìkan', 'wọ́n', 'tún', 'gba', 'ilẹ̀', 'yẹn', 'lọ́wọ́', 'ẹ̀', 'a', 'sì', 'dá', 'sí', 'i', 'wọ́n', 'fẹ́ẹ́', 'dá', 'owó', 'rẹ̀', 'padà', 'ṣùgbọ́n', 'a', 'ti', 'sọ', 'fún', 'wọn', 'pé', 'bí', 'ayé', 'míì', 'n', 'bá', 'ti', 'yọ', 'kí', 'wọ́n', 'fún', 'ẹni', 'yẹn', 'nílẹ̀', 'míìn']",Yoruba
+"['Ẹnìkan', 'náà', 'àwọn', 'VIO', 'mú', 'u', 'wọ́n', 'sì', 'fáìnì', 'rẹ̀', 'ó', 'wáá', 'bá', 'wa', 'a', 'dá', 'sọ́rọ̀', 'yẹn', 'a', 'sí', 'yanjú', 'ẹ̀', 'torí', 'obìnrin', 'yẹn', 'kò', 'jẹ̀bi', 'àwọn', 'iléeṣẹ́', 'ìnṣọ́ráǹsì', 'tó', 'sanwó', 'fún', 'ló', 'jẹ̀bi']",Yoruba
+"['Wọ́n', 'dá', 'owó', 'padà', 'fún', 'obìnrin', 'yẹn', 'o']",Yoruba
+"['Pẹ̀lú', 'àwọn', 'onímọ́tò', 'ńkọ́']",Yoruba
+"['A', 'ti', 'pè', 'wọ́n', 'sípàdé', 'náà', 'wọn', 'kò', 'wá', 'ṣùgbọ́n', 'wọ́n', 'ti', 'kọ', 'lẹ́tà', 'síwa', 'pé', 'àwọn', 'máa', 'wá']",Yoruba
+"['A', 'ṣèpàdé', 'pẹ̀lú', 'iléeṣẹ́', 'tó', 'ń', 'fi', 'bọ́ọ̀sì', 'kó', 'èrò', 'láti', 'Ìkòròdú', 'lọ', 'sí', 'Èkó', 'náà']",Yoruba
+"['Àwọn', 'èèyàn', 'wá', 'fẹjọ́', 'wọn', 'sùn', 'wá', 'lórí', 'bí', 'wọ́n', 'ṣe', 'fowó', 'kún', 'owó', 'mọ́tò']",Yoruba
+"['A', 'pè', 'wọ́n', 'wọ́n', 'sì', 'ṣàlàyé', 'fún', 'wa', 'ìdí', 'táwọn', 'fi', 'ṣe', 'bẹ́ẹ̀']",Yoruba
+"['Kí', 'làwọn', 'àfojúsùn', 'yín']",Yoruba
+"['A', 'ṣì', 'ń', 'tẹ̀', 'síwájú', 'àṣeyọrí', 'wa', 'pọ̀', 'a', 'ti', 'lọ́fììsì', 'ní', 'Ìkòròdú', 'báyìí', 'àníyàn', 'wa', 'ni', 'pé', 'ká', 'ní', 'ọ́fììsì', 'tó', 'pọ̀', 'káàkiri', 'àwọn', 'káńsù', 'káwọn', 'èèyàn', 'le', 'tètè', 'rí', 'wa']",Yoruba
+"['Ká', 'le', 'túbọ̀', 'máa', 'ṣèpolongo', 'lọ', 'sọ́dọ̀', 'àwọn', 'aráàlú', 'nípa', 'ẹ̀tọ́', 'wọn']",Yoruba
+"['Lára', 'àṣeyọrí', 'wa', 'náà', 'ni', 'pé', 'owó', 'táa', 'ti', 'gbà', 'fún', 'àwọn', 'èèyàn', 'ti', 'lé', 'ní', 'mílíọ́nù', 'mẹ́rìnlélọ́gbọ̀n']",Yoruba
+"['Ojoojúmọ́', 'láwọn', 'èèyàn', 'ń', 'fẹjọ́', 'sùn', 'wá', 'tí', 'wọn', 'ń', 'gbé', 'ọ̀rọ̀', 'wáá', 'bá', 'wa']",Yoruba
+"['Sanwó-Olú', 'ṣàbẹ̀wò', 'ìbánikẹ́dùn', 'sílé', 'Ighodalo', 'Ohun', 'tí', 'Ìbídùńní', 'sọ', 'kò', 'tóó', 'kú', 'reè', 'Gómìnà', 'ìpínlẹ̀', 'Èkó', 'Babajídé', 'Sanwó-Oĺu', 'ti', 'ṣàbẹ̀wò', 'sí', 'mọ̀lẹ́bí', 'gbajúmọ̀', 'oníṣòwò', 'tó', 'tún', 'jẹ́', 'ìránṣẹ́', 'Ọlọ́run', 'Pasitọ', 'Ituah', 'Ighodalo', 'tó', 'pàdánù', 'ìyàwó', 'rẹ̀', 'Ìbídùńní', 'Ighodalo']",Yoruba
+"['Ọ̀sán', 'Sánńdè', 'tí', 'ìròyìn', 'ṣẹ́yọ', 'pé', 'arẹwà', 'obìnrin', 'náà', 'jáde', 'láyé', 'nílùú', 'Port', 'Harcourt', 'ni', 'Sanwó-Olú', 'bẹ', 'àwọn', 'mọ̀lẹ́bí', 'náà', 'wò', 'nílé', 'wọn', 'l’Ékòó']",Yoruba
+"['Ohun', 'tí', 'Àṣejèrè', 'gbọ́', 'ni', 'pé', 'lẹ́yìn', 'tí', 'gómìnà', 'bá', 'mọ̀lẹ́bí', 'náà', 'kẹ́dùn', 'ṣe', 'ló', 'tún', 'gbàdúrà', 'fún', 'wọn']",Yoruba
+"['Bá́kan', 'náà', 'ọ̀kan', 'nínú', 'àwọn', 'òṣèrébìnrin', 'ilẹ̀', 'wa', 'tó', 'tún', 'máa', 'ń', 'ya', 'fọ́tò', 'tó', 'súnmọ́', 'olóògbé', 'dáadáa', 'ti', 'sọ', 'ọ́', 'síta', 'ohun', 'tí', 'Ìbídùńní', 'bá', 'a', 'sọ', 'kẹ́yìn']",Yoruba
+"['Òǹkọrin', 'náà', 'táwọn', 'èèyàn', 'máa', 'ní', 'TY', 'Bello', 'ló', 'sọ', 'ọ́', 'lórí', 'ẹ̀rọ', 'ayélujára', 'rẹ̀', 'pé', 'Ìbídùńní', 'sì', 'bá', 'òun', 'sọ̀rọ̀', 'lóru', 'alẹ́', 'Sátidé', 'kó', 'tóó', 'di', 'pé', 'ó', 'kú', 'lọ́jọ́', 'Sánńdè']",Yoruba
+"['Bello', 'ní', 'lára', 'ohun', 'tí', 'Ìbídùńní', 'bá', 'òun', 'sọ', 'ni', 'pé', 'òun', 'kò', 'ṣetán', 'àti', 'ṣọjọ́ọ̀bí', 'alárinrin', 'kankan', 'ṣùgbọ́n', 'ohun', 'tó', 'ṣe', 'pàtàkì', 'sóun', 'ni', 'bóun', 'ṣe', 'máa', 'dun', 'àwọn', 'ogójì', 'mọ̀lẹ́bí', 'nínú', 'láti', 'sàmì', 'ayẹyẹ', 'ọjọ́ọ̀bí', 'ogójì', 'ọdún', 'òun']",Yoruba
+"['Lára', 'àwọn', 'oore', 'tí', 'Ìbídùńní', 'máa', 'ń', 'ṣe', 'nígbà', 'ayé', 'rẹ̀', 'ni', 'láti', 'ran', 'àwọn', 'obìnrin', 'tí', 'wọn', 'kò', 'tètè', 'bímọ', 'nílé', 'ọkọ', 'lọ́wọ́', 'ó', 'sì', 'ní', 'iléeṣẹ́', 'kan', 'tó', 'máa', 'ń', 'ṣe', 'agbátẹrù', 'ètò', 'náà', 'fún', 'àwọn', 'obìnrin', 'tó', 'kù', 'díẹ̀', 'káàtó', 'fún']",Yoruba
+"['Tinúbú', 'padà', 'dé', 'Sàràkí', 'ni', 'kò', 'sọ̀rọ̀', 'sókè', 'lórí', 'ètò', 'ààbò', 'ilẹ̀', 'Yorùbá', 'Ìròyìn', 'tó', 'ń', 'tẹ̀', 'wá', 'lọ́wọ́', 'fihàn', 'pé', 'Aṣíwájú', 'Bólá', 'Tinúbú', 'ti', 'padà', 'délé', 'sílùú', 'Èkó', 'láti', 'ìlú', 'òyìnbó', 'tó', 'ti', 'lọọ', 'gba', 'ìsinmi', 'ṣùgbọ́n', 'bí', 'wọ́n', 'ti', 'ń', 'wọlé', 'dé', 'náà', 'ni', 'adarí', 'iléègbìmọ̀', 'aṣòfin', 'àná', 'D́okítà', 'Bùkọ́lá', 'Sàràkí', 'náà', 'pe', 'òun', 'àtàwọn', 'olóṣèlú', 'ẹgbẹ́', 'rẹ̀', 'níjà', 'pé', 'kí', 'wọn', 'sọ̀rọ̀', 'sókè', 'lórí', 'rògbòdìyàn', 'ìjà', 'fúlàní', 'àtàwọn', 'Yorùbá', 'tó', 'ń', 'ṣẹlẹ̀', 'lọ́wọ́', 'níìpínlẹ̀', 'Ọ̀yọ́']",Yoruba
+"['Ìrọ̀lẹ́', 'òní', 'ni', 'ìròyìn', 'ṣẹ́yọ', 'pé', 'Tinúbú', 'dé', 'sílè', 'Nàíjíríà', 'láti', 'ìlú', 'òyìnbó', 'níbi', 'tó', 'ti', 'lọ', 'fún', 'ìsinmi']",Yoruba
+"['Bẹ́ẹ̀', 'ò', 'bá', 'gbàgbé', 'láìpẹ́', 'yìí', 'ni', 'Tinúbú', 'gba', 'ìlú', 'òyìnbó', 'lọ', 'fún', 'ìsinmi', 'lásìkò', 'náà', 'nìròyìn', 'jáde', 'pé', 'bàbá', 'náà', 'ti', 'kó', 'àrùn', 'Kòrónà', 'kó', 'tóó', 'di', 'pé', 'agbẹnusọ', 'rẹ̀', 'Túndé', 'Rahman', 'sọ', 'fáwọn', 'oníròyìn', 'pé', 'kò', 'sòótọ́', 'nínú', 'ọ̀rọ̀', 'náà', 'bàbá', 'kàn', 'lọ', 'fún', 'ìsinmi', 'ọlọ́dọọdún', 'tó', 'máa', 'ń', 'ṣe', 'ni']",Yoruba
+"['Látìgbà', 'náà', 'sì', 'ni', 'Tinúbú', 'ti', 'wà', 'nílùú', 'òyìnbó', 'ṣùgbọ́n', 'lónìí', 'ló', 'padà', 'dé', 'sí', 'pápákọ̀', 'òfurufú', 'ilẹ̀', 'wa', 'bẹ́ẹ̀', 'ló', 'sì', 'ti', 'wà', 'nínú', 'ilé', 'báyìí', 'tó', 'ti', 'ń', 'gba', 'àwọn', 'àlejò', 'lóríṣìíríṣìí', 'pàápàá', 'àwọn', 'àgbààgbà', 'nínú', 'ètò', 'òṣèlú']",Yoruba
+"['Ṣùgbọ́n', 'bí', 'Tinúbú', 'ti', 'ń', 'balẹ̀', 'sí', 'Náìjíríà', 'ní', 'Bùkọ́lá', 'Sàràkí', 'náà', 'fi', 'àtẹ̀jáde', 'kan', 'síta', 'níbi', 'tó', 'ti', 'sọ̀rọ̀', 'nípa', 'rògbòdìyàn', 'Fúlàní', 'àti', 'àwọn', 'Yorùbá', 'tó', 'ń', 'ṣẹlẹ̀', 'ní', 'Òkè', 'Ògùn', 'pàápàá', 'nínú', 'Ìgàngàn', 'níbi', 'tí', 'Sunday', 'Ìgbòho', 'ti', 'ní', 'káwọn', 'fúlàní', 'kẹ́ru', 'wọn', 'kúro', 'nílùú', 'náà']",Yoruba
+"['Bó', 'tiẹ̀', 'jẹ́', 'pé', 'Sàràkí', 'kò', 'dárúkọ', 'Tinúbú', 'gómìnà', 'ìpínlẹ̀', 'Kwara', 'tẹ́lẹ̀', 'náà', 'tọ́ka', 'sí', 'àwọn', 'èèyàn', 'ni', 'wọ́n', 'ń', 'fojú', 'sọ́nà', 'àti', 'dupò', 'ààrẹ', 'lọ́dún']",Yoruba
+"['Ó', 'ní', 'àsìkò', 'yìí', 'kì', 'í', 'ṣe', 'àsìkò', 'táwọn', 'olóṣèlú', 'pàápàá', 'àwọn', 'tó', 'ń', 'fojú', 'sọ́nà', 'fún', 'ọdún', 'láti', 'dupò', 'ààrẹ', 'gbọdọ̀', 'dákẹ́', 'ó', 'ní', 'kò', 'yẹ', 'kó', 'di', 'ọdún', 'kí', 'wọ́n', 'tóó', 'bẹ̀rẹ̀', 'sí', 'í', 'sọ̀rọ̀', 'nítorí', 'àsìkò', 'yìí', 'gan', 'an', 'làwọn', 'ọmọ', 'Nàíjíríà', 'ń', 'retí', 'wọn', 'láti', 'sọ', 'ohun', 'kan', 'nípa', 'ìṣẹ̀lẹ̀', 'náà', 'kí', 'àlááfíà', 'ba', 'à', 'lè', 'jọba']",Yoruba
+"['Bẹ́ẹ̀', 'ló', 'sì', 'tún', 'rọ', 'Ààrẹ', 'Muhammadu', 'Buhari', 'láti', 'pèpàdé', 'gbogbo', 'àwọn', 'alẹ́nulọ́rọ̀', 'nídìí', 'iṣẹ́', 'òṣèlú', 'àti', 'iṣẹ́ẹ̀jọba', 'pàápàá', 'àwọn', 'ààrẹ', 'àná', 'àwọn', 'adarí', 'iléègbìmọ̀', 'aṣòfin', 'àná', 'àtàwọn', 'ọ̀gá', 'ológun', 'tó', 'ti', 'ṣe', 'kọjá', 'pé', 'kó', 'bá', 'wọn', 'jíròòrò', 'lórí', 'bí', 'àlááfíà', 'yóò', 'ṣe', 'padà', 'sílẹ̀', 'wa', 'níbí']",Yoruba
+"['Ó', 'ṣeé', 'ṣe', 'kíjọba', 'fòfin', 'de', 'àwọn', 'tó', 'ń', 'ta', 'gáásì', 'ìdáná', 'l’Ékòó', 'Bó', 'tiẹ̀', 'jẹ́', 'pé', 'ìjọba', 'ìpínlẹ̀', 'Èkó', 'kò', 'tí', 'ì', 'sọ', 'pàtó', 'ohun', 'kàn', 'nípa', 'rẹ̀', 'ohun', 'tí', 'Àṣejèrè', 'ń', 'gbọ́', 'lọ́wọ́', 'yìí', 'ni', 'pé', 'ó', 'ṣeé', 'ṣe', 'kí', 'ìjọba', 'fòfin', 'de', 'títa', 'afẹ́fẹ́', 'gáàsì', 'ìdáná', 'láwọn', 'àdùgbò', 'níìpínlẹ̀', 'Èkó']",Yoruba
+"['Èyí', 'jẹyọ', 'nítorí', 'ìjàm̀bá', 'gáàsì', 'ìdáná', 'tó', 'páàyàn', 'márùn', 'ún', 'tó', 'sì', 'tún', 'ṣe', 'ọ̀pọ̀lọpọ̀', 'èèyàn', 'léṣe', 'ní', 'àgbègbè', 'Bàrúwá', 'ní', 'Ìpájà', 'l’Ékòó', 'láàárọ̀', 'òní']",Yoruba
+"['Gómìnà', 'Babájídé', 'Sanwó-Olú', 'nígbà', 'tó', 'ń', 'fi', 'ọ̀rọ̀', 'ìbánikẹ́dùn', 'rẹ̀', 'ránṣẹ́', 'láti', 'ọwọ́', 'akọ̀wé', 'ìròyìn', 'rẹ̀', 'Gbóyèga', 'Àkọṣílẹ', 'ó', 'sọ', 'pé', 'ìjọba', 'ti', 'ṣetán', 'láti', 'gbé', 'ìgbésẹ̀', 'tó', 'nípọn', 'lórí', 'àwọn', 'tó', 'ń', 'ṣòwò', 'gáàsì', 'ìdáná', 'kírú', 'ìjàmbá', 'bẹ́ẹ̀', 'máa', 'ba', 'à', 'ṣẹlẹ̀', 'lọ́jọ́', 'iwájú']",Yoruba
+"['Nígbà', 'tó', 'ń', 'sọ̀rọ̀', 'ìbánikẹ́dùn', 'náà', 'gómìnà', 'ní', 'òun', 'bá', 'àwọn', 'tó', 'pàdánù', 'ẹ̀mí', 'wọn', 'àtàwọn', 'tó', 'pàdánù', 'dúkìá', 'kẹ́dùn', 'ìṣẹ̀lẹ̀', 'náà', 'ó', 'ní', 'ìṣẹ̀lẹ̀', 'burúkú', 'tìjọba', 'òun', 'kò', 'le', 'gbàgbé', 'láéláé', 'ni']",Yoruba
+"['Àmọ́', 'ṣá', 'gbogbo', 'ìgbìyànjú', 'wa', 'láti', 'ba', 'àwọn', 'aláṣẹ', 'sọ̀rọ̀', 'lórí', 'ọ̀rọ̀', 'náà', 'ló', 'já', 'sí', 'pàbó', 'àtẹ̀jíṣẹ́', 'táa', 'fi', 'ránṣẹ́', 'sí', 'kọmíṣánnà', 'fún', 'ètò', 'ìròyìn', 'níìpínlẹ̀', 'Èkó', 'Gbénga', 'Ọmọ́tọ́ṣọ̀', 'ní', 'ọkùnrin', 'náà', 'kò', 'tí', 'ì', 'fèsì', 'sí', 'títí', 'di', 'àkókò', 'tí', 'a', 'ń', 'kọ', 'ìròyìn', 'yìí', 'ṣùgbọ́n', 'àwọn', 'tó', 'súnmọ́', 'ìjọba', 'sọ', 'pé', 'kò', 'dájú', 'pé', 'gómìnà', 'máa', 'fààyè', 'gba', 'àwọn', 'tó', 'ń', 'ṣiṣẹ́', 'títa', 'afẹ́fẹ́', 'gáàsì', 'ìdáná', 'láwọn', 'àdúgbò', 'láti', 'máa', 'ṣe', 'òwò', 'wọn', 'lọ', 'mọ́', 'nítorí', 'ìjàmbá', 'tí', 'kinní', 'ọ̀hún', 'ń', 'mú', 'wá']",Yoruba
+"['Nínú', 'ọ̀rọ̀', 'tiẹ̀', 'ṣá', 'Fẹ́mi', 'Òkè', 'Ọ̀sanyìntólú', 'tó', 'jẹ́', 'alákòóso', 'ìṣẹ̀lẹ̀', 'pàjáwìrì', 'l’Ékòó', 'sọ', 'pé', 'àwọn', 'márùn', 'ún', 'ló', 'pàdánù', 'ẹ̀mí', 'wọn', 'nínú', 'ìjàmbà', 'náà', 'ó', 'ní', 'èèyàn', 'mẹ́jọ', 'ló', 'wà', 'ní', 'ọsibítù', 'tí', 'wọ́n', 'ń', 'gba', 'ìtọ́jú', 'ní', 'Gbàgádà', 'ilé', 'mẹ́ẹ̀ẹ́dọ́gbọ̀n', 'ló', 'bá', 'ìṣẹ̀lẹ̀', 'náà', 'lọ', 'ṣọ́ọ̀bù', 'mẹ́rìndínlógún', 'ló', 'jóná', 'ráú', 'ráú', 'iléewé', 'àdáni', 'kàn', 'náà', 'lọ', 'sí', 'i', 'òtẹ́ẹ̀lì', 'kan', 'náà', 'jóná', 'ráú', 'bẹ́ẹ̀', 'ni', 'mọ́tò', 'mẹ́ta', 'fara', 'gbá', 'ìṣẹ̀lẹ̀', 'náà']",Yoruba
+"['Báà', 'ó', 'bá', 'ṣọ́ra', 'àwọn', 'Fúlàní', 'á', 'bẹ̀rẹ̀', 'sí', 'í', 'jí', 'àwọn', 'ọba', 'wa', 'gbé', 'Sunday', 'Ìgbòho', 'Ajìjàgbara', 'ọmọ', 'Yorùbá', 'tíròyìn', 'rẹ̀', 'ń', 'kàn', 'lọ́wọ́', 'lórí', 'ọ̀rọ̀', 'àwọn', 'fúlàní', 'àti', 'ìlú', 'Ìgàngàn', 'nílẹ̀', 'Òkè', 'Ògùn', 'ńìpínlẹ̀', 'Ọ̀yọ́', 'Olóyè', 'Sunday', 'Adéyẹmọ', 'táwọn', 'èèyàn', 'ń', 'pè', 'ní', 'Sunday', 'Ìgbòho', 'ti', 'pàrokò', 'ránṣẹ́', 'sáwọn', 'ọlọ́pàá', 'ṣá']",Yoruba
